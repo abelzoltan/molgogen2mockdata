@@ -1,4 +1,1 @@
-{
-	"mockTestGetDataField1": "field1ValueForUser1",
-	"mockTestGetDataField2": "field2ValueForUser1"
-}
+{"mockTestGetDataField1":"field1ValueForUser1","mockTestGetDataField2":"field2ValueForUser1"}
