@@ -2,5 +2,5 @@
 	"id":"1",
 	"firstName":"TestCustomer",
 	"lastName":"TestLastName",
-	"dateOfBirth":425298184000
+	"dateOfBirth":"425298184000"
 }
