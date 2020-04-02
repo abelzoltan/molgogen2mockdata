@@ -1,5 +1,6 @@
 {
 	"id":"1",
 	"firstName":"TestCustomer",
-	"lastName":"TestLastName"
+	"lastName":"TestLastName",
+	"dateOfBirth":425298184000
 }
