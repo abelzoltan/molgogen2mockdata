@@ -1,1 +1,5 @@
-{"id":"1","firstName":"TestCustomer","lastName":"TestLastName"}
+{
+"id":"1",
+"firstName":"TestCustomer",
+"lastName":"TestLastName"
+}
