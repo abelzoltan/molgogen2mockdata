@@ -1,0 +1,13 @@
+{
+	"id":"1",
+	"cardNumber":"1234567890123456",
+	"firstName":"TestFirstName",
+	"lastName":"TestLastName",
+	"tier":"BLUE",
+	"points": "1050",
+	"country": "HR",
+	"email": "testcustomer@gmail.com",
+	"gender": "Male",
+	"registrationType": "MOL_GO_App",
+	"status": "Active"
+}
