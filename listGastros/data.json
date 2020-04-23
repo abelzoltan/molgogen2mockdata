@@ -1,0 +1,50 @@
+[
+    {
+        "id": "3",
+        "name": "Fresh Corner"
+    },
+    {
+        "id": "20",
+        "name": "Marché"
+    },
+    {
+        "id": "10",
+        "name": "Cafe stand alone"
+    },
+    {
+        "id": "1",
+        "name": "Non Fresh corner"
+    },
+    {
+        "id": "6",
+        "name": "Outsource"
+    },
+    {
+        "id": "19",
+        "name": "Non-Fresh Corner – Zero"
+    },
+    {
+        "id": "17",
+        "name": "Non-Fresh Corner - Full"
+    },
+    {
+        "id": "18",
+        "name": "Non-Fresh Corner - Mid"
+    },
+    {
+        "id": "15",
+        "name": "Fresh Corner-Mid"
+    },
+    {
+        "id": "8",
+        "name": "None"
+    },
+    {
+        "id": "16",
+        "name": "Fresh Corner-Zero"
+    },
+    {
+        "id": "14",
+        "name": "Fresh Corner-Full"
+    }
+]

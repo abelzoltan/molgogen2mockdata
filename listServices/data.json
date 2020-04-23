@@ -1,0 +1,294 @@
+[
+    {
+        "id": "36",
+        "name": "Palackos PB-GÁZ"
+    },
+    {
+        "id": "33",
+        "name": "Szlovén autópálya matrica"
+    },
+    {
+        "id": "34",
+        "name": "Szlovák autópálya matrica"
+    },
+    {
+        "id": "39",
+        "name": "Használt sütőolaj visszagyűjtés"
+    },
+    {
+        "id": "37",
+        "name": "Román autóút matrica"
+    },
+    {
+        "id": "38",
+        "name": "bringaPONT"
+    },
+    {
+        "id": "43",
+        "name": "Bringa mosási lehetőség"
+    },
+    {
+        "id": "42",
+        "name": "Bringa pihenő"
+    },
+    {
+        "id": "41",
+        "name": "Bringás termék"
+    },
+    {
+        "id": "40",
+        "name": "EURO elfogadás"
+    },
+    {
+        "id": "86",
+        "name": "Kutyabarát"
+    },
+    {
+        "id": "67",
+        "name": "Üdítők / soft drinks"
+    },
+    {
+        "id": "66",
+        "name": "Hot dog"
+    },
+    {
+        "id": "69",
+        "name": "Kutya chip leolvasó hely (ingyenes)"
+    },
+    {
+        "id": "68",
+        "name": "Fresh Coffee TO GO"
+    },
+    {
+        "id": "22",
+        "name": "Tankoló automata"
+    },
+    {
+        "id": "23",
+        "name": "Mozgássérült WC"
+    },
+    {
+        "id": "24",
+        "name": "Akkumulátor átvétel"
+    },
+    {
+        "id": "25",
+        "name": "Fáradt olaj átvétel"
+    },
+    {
+        "id": "26",
+        "name": "Kenőanyagok"
+    },
+    {
+        "id": "27",
+        "name": "Internet (wi-fi)"
+    },
+    {
+        "id": "29",
+        "name": "Játszótér"
+    },
+    {
+        "id": "3",
+        "name": "Étterem"
+    },
+    {
+        "id": "2",
+        "name": "Shop"
+    },
+    {
+        "id": "7",
+        "name": "Védőgázos szendvics"
+    },
+    {
+        "id": "30",
+        "name": "Pénzváltás"
+    },
+    {
+        "id": "6",
+        "name": "Bár"
+    },
+    {
+        "id": "32",
+        "name": "Magyar autópálya matrica"
+    },
+    {
+        "id": "5",
+        "name": "Kávézó sarok"
+    },
+    {
+        "id": "4",
+        "name": "Étterem (Marche)"
+    },
+    {
+        "id": "31",
+        "name": "Osztrák autópálya matrica"
+    },
+    {
+        "id": "71",
+        "name": "Hamburger"
+    },
+    {
+        "id": "9",
+        "name": "Pékség"
+    },
+    {
+        "id": "72",
+        "name": "kávé"
+    },
+    {
+        "id": "8",
+        "name": "Friss szendvics"
+    },
+    {
+        "id": "73",
+        "name": "1 elektromos töltő berendezés"
+    },
+    {
+        "id": "58",
+        "name": "Defibrillator - AED"
+    },
+    {
+        "id": "57",
+        "name": "Truck friendly"
+    },
+    {
+        "id": "56",
+        "name": "Elektromos autó töltő"
+    },
+    {
+        "id": "55",
+        "name": "Napi bevásárlás"
+    },
+    {
+        "id": "17",
+        "name": "Kárpit tisztító"
+    },
+    {
+        "id": "18",
+        "name": "Szerencsejáték"
+    },
+    {
+        "id": "15",
+        "name": "Hűtőfolyadék ellenőrzés"
+    },
+    {
+        "id": "16",
+        "name": "Levegő, kompresszor"
+    },
+    {
+        "id": "13",
+        "name": "Gépi autómosó"
+    },
+    {
+        "id": "14",
+        "name": "Kézi autómosó"
+    },
+    {
+        "id": "11",
+        "name": "Kávégép"
+    },
+    {
+        "id": "12",
+        "name": "Porszívó"
+    },
+    {
+        "id": "21",
+        "name": "Biztosítás"
+    },
+    {
+        "id": "20",
+        "name": "Gyógyszer"
+    },
+    {
+        "id": "64",
+        "name": "Screenwash via dispenser"
+    },
+    {
+        "id": "65",
+        "name": "Fresh Corner Drive"
+    },
+    {
+        "id": "62",
+        "name": "Business Lounge"
+    },
+    {
+        "id": "63",
+        "name": "Dog Wash"
+    },
+    {
+        "id": "60",
+        "name": "Fresh Corner"
+    },
+    {
+        "id": "61",
+        "name": "AdBlue in canister"
+    },
+    {
+        "id": "49",
+        "name": "Nagyteljesítményű kútoszlop"
+    },
+    {
+        "id": "48",
+        "name": "Helyi termékek és kézműves élelmiszerek"
+    },
+    {
+        "id": "45",
+        "name": "Friss gyümölcslé"
+    },
+    {
+        "id": "93",
+        "name": "Barbecue"
+    },
+    {
+        "id": "44",
+        "name": "Bringás szerszámkészlet, pumpafej"
+    },
+    {
+        "id": "47",
+        "name": "Családi fitnesz park és kutyafuttató"
+    },
+    {
+        "id": "91",
+        "name": "Leves"
+    },
+    {
+        "id": "46",
+        "name": "PostaPont"
+    },
+    {
+        "id": "90",
+        "name": "ENP"
+    },
+    {
+        "id": "10",
+        "name": "Friss kávé"
+    },
+    {
+        "id": "51",
+        "name": "Tusoló"
+    },
+    {
+        "id": "52",
+        "name": "Útdíj terminál"
+    },
+    {
+        "id": "53",
+        "name": "Behajtási lehetőség mindkét irányból"
+    },
+    {
+        "id": "54",
+        "name": "Pick Pack Pont"
+    },
+    {
+        "id": "88",
+        "name": "Szendvics"
+    },
+    {
+        "id": "89",
+        "name": "Pelenkázó"
+    },
+    {
+        "id": "50",
+        "name": "Kamion parkoló"
+    }
+]

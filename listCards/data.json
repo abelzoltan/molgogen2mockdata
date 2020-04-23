@@ -1,0 +1,406 @@
+[
+    {
+        "id": "79",
+        "name": "Gold Card Romania"
+    },
+    {
+        "id": "78",
+        "name": "Gold Card Hungary"
+    },
+    {
+        "id": "77",
+        "name": "Gold Card Slovakia"
+    },
+    {
+        "id": "111",
+        "name": "Total - Eurotrafic card"
+    },
+    {
+        "id": "36",
+        "name": "Benzina Card"
+    },
+    {
+        "id": "39",
+        "name": "Multibonus Card"
+    },
+    {
+        "id": "37",
+        "name": "Fleet Card IT"
+    },
+    {
+        "id": "38",
+        "name": "MOL Loyalty Card HU"
+    },
+    {
+        "id": "43",
+        "name": "MOL Green Card RO"
+    },
+    {
+        "id": "41",
+        "name": "Multipont Card HU"
+    },
+    {
+        "id": "82",
+        "name": "Gold Card Bosnia-Herzegovina"
+    },
+    {
+        "id": "83",
+        "name": "Gold Card Serbia"
+    },
+    {
+        "id": "80",
+        "name": "Gold Card Slovenia"
+    },
+    {
+        "id": "81",
+        "name": "Gold Card Croatia"
+    },
+    {
+        "id": "86",
+        "name": "Gift Card Hungary"
+    },
+    {
+        "id": "87",
+        "name": "Gift Card Romania"
+    },
+    {
+        "id": "84",
+        "name": "Gift Card Czech Republic"
+    },
+    {
+        "id": "85",
+        "name": "Gift Card Slovakia"
+    },
+    {
+        "id": "67",
+        "name": "MOL Red Card SLO"
+    },
+    {
+        "id": "66",
+        "name": "MOL Silver Card SLO"
+    },
+    {
+        "id": "69",
+        "name": "EURO WAG"
+    },
+    {
+        "id": "68",
+        "name": "EURO OIL"
+    },
+    {
+        "id": "22",
+        "name": "MOL Silver Card HU"
+    },
+    {
+        "id": "23",
+        "name": "MOL Silver Card RO"
+    },
+    {
+        "id": "24",
+        "name": "Slovnaft Silver Card SK"
+    },
+    {
+        "id": "25",
+        "name": "MOL Silver Card AT"
+    },
+    {
+        "id": "26",
+        "name": "Tifon Silver Card HR"
+    },
+    {
+        "id": "27",
+        "name": "MOL Red Card HU"
+    },
+    {
+        "id": "28",
+        "name": "MOL Employee Card HU"
+    },
+    {
+        "id": "29",
+        "name": "Slovnaft Red Card SK"
+    },
+    {
+        "id": "3",
+        "name": "VISA"
+    },
+    {
+        "id": "2",
+        "name": "UTA Card"
+    },
+    {
+        "id": "1",
+        "name": "DKV Card"
+    },
+    {
+        "id": "7",
+        "name": "AMEX"
+    },
+    {
+        "id": "30",
+        "name": "MOL Green Card HU"
+    },
+    {
+        "id": "6",
+        "name": "Maestro"
+    },
+    {
+        "id": "32",
+        "name": "INA Card"
+    },
+    {
+        "id": "5",
+        "name": "Eurocard/ Mastercard"
+    },
+    {
+        "id": "31",
+        "name": "MOL Blue Card HU"
+    },
+    {
+        "id": "4",
+        "name": "VISA Electron"
+    },
+    {
+        "id": "70",
+        "name": "Smart Diesel"
+    },
+    {
+        "id": "71",
+        "name": "AS24"
+    },
+    {
+        "id": "9",
+        "name": "Cirrus/ Maestro"
+    },
+    {
+        "id": "72",
+        "name": "IDS"
+    },
+    {
+        "id": "8",
+        "name": "MasterCard Electronic"
+    },
+    {
+        "id": "73",
+        "name": "Vemex CNG"
+    },
+    {
+        "id": "74",
+        "name": "FUELO MAT"
+    },
+    {
+        "id": "75",
+        "name": "Gold Card Europe"
+    },
+    {
+        "id": "76",
+        "name": "Gold Card Czech Republic"
+    },
+    {
+        "id": "59",
+        "name": "Energopetrol Green Card BiH"
+    },
+    {
+        "id": "58",
+        "name": "MOL Green Card SLO"
+    },
+    {
+        "id": "57",
+        "name": "MOL Green Card SRB"
+    },
+    {
+        "id": "19",
+        "name": "MOL Gold Card RO"
+    },
+    {
+        "id": "56",
+        "name": "Tifon Green Card HR"
+    },
+    {
+        "id": "55",
+        "name": "MOL Gold Card CZ"
+    },
+    {
+        "id": "17",
+        "name": "MOL Gold Card HU"
+    },
+    {
+        "id": "18",
+        "name": "Slovnaft Gold Card SK"
+    },
+    {
+        "id": "15",
+        "name": "CCS Card"
+    },
+    {
+        "id": "16",
+        "name": "VPay"
+    },
+    {
+        "id": "13",
+        "name": "BA Card"
+    },
+    {
+        "id": "14",
+        "name": "Karanta Card"
+    },
+    {
+        "id": "11",
+        "name": "Diners"
+    },
+    {
+        "id": "12",
+        "name": "Activa Card"
+    },
+    {
+        "id": "21",
+        "name": "MOL Gold Card SLO"
+    },
+    {
+        "id": "20",
+        "name": "MOL Gold Card SRB"
+    },
+    {
+        "id": "109",
+        "name": "AS 24 Eurotrafic Card"
+    },
+    {
+        "id": "108",
+        "name": "DINA"
+    },
+    {
+        "id": "107",
+        "name": "MOL GROUP GOLD EUROPE "
+    },
+    {
+        "id": "64",
+        "name": "DIESEL24"
+    },
+    {
+        "id": "106",
+        "name": "Yellow card"
+    },
+    {
+        "id": "105",
+        "name": "Gold Card Europe Employee"
+    },
+    {
+        "id": "65",
+        "name": "Morgan Fuels"
+    },
+    {
+        "id": "104",
+        "name": "Gold Card Slovakia Employee"
+    },
+    {
+        "id": "62",
+        "name": "E100 Card"
+    },
+    {
+        "id": "103",
+        "name": "Gold Card Serbia Prepaid"
+    },
+    {
+        "id": "102",
+        "name": "Gold Card Bosnia-Herzegovina Prepaid"
+    },
+    {
+        "id": "60",
+        "name": "Slovnaft Blue Card SK"
+    },
+    {
+        "id": "99",
+        "name": "Gold Card Romania Prepaid"
+    },
+    {
+        "id": "101",
+        "name": "Gold Card Croatia Prepaid"
+    },
+    {
+        "id": "61",
+        "name": "MOL Silver Card CZ"
+    },
+    {
+        "id": "100",
+        "name": "Gold Card Slovenia Prepaid"
+    },
+    {
+        "id": "98",
+        "name": "Gold Card Hungary Prepaid"
+    },
+    {
+        "id": "49",
+        "name": "MOL RED Card RO"
+    },
+    {
+        "id": "97",
+        "name": "Gold Card Slovakia Prepaid"
+    },
+    {
+        "id": "48",
+        "name": "Tifon Gold Card HR"
+    },
+    {
+        "id": "96",
+        "name": "Gold Card Czech Republic Prepaid"
+    },
+    {
+        "id": "95",
+        "name": "Partner Card Serbia"
+    },
+    {
+        "id": "94",
+        "name": "Partner Card Bosnia-Herzegovina"
+    },
+    {
+        "id": "45",
+        "name": "Euroshell card"
+    },
+    {
+        "id": "93",
+        "name": "Partner Card Croatia"
+    },
+    {
+        "id": "44",
+        "name": "Slovnaft Green Card SK"
+    },
+    {
+        "id": "92",
+        "name": "Partner Card Romania"
+    },
+    {
+        "id": "47",
+        "name": "MOL Gold Card AT"
+    },
+    {
+        "id": "91",
+        "name": "Partner Card Hungary"
+    },
+    {
+        "id": "90",
+        "name": "Partner Card Slovakia"
+    },
+    {
+        "id": "10",
+        "name": "ZBK Card"
+    },
+    {
+        "id": "51",
+        "name": "Discover"
+    },
+    {
+        "id": "52",
+        "name": "MOL Blue Card RO"
+    },
+    {
+        "id": "53",
+        "name": "CARTAMAXIMA"
+    },
+    {
+        "id": "88",
+        "name": "Gift Card Croatia"
+    },
+    {
+        "id": "50",
+        "name": "Energopetrol Gold Card BiH"
+    }
+]
