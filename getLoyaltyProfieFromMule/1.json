@@ -30,7 +30,22 @@
 	      "applicability": 1,
 	      "calculationMethod": "PROC",
 	      "rewardValue": 1,
-	      "ERPReportingId": "asdqweqwe"
+	      "ERPReportingId": "asdqweqwe",
+	      "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
+	    },
+	    {
+	      "rewardType": "TIER",
+	      "rewardId": "lllllllllll",
+	      "productCode": "474757567567",
+	      "productName": "Örök élet",
+	      "productGroupName": "Örök cuccok",
+	      "productGroupCode": "OROK",
+	      "applicationType": "ITEM",
+	      "applicability": -1,
+	      "calculationMethod": "PROC",
+	      "rewardValue": 1,
+	      "ERPReportingId": "asdqweqwe",
+	      "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg"
 	    }
 	],
 	"coupons": [
@@ -43,9 +58,24 @@
 	      "productGroupCode": "SOROK",
 	      "applicationType": "ITEM",
 	      "applicability": 0,
-	      "calculationMethod": "PROC",
+	      "calculationMethod": "FIXD",
 	      "rewardValue": 1,
-	      "ERPReportingId": "7777777777"
+	      "ERPReportingId": "7777777777",
+	      "imageUrl": "https://www.eshop24.hu/custom/ctcszorakoztato/image/cache/w0h0q80np1/blog/k%C3%A1v%C3%A9/k%C3%A1v%C3%A9.jpg"
+	    },
+	    {
+	      "rewardType": "COUPON",
+	      "rewardId": "22222222222",
+	      "productCode": "333333333333",
+	      "productName": "Egyszeri ingyen keréknyomás ellenőrzés",
+	      "productGroupName": "Egyszeri ingyenes cuccok",
+	      "productGroupCode": "EI",
+	      "applicationType": "ITEM",
+	      "applicability": 1,
+	      "calculationMethod": "FIXP",
+	      "rewardValue": 2,
+	      "ERPReportingId": "999898989898",
+	      "imageUrl": "https://mitevo.com/blog/images/0kave.jpg"
 	    }
   	],
   	"extendedAttributes": [
