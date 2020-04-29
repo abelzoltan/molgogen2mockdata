@@ -1,13 +1,57 @@
 {
 	"id":"1",
-	"cardNumber":"1234567890123456",
 	"firstName":"TestFirstName",
 	"lastName":"TestLastName",
-	"tier":"BLUE",
-	"points": "1050",
+	"tier": {
+	    "currentTier": "GOLD",
+	    "nextTier": "VIP",
+	    "previousTier": "SILVER",
+	    "tierEntranceDate": "2020-02-1 3:00 PM GMT+1:00",
+	    "tierExpirationDate": "2020-10-1 3:00 PM GMT+1:00"
+  	},
+	"points": {
+	    "currentPoints": 1050,
+	    "pointsToNextTier": 450
+	},
 	"country": "HR",
 	"email": "testcustomer@gmail.com",
 	"gender": "Male",
 	"registrationType": "MOL_GO_App",
-	"status": "Active"
+	"status": "Active",
+	"tierRewards": [
+	    {
+	      "rewardType": "TIER",
+	      "rewardId": "sdhqiweh",
+	      "productCode": "qewrwrtwrt",
+	      "productName": "Ingyen csoki",
+	      "productGroupName": "Csokik",
+	      "productGroupCode": "CSOKIKA",
+	      "applicationType": "ITEM",
+	      "applicability": 1,
+	      "calculationMethod": "PROC",
+	      "rewardValue": 1,
+	      "ERPReportingId": "asdqweqwe"
+	    }
+	],
+	"coupons": [
+	    {
+	      "rewardType": "COUPON",
+	      "rewardId": "11111111111",
+	      "productCode": "22222222222",
+	      "productName": "Egyszeri ingyen sör",
+	      "productGroupName": "Sörök",
+	      "productGroupCode": "SOROK",
+	      "applicationType": "ITEM",
+	      "applicability": 0,
+	      "calculationMethod": "PROC",
+	      "rewardValue": 1,
+	      "ERPReportingId": "7777777777"
+	    }
+  	],
+  	"extendedAttributes": [
+	    {
+	      "key": "77788888",
+	      "value": "jjjjjjj"
+	    }
+  	]
 }
