@@ -6,8 +6,8 @@
 	    "currentTier": "GOLD",
 	    "nextTier": "VIP",
 	    "previousTier": "SILVER",
-	    "tierEntranceDate": "1588149641",
-	    "tierExpirationDate": "1619685641"
+	    "tierEntranceDate": "1588149641000",
+	    "tierExpirationDate": "1619685641000"
   	},
 	"points": {
 	    "currentPoints": 1050,
