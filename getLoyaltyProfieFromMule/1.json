@@ -6,8 +6,8 @@
 	    "currentTier": "GOLD",
 	    "nextTier": "VIP",
 	    "previousTier": "SILVER",
-	    "tierEntranceDate": "2020-02-1 3:00 PM GMT+1:00",
-	    "tierExpirationDate": "2020-10-1 3:00 PM GMT+1:00"
+	    "tierEntranceDate": "1588149641",
+	    "tierExpirationDate": "1619685641"
   	},
 	"points": {
 	    "currentPoints": 1050,
