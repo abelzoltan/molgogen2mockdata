@@ -3,15 +3,18 @@
 	"firstName":"TestFirstName",
 	"lastName":"TestLastName",
 	"tier": {
-	    "currentTier": "GOLD",
-	    "nextTier": "VIP",
-	    "previousTier": "SILVER",
+	    "currentTier": "silver",
+	    "nextTier": "gold",
+	    "previousTier": "blue",
 	    "tierEntranceDate": "1588149641000",
 	    "tierExpirationDate": "1619685641000"
   	},
 	"points": {
-	    "currentPoints": 1050,
-	    "pointsToNextTier": 450
+	    "currentPoints": 650,
+	    "pointsToNextTier": 8350,
+	    "pointsTosecurePreviousTier": 3000,
+	    "pointsTosecureCurrentTier": 5000
+
 	},
 	"country": "HR",
 	"email": "testcustomer@gmail.com",
