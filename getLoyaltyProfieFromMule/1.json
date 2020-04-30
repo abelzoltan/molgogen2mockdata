@@ -10,8 +10,8 @@
 	    "tierExpirationDate": "1619685641000"
   	},
 	"points": {
-	    "currentPoints": 650,
-	    "pointsToNextTier": 8350,
+	    "currentPoints": 5500,
+	    "pointsToNextTier": 3500,
 	    "pointsTosecurePreviousTier": 3000,
 	    "pointsTosecureCurrentTier": 5000
 	},
