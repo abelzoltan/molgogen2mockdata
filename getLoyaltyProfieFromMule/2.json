@@ -1,13 +1,89 @@
 {
-	"id":"2",
-	"cardNumber":"655489486106541894",
-	"firstName":"TestFirstName2",
-	"lastName":"TestLastName2",
-	"tier":"SILVER",
-	"points": "2431",
+	"id":"1",
+	"firstName":"TestFirstName",
+	"lastName":"TestLastName",
+	"tier": {
+	    "currentTier": "SILVER",
+	    "nextTier": "GOLD",
+	    "previousTier": "BLUE",
+	    "tierEntranceDate": "1579093330000",
+	    "tierExpirationDate": "1619685641000"
+  	},
+	"points": {
+	    "currentPoints": 650,
+	    "pointsToNextTier": 8350,
+	    "pointsTosecurePreviousTier": 3000,
+	    "pointsTosecureCurrentTier": 5000
+	},
 	"country": "HR",
-	"email": "testcustomer2@gmail.com",
-	"gender": "Female",
+	"email": "testcustomer@gmail.com",
+	"gender": "Male",
 	"registrationType": "MOL_GO_App",
-	"status": "Verified"
+	"status": "Active",
+	"tierRewards": [
+	    {
+	      "rewardType": "TIER",
+	      "rewardId": "sdhqiweh",
+	      "productCode": "qewrwrtwrt",
+	      "productName": "Ingyen csoki",
+	      "productGroupName": "Csokik",
+	      "productGroupCode": "CSOKIKA",
+	      "applicationType": "ITEM",
+	      "applicability": 1,
+	      "calculationMethod": "PROC",
+	      "rewardValue": 1,
+	      "ERPReportingId": "asdqweqwe",
+	      "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
+	    },
+	    {
+	      "rewardType": "TIER",
+	      "rewardId": "lllllllllll",
+	      "productCode": "474757567567",
+	      "productName": "Örök élet",
+	      "productGroupName": "Örök cuccok",
+	      "productGroupCode": "OROK",
+	      "applicationType": "ITEM",
+	      "applicability": -1,
+	      "calculationMethod": "PROC",
+	      "rewardValue": 1,
+	      "ERPReportingId": "asdqweqwe",
+	      "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg"
+	    }
+	],
+	"coupons": [
+	    {
+	      "rewardType": "COUPON",
+	      "rewardId": "11111111111",
+	      "productCode": "22222222222",
+	      "productName": "Egyszeri ingyen sör",
+	      "productGroupName": "Sörök",
+	      "productGroupCode": "SOROK",
+	      "applicationType": "ITEM",
+	      "applicability": 0,
+	      "calculationMethod": "FIXD",
+	      "rewardValue": 1,
+	      "ERPReportingId": "7777777777",
+	      "imageUrl": "https://www.eshop24.hu/custom/ctcszorakoztato/image/cache/w0h0q80np1/blog/k%C3%A1v%C3%A9/k%C3%A1v%C3%A9.jpg"
+	    },
+	    {
+	      "rewardType": "COUPON",
+	      "rewardId": "22222222222",
+	      "productCode": "333333333333",
+	      "productName": "Egyszeri ingyen keréknyomás ellenőrzés",
+	      "productGroupName": "Egyszeri ingyenes cuccok",
+	      "productGroupCode": "EI",
+	      "applicationType": "ITEM",
+	      "applicability": 1,
+	      "calculationMethod": "FIXP",
+	      "rewardValue": 2,
+	      "ERPReportingId": "999898989898",
+	      "imageUrl": "https://mitevo.com/blog/images/0kave.jpg"
+	    }
+  	],
+  	"extendedAttributes": [
+	    {
+	      "key": "77788888",
+	      "value": "jjjjjjj"
+	    }
+  	]
 }
