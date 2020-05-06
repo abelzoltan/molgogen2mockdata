@@ -1,0 +1,16 @@
+{
+  "activityDetails": [
+    {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T11:46:19Z",
+      "expireDate": "2021-05-06T11:46:19Z"
+    }
+  ],
+  "pages": 0,
+  "currentPage": 0
+}
