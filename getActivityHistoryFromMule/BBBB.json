@@ -9,6 +9,86 @@
       "displayText": "Fuel discount",
       "createDate": "2020-05-06T15:46:19-0700",
       "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
+    },
+        {
+      "actionId": "You used a coupon",
+      "customId": "AAAAAAAAA",
+      "rewardId": "BBBBBBBBBB",
+      "activity": "DEBIT",
+      "amount": 5,
+      "displayText": "Fuel discount",
+      "createDate": "2020-05-06T15:46:19-0700",
+      "expireDate": "2021-05-06T15:46:19-0700"
     }
   ],
   "pages": 0,
