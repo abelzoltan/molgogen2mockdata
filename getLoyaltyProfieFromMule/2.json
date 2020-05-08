@@ -10,8 +10,8 @@
 	    "tierExpirationDate": "1619685641000"
   	},
 	"points": {
-	    "currentPoints": 650,
-	    "pointsToNextTier": 8350,
+	    "currentPoints": 5500,
+	    "pointsToNextTier": 3500,
 	    "pointsTosecurePreviousTier": 3000,
 	    "pointsTosecureCurrentTier": 5000
 	},
@@ -25,7 +25,7 @@
 	      "rewardType": "TIER",
 	      "rewardId": "sdhqiweh",
 	      "productCode": "qewrwrtwrt",
-	      "productName": "Ingyen csoki",
+	      "productName": "Free chocholate",
 	      "productGroupName": "Csokik",
 	      "productGroupCode": "CSOKIKA",
 	      "applicationType": "ITEM",
@@ -40,7 +40,7 @@
 	      "rewardType": "TIER",
 	      "rewardId": "lllllllllll",
 	      "productCode": "474757567567",
-	      "productName": "Örök élet",
+	      "productName": "Infinit life",
 	      "productGroupName": "Örök cuccok",
 	      "productGroupCode": "OROK",
 	      "applicationType": "ITEM",
@@ -49,7 +49,7 @@
 	      "rewardValue": 1,
 	      "ERPReportingId": "asdqweqwe",
 	      "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg",
-	      "available": "false"
+	      "available": "true"
 	    }
 	],
 	"coupons": [
@@ -57,7 +57,7 @@
 	      "rewardType": "COUPON",
 	      "rewardId": "11111111111",
 	      "productCode": "22222222222",
-	      "productName": "Egyszeri ingyen sör",
+	      "productName": "Free beer",
 	      "productGroupName": "Sörök",
 	      "productGroupCode": "SOROK",
 	      "applicationType": "ITEM",
@@ -66,13 +66,13 @@
 	      "rewardValue": 1,
 	      "ERPReportingId": "7777777777",
 	      "imageUrl": "https://www.eshop24.hu/custom/ctcszorakoztato/image/cache/w0h0q80np1/blog/k%C3%A1v%C3%A9/k%C3%A1v%C3%A9.jpg",
-	      "available": "false"
+	      "available": "true"
 	    },
 	    {
 	      "rewardType": "COUPON",
 	      "rewardId": "22222222222",
 	      "productCode": "333333333333",
-	      "productName": "Egyszeri ingyen keréknyomás ellenőrzés",
+	      "productName": "One time free wine",
 	      "productGroupName": "Egyszeri ingyenes cuccok",
 	      "productGroupCode": "EI",
 	      "applicationType": "ITEM",
@@ -81,7 +81,7 @@
 	      "rewardValue": 2,
 	      "ERPReportingId": "999898989898",
 	      "imageUrl": "https://mitevo.com/blog/images/0kave.jpg",
-	      "available": "true"
+	      "available": "false"
 	    }
   	],
   	"extendedAttributes": [
