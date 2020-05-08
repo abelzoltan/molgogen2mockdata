@@ -93,7 +93,7 @@
 	      "applicationType": "ITEM",
 	      "applicability": 1,
 	      "calculationMethod": "FIXP",
-	      "rewardValue": 2,
+	      "rewardValue": 15,
 	      "ERPReportingId": "999898989898",
 	      "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg",
 	      "available": "true"
@@ -108,7 +108,7 @@
 	      "applicationType": "ITEM",
 	      "applicability": 1,
 	      "calculationMethod": "FIXP",
-	      "rewardValue": 2,
+	      "rewardValue": 40,
 	      "ERPReportingId": "999898989898",
 	      "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg",
 	      "available": "false"
@@ -123,7 +123,7 @@
 	      "applicationType": "ITEM",
 	      "applicability": 1,
 	      "calculationMethod": "FIXP",
-	      "rewardValue": 2,
+	      "rewardValue": 56,
 	      "ERPReportingId": "999898989898",
 	      "imageUrl": "https://cdn.slashgear.com/wp-content/uploads/2019/03/hot-tea-1280x720.jpg",
 	      "available": "false"
@@ -138,9 +138,9 @@
 	      "applicationType": "ITEM",
 	      "applicability": 1,
 	      "calculationMethod": "FIXP",
-	      "rewardValue": 2,
+	      "rewardValue": 7,
 	      "ERPReportingId": "999898989898",
-	      "imageUrl": "https://sugarfreelondoner.com/wp-content/uploads/2019/05/sugar-free-milk-chocolate.jpg",
+	      "imageUrl": "https://kgmi.com/wp-content/plugins/share-multisite-content/public/share-image.php?guid=http%3A%2F%2Fkgmi-am.sagacom.com%2Fwp-content%2Fblogs.dir%2F70%2Ffiles%2F2016%2F02%2Fchocolate.jpg&size=1200x768",
 	      "available": "false"
 	    }
   	],
