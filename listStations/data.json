@@ -1,289 +1,576 @@
 [
-    {
-        "language": "EN",
-        "code": "1020/91056",
-        "company": "MOL Romania",
-        "brand": "MOL",
-        "shopSize": 110,
-        "numOfFillPos": 6,
-        "numOfPos": 2,
-        "openDate": "2004-02-16",
-        "opPlatform": "CODO",
-        "country": {
-            "values": [
-                {
-                    "code": "10",
-                    "text": "Romania"
-                }
-            ]
-        },
-        "counry": {
-            "values": [
-                {
-                    "code": "100",
-                    "text": "Giurgiu"
-                }
-            ]
-        },
-        "postcode": "080309",
-        "city": "Giurgiu",
-        "city_hu": "Giurgiu",
-        "address": "Bulevardul București 152",
-        "name": "Giurgiu - Bucurestiului",
-        "phoneNum": "+40371000124",
-        "mobileNum": "",
-        "faxNum": "40 246 210 621",
-        "gpsPosition": {
-            "latitude": 43.9142,
-            "longitude": 25.97213
-        },
-        "openedHours": {
-            "openedSummerWeekDay": "00:00-24:00",
-            "openedSummerSaturday": "00:00-24:00",
-            "openedSummerSunday": "00:00-24:00",
-            "openedWinterWeekDay": "00:00-24:00",
-            "openedWinterSaturday": "00:00-24:00",
-            "openedWinterSunday": "00:00-24:00",
-            "openedShop": "",
-            "openedCafeeShop": "",
-            "openedCarWash": "",
-            "woStaff": "",
-            "winterToSummerDate": "",
-            "summerToWinterDate": "",
-            "fsOpenDate": "",
-            "opPlatform": ""
-        },
-        "services": {
-            "values": [
-                {
-                    "code": "2",
-                    "text": "Shop"
-                },
-                {
-                    "code": "5",
-                    "text": "Snack corner"
-                },
-                {
-                    "code": "7",
-                    "text": "Pre-packed sandwich"
-                },
-                {
-                    "code": "10",
-                    "text": "Fresh Corner Coffee"
-                },
-                {
-                    "code": "11",
-                    "text": "Coffee Vending Machine"
-                },
-                {
-                    "code": "16",
-                    "text": "Air/Compresor"
-                },
-                {
-                    "code": "25",
-                    "text": "Exhaust oil receipt"
-                },
-                {
-                    "code": "26",
-                    "text": "Lubricant"
-                },
-                {
-                    "code": "27",
-                    "text": "Internet (wifi)"
-                },
-                {
-                    "code": "37",
-                    "text": "Romanian road vignette"
-                },
-                {
-                    "code": "57",
-                    "text": "Truck friendly"
-                }
-            ]
-        },
-        "fuelsAndAdditives": {
-            "values": [
-                {
-                    "code": "4",
-                    "text": "Maingrade 95"
-                },
-                {
-                    "code": "9",
-                    "text": "Premium Gasoline"
-                },
-                {
-                    "code": "11",
-                    "text": "Premium Diesel"
-                },
-                {
-                    "code": "12",
-                    "text": "Maingrade Diesel"
-                }
-            ]
-        },
-        "cards": {
-            "values": [
-                {
-                    "code": "1",
-                    "text": "DKV Card"
-                },
-                {
-                    "code": "2",
-                    "text": "UTA Card"
-                },
-                {
-                    "code": "3",
-                    "text": "VISA"
-                },
-                {
-                    "code": "4",
-                    "text": "VISA Electron"
-                },
-                {
-                    "code": "5",
-                    "text": "Eurocard/ Mastercard"
-                },
-                {
-                    "code": "6",
-                    "text": "Maestro"
-                },
-                {
-                    "code": "8",
-                    "text": "MasterCard Electronic"
-                },
-                {
-                    "code": "17",
-                    "text": "MOL Gold Card HU"
-                },
-                {
-                    "code": "18",
-                    "text": "Slovnaft Gold Card SK"
-                },
-                {
-                    "code": "19",
-                    "text": "MOL Gold Card RO"
-                },
-                {
-                    "code": "20",
-                    "text": "MOL Gold Card SRB"
-                },
-                {
-                    "code": "21",
-                    "text": "MOL Gold Card SLO"
-                },
-                {
-                    "code": "23",
-                    "text": "MOL Silver Card RO"
-                },
-                {
-                    "code": "27",
-                    "text": "MOL Red Card HU"
-                },
-                {
-                    "code": "29",
-                    "text": "Slovnaft Red Card SK"
-                },
-                {
-                    "code": "30",
-                    "text": "MOL Green Card HU"
-                },
-                {
-                    "code": "32",
-                    "text": "INA Card"
-                },
-                {
-                    "code": "39",
-                    "text": "Multibonus Card"
-                },
-                {
-                    "code": "43",
-                    "text": "MOL Green Card RO"
-                },
-                {
-                    "code": "44",
-                    "text": "Slovnaft Green Card SK"
-                },
-                {
-                    "code": "45",
-                    "text": "Euroshell card"
-                },
-                {
-                    "code": "47",
-                    "text": "MOL Gold Card AT"
-                },
-                {
-                    "code": "48",
-                    "text": "Tifon Gold Card HR"
-                },
-                {
-                    "code": "49",
-                    "text": "MOL RED Card RO"
-                },
-                {
-                    "code": "50",
-                    "text": "Energopetrol Gold Card BiH"
-                },
-                {
-                    "code": "52",
-                    "text": "MOL Blue Card RO"
-                },
-                {
-                    "code": "53",
-                    "text": "CARTAMAXIMA"
-                },
-                {
-                    "code": "55",
-                    "text": "MOL Gold Card CZ"
-                },
-                {
-                    "code": "56",
-                    "text": "Tifon Green Card HR"
-                },
-                {
-                    "code": "62",
-                    "text": "E100 Card"
-                },
-                {
-                    "code": "65",
-                    "text": "Morgan Fuels"
-                },
-                {
-                    "code": "75",
-                    "text": "Gold Card Europe"
-                },
-                {
-                    "code": "79",
-                    "text": "Gold Card Romania"
-                },
-                {
-                    "code": "87",
-                    "text": "Gift Card Romania"
-                },
-                {
-                    "code": "92",
-                    "text": "Partner Card Romania"
-                },
-                {
-                    "code": "99",
-                    "text": "Gold Card Romania Prepaid"
-                }
-            ]
-        },
-        "category": {
-            "values": [
-                {
-                    "code": "202",
-                    "text": "BIG TOWN / COMMUTER"
-                }
-            ]
-        },
-        "gastroCategory": {
-            "values": [
-                {
-                    "code": "1",
-                    "text": "Non Fresh corner"
-                }
-            ]
-        }
-    }
+	{
+		"language": "EN",
+		"code": "1020/91056",
+		"company": "MOL Romania",
+		"brand": "MOL",
+		"shopSize": 110,
+		"numOfFillPos": 6,
+		"numOfPos": 2,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "10",
+					"text": "Romania"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Giurgiu"
+				}
+			]
+		},
+		"postcode": "080309",
+		"city": "Giurgiu",
+		"city_hu": "Giurgiu",
+		"address": "Bulevardul București 152",
+		"name": "Giurgiu - Bucurestiului",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 43.9142,
+			"longitude": 25.97213
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				},
+				{
+					"code": "5",
+					"text": "Snack corner"
+				},
+				{
+					"code": "7",
+					"text": "Pre-packed sandwich"
+				},
+				{
+					"code": "10",
+					"text": "Fresh Corner Coffee"
+				},
+				{
+					"code": "11",
+					"text": "Coffee Vending Machine"
+				},
+				{
+					"code": "16",
+					"text": "Air/Compresor"
+				},
+				{
+					"code": "25",
+					"text": "Exhaust oil receipt"
+				},
+				{
+					"code": "26",
+					"text": "Lubricant"
+				},
+				{
+					"code": "27",
+					"text": "Internet (wifi)"
+				},
+				{
+					"code": "37",
+					"text": "Romanian road vignette"
+				},
+				{
+					"code": "57",
+					"text": "Truck friendly"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				},
+				{
+					"code": "2",
+					"text": "UTA Card"
+				},
+				{
+					"code": "3",
+					"text": "VISA"
+				},
+				{
+					"code": "4",
+					"text": "VISA Electron"
+				},
+				{
+					"code": "5",
+					"text": "Eurocard/ Mastercard"
+				},
+				{
+					"code": "6",
+					"text": "Maestro"
+				},
+				{
+					"code": "8",
+					"text": "MasterCard Electronic"
+				},
+				{
+					"code": "17",
+					"text": "MOL Gold Card HU"
+				},
+				{
+					"code": "18",
+					"text": "Slovnaft Gold Card SK"
+				},
+				{
+					"code": "19",
+					"text": "MOL Gold Card RO"
+				},
+				{
+					"code": "20",
+					"text": "MOL Gold Card SRB"
+				},
+				{
+					"code": "21",
+					"text": "MOL Gold Card SLO"
+				},
+				{
+					"code": "23",
+					"text": "MOL Silver Card RO"
+				},
+				{
+					"code": "27",
+					"text": "MOL Red Card HU"
+				},
+				{
+					"code": "29",
+					"text": "Slovnaft Red Card SK"
+				},
+				{
+					"code": "30",
+					"text": "MOL Green Card HU"
+				},
+				{
+					"code": "32",
+					"text": "INA Card"
+				},
+				{
+					"code": "39",
+					"text": "Multibonus Card"
+				},
+				{
+					"code": "43",
+					"text": "MOL Green Card RO"
+				},
+				{
+					"code": "44",
+					"text": "Slovnaft Green Card SK"
+				},
+				{
+					"code": "45",
+					"text": "Euroshell card"
+				},
+				{
+					"code": "47",
+					"text": "MOL Gold Card AT"
+				},
+				{
+					"code": "48",
+					"text": "Tifon Gold Card HR"
+				},
+				{
+					"code": "49",
+					"text": "MOL RED Card RO"
+				},
+				{
+					"code": "50",
+					"text": "Energopetrol Gold Card BiH"
+				},
+				{
+					"code": "52",
+					"text": "MOL Blue Card RO"
+				},
+				{
+					"code": "53",
+					"text": "CARTAMAXIMA"
+				},
+				{
+					"code": "55",
+					"text": "MOL Gold Card CZ"
+				},
+				{
+					"code": "56",
+					"text": "Tifon Green Card HR"
+				},
+				{
+					"code": "62",
+					"text": "E100 Card"
+				},
+				{
+					"code": "65",
+					"text": "Morgan Fuels"
+				},
+				{
+					"code": "75",
+					"text": "Gold Card Europe"
+				},
+				{
+					"code": "79",
+					"text": "Gold Card Romania"
+				},
+				{
+					"code": "87",
+					"text": "Gift Card Romania"
+				},
+				{
+					"code": "92",
+					"text": "Partner Card Romania"
+				},
+				{
+					"code": "99",
+					"text": "Gold Card Romania Prepaid"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Karlovo nám. 2097/10, 120 00 Nové Město",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				},
+				{
+					"code": "5",
+					"text": "Snack corner"
+				},
+				{
+					"code": "7",
+					"text": "Pre-packed sandwich"
+				},
+				{
+					"code": "10",
+					"text": "Fresh Corner Coffee"
+				},
+				{
+					"code": "11",
+					"text": "Coffee Vending Machine"
+				},
+				{
+					"code": "16",
+					"text": "Air/Compresor"
+				},
+				{
+					"code": "25",
+					"text": "Exhaust oil receipt"
+				},
+				{
+					"code": "26",
+					"text": "Lubricant"
+				},
+				{
+					"code": "27",
+					"text": "Internet (wifi)"
+				},
+				{
+					"code": "37",
+					"text": "Romanian road vignette"
+				},
+				{
+					"code": "57",
+					"text": "Truck friendly"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				},
+				{
+					"code": "2",
+					"text": "UTA Card"
+				},
+				{
+					"code": "3",
+					"text": "VISA"
+				},
+				{
+					"code": "4",
+					"text": "VISA Electron"
+				},
+				{
+					"code": "5",
+					"text": "Eurocard/ Mastercard"
+				},
+				{
+					"code": "6",
+					"text": "Maestro"
+				},
+				{
+					"code": "8",
+					"text": "MasterCard Electronic"
+				},
+				{
+					"code": "17",
+					"text": "MOL Gold Card HU"
+				},
+				{
+					"code": "18",
+					"text": "Slovnaft Gold Card SK"
+				},
+				{
+					"code": "19",
+					"text": "MOL Gold Card RO"
+				},
+				{
+					"code": "20",
+					"text": "MOL Gold Card SRB"
+				},
+				{
+					"code": "21",
+					"text": "MOL Gold Card SLO"
+				},
+				{
+					"code": "23",
+					"text": "MOL Silver Card RO"
+				},
+				{
+					"code": "27",
+					"text": "MOL Red Card HU"
+				},
+				{
+					"code": "29",
+					"text": "Slovnaft Red Card SK"
+				},
+				{
+					"code": "30",
+					"text": "MOL Green Card HU"
+				},
+				{
+					"code": "32",
+					"text": "INA Card"
+				},
+				{
+					"code": "39",
+					"text": "Multibonus Card"
+				},
+				{
+					"code": "43",
+					"text": "MOL Green Card RO"
+				},
+				{
+					"code": "44",
+					"text": "Slovnaft Green Card SK"
+				},
+				{
+					"code": "45",
+					"text": "Euroshell card"
+				},
+				{
+					"code": "47",
+					"text": "MOL Gold Card AT"
+				},
+				{
+					"code": "48",
+					"text": "Tifon Gold Card HR"
+				},
+				{
+					"code": "49",
+					"text": "MOL RED Card RO"
+				},
+				{
+					"code": "50",
+					"text": "Energopetrol Gold Card BiH"
+				},
+				{
+					"code": "52",
+					"text": "MOL Blue Card RO"
+				},
+				{
+					"code": "53",
+					"text": "CARTAMAXIMA"
+				},
+				{
+					"code": "55",
+					"text": "MOL Gold Card CZ"
+				},
+				{
+					"code": "56",
+					"text": "Tifon Green Card HR"
+				},
+				{
+					"code": "62",
+					"text": "E100 Card"
+				},
+				{
+					"code": "65",
+					"text": "Morgan Fuels"
+				},
+				{
+					"code": "75",
+					"text": "Gold Card Europe"
+				},
+				{
+					"code": "79",
+					"text": "Gold Card Romania"
+				},
+				{
+					"code": "87",
+					"text": "Gift Card Romania"
+				},
+				{
+					"code": "92",
+					"text": "Partner Card Romania"
+				},
+				{
+					"code": "99",
+					"text": "Gold Card Romania Prepaid"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	}
 ]
