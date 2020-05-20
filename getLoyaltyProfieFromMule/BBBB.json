@@ -11,9 +11,7 @@
   	},
 	"points": {
 	    "currentPoints": 1200,
-	    "pointsToNextTier": 300,
-	    "pointsTosecurePreviousTier": 300,
-	    "pointsTosecureCurrentTier": 0
+	    "pointsToNextTier": 300
 	},
 	"country": "HR",
 	"email": "testcustomer@gmail.com",
