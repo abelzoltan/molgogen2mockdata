@@ -608,8 +608,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude":"" ,
+			"longitude":""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -715,8 +715,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude":"",
+			"longitude":""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -929,8 +929,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude": "",
+			"longitude": ""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -1036,8 +1036,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude":"" ,
+			"longitude": ""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -1250,8 +1250,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude": "",
+			"longitude": ""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -1357,8 +1357,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 45.7536864,
-			"longitude": 21.2299242
+			"latitude": "",
+			"longitude": ""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -1464,8 +1464,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude": "",
+			"longitude": ""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
@@ -1571,8 +1571,8 @@
 		"mobileNum": "",
 		"faxNum": "40 246 210 621",
 		"gpsPosition": {
-			"latitude": 50.0741868,
-			"longitude": 14.418713
+			"latitude": "",
+			"longitude": ""
 		},
 		"openedHours": {
 			"openedSummerWeekDay": "00:00-24:00",
