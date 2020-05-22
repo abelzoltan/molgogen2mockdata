@@ -572,5 +572,1182 @@
 				}
 			]
 		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Fertőd, Szent István u. 61, 9431",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Fischauer G. 46, 2700 Wiener Neustadt, Ausztria",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 45.3837918,
+			"longitude": 20.3805226
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Szeged, Szent Ferenc u. 12, 6725",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Vác, Dr. Csányi László krt. 63, 2600",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 47.7435325,
+			"longitude": 18.1323287
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Budaörs, Sport u. 2-4, 2040",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Trg Republike Hrvatske 10, 10000, Zagreb, Horvátország",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 45.7536864,
+			"longitude": 21.2299242
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Pécs, Mártírok útja 14, 7623",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "Trg Republike Hrvatske 10, 10000, Zagreb, Horvátország",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 50.0741868,
+			"longitude": 14.418713
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
+	},
+	{
+		"language": "EN",
+		"code": "1021/95555",
+		"company": "MOL Cseh",
+		"brand": "MOL",
+		"shopSize": 120,
+		"numOfFillPos": 7,
+		"numOfPos": 5,
+		"openDate": "2004-02-16",
+		"opPlatform": "CODO",
+		"country": {
+			"values": [
+				{
+					"code": "8",
+					"text": "Cseh"
+				}
+			]
+		},
+		"counry": {
+			"values": [
+				{
+					"code": "100",
+					"text": "Praga"
+				}
+			]
+		},
+		"postcode": "12000",
+		"city": "Praga",
+		"city_hu": "Prága",
+		"address": "",
+		"name": "TEST data",
+		"phoneNum": "+40371000124",
+		"mobileNum": "",
+		"faxNum": "40 246 210 621",
+		"gpsPosition": {
+			"latitude": 48.1461564,
+			"longitude": 17.118969
+		},
+		"openedHours": {
+			"openedSummerWeekDay": "00:00-24:00",
+			"openedSummerSaturday": "00:00-24:00",
+			"openedSummerSunday": "00:00-24:00",
+			"openedWinterWeekDay": "00:00-24:00",
+			"openedWinterSaturday": "00:00-24:00",
+			"openedWinterSunday": "00:00-24:00",
+			"openedShop": "",
+			"openedCafeeShop": "",
+			"openedCarWash": "",
+			"woStaff": "",
+			"winterToSummerDate": "",
+			"summerToWinterDate": "",
+			"fsOpenDate": "",
+			"opPlatform": ""
+		},
+		"services": {
+			"values": [
+				{
+					"code": "2",
+					"text": "Shop"
+				}
+			]
+		},
+		"fuelsAndAdditives": {
+			"values": [
+				{
+					"code": "4",
+					"text": "Maingrade 95"
+				},
+				{
+					"code": "9",
+					"text": "Premium Gasoline"
+				},
+				{
+					"code": "11",
+					"text": "Premium Diesel"
+				},
+				{
+					"code": "12",
+					"text": "Maingrade Diesel"
+				}
+			]
+		},
+		"cards": {
+			"values": [
+				{
+					"code": "1",
+					"text": "DKV Card"
+				}
+			]
+		},
+		"category": {
+			"values": [
+				{
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
+				}
+			]
+		},
+		"gastroCategory": {
+			"values": [
+				{
+					"code": "1",
+					"text": "Non Fresh corner"
+				}
+			]
+		}
 	}
 ]
