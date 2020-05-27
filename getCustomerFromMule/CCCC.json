@@ -15,7 +15,7 @@
 	"prefferedCommunicationChannel": "SMS",
 	"prefferedLanguage": "HR",
 	"privacyPolicyConsent": true,
-	"registrationType": "MOL_GO_App",
+	"registrationType": "Mobile_App",
 	"termsConditionsConsent": true,
 	"loyaltyCard": 3268462842
 }
