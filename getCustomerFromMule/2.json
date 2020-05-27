@@ -4,9 +4,6 @@
 	"lastName":"TestLastName2",
 	"dateOfBirth":"-70119416000",
 	"country": "HU",
-	"GDPRGeneralMarketingConsent": true,
-	"GDPRPeronalizedMarketingConsent": true,
-	"GDPRLegalAgeConsent": true,
 	"email": "testcustomer2@gmail.com",
 	"gender": "Female",
 	"mailingCity": "Dubrovnik",
@@ -14,7 +11,22 @@
 	"phoneNumber": "+3859876544",
 	"prefferedCommunicationChannel": "Email",
 	"prefferedLanguage": "HU",
-	"privacyPolicyConsent": true,
-	"registrationType": "MOL_GO_App",
-	"termsConditionsConsent": true
+	"registrationType": "Mobile_App",
+	"status": "Not_Verified",
+	"registrationDate": "2020-09-01",
+	"contactKey": "0013O00000EOmG5QCC",
+	"consents": [
+        {"name": "GDPRGeneralMarketingConsent",
+          "value": true},
+        {"name": "GDPRPersonalizedMarketingConsent",
+          "value": true},
+        {"name": "GDPRLegalAgeConsent",
+          "value": true},
+        {"name": "privacyPolicyConsent",
+          "value": true,
+          "newVersion": true},
+        {"name": "termsConditionsConsent",
+          "value": true,
+          "newVersion": true}
+      ]
 }

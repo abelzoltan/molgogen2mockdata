@@ -4,9 +4,6 @@
 	"lastName":"TestLastName",
 	"dateOfBirth":"425298184000",
 	"country": "HR",
-	"GDPRGeneralMarketingConsent": true,
-	"GDPRPeronalizedMarketingConsent": true,
-	"GDPRLegalAgeConsent": true,
 	"email": "testcustomer@gmail.com",
 	"gender": "Male",
 	"mailingCity": "Zagreb",
@@ -14,8 +11,23 @@
 	"phoneNumber": "+385784234123",
 	"prefferedCommunicationChannel": "SMS",
 	"prefferedLanguage": "HR",
-	"privacyPolicyConsent": true,
 	"registrationType": "Mobile_App",
-	"termsConditionsConsent": true,
-	"loyaltyCard": 3268462842
+	"loyaltyCard": 3268462842,
+	"status": "Not_Verified",
+	"registrationDate": "2020-09-01",
+	"contactKey": "0013O00000EOmG5QCC",
+	"consents": [
+        {"name": "GDPRGeneralMarketingConsent",
+          "value": true},
+        {"name": "GDPRPersonalizedMarketingConsent",
+          "value": true},
+        {"name": "GDPRLegalAgeConsent",
+          "value": true},
+        {"name": "privacyPolicyConsent",
+          "value": true,
+          "newVersion": true},
+        {"name": "termsConditionsConsent",
+          "value": true,
+          "newVersion": true}
+      ]
 }

@@ -4,9 +4,6 @@
 	"lastName":"yyyyyyyyyyyyyyy",
 	"dateOfBirth":"425298184000",
 	"country": "EN",
-	"GDPRGeneralMarketingConsent": true,
-	"GDPRPeronalizedMarketingConsent": true,
-	"GDPRLegalAgeConsent": true,
 	"email": "beta@gmail.com",
 	"gender": "Male",
 	"mailingCity": "Budapest",
@@ -14,7 +11,22 @@
 	"phoneNumber": "+3851234567",
 	"prefferedCommunicationChannel": "Viber",
 	"prefferedLanguage": "HR",
-	"privacyPolicyConsent": true,
 	"registrationType": "Mobile_App",
-	"termsConditionsConsent": true
+	"status": "Not_Verified",
+	"registrationDate": "2020-09-01",
+	"contactKey": "0013O00000EOmG5QCC",
+	"consents": [
+        {"name": "GDPRGeneralMarketingConsent",
+          "value": true},
+        {"name": "GDPRPersonalizedMarketingConsent",
+          "value": true},
+        {"name": "GDPRLegalAgeConsent",
+          "value": true},
+        {"name": "privacyPolicyConsent",
+          "value": true,
+          "newVersion": true},
+        {"name": "termsConditionsConsent",
+          "value": true,
+          "newVersion": true}
+      ]
 }
