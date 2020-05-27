@@ -1,0 +1,20 @@
+{
+	"id":"1",
+	"firstName":"beta",
+	"lastName":"yyyyyyyyyyyyyyy",
+	"dateOfBirth":"425298184000",
+	"country": "EN",
+	"GDPRGeneralMarketingConsent": true,
+	"GDPRPeronalizedMarketingConsent": true,
+	"GDPRLegalAgeConsent": true,
+	"email": "beta@gmail.com",
+	"gender": "Male",
+	"mailingCity": "Budapest",
+	"mailingCode": "01234",
+	"phoneNumber": "+3851234567",
+	"prefferedCommunicationChannel": "Viber",
+	"prefferedLanguage": "HR",
+	"privacyPolicyConsent": true,
+	"registrationType": "MOL_GO_App",
+	"termsConditionsConsent": true
+}

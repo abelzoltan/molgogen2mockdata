@@ -1,0 +1,20 @@
+{
+	"id":"1",
+	"firstName":"omega",
+	"lastName":"qqqqqqqqqqq",
+	"dateOfBirth":"34353425626523",
+	"country": "HR",
+	"GDPRGeneralMarketingConsent": false,
+	"GDPRPeronalizedMarketingConsent": true,
+	"GDPRLegalAgeConsent": true,
+	"email": "omega@gmail.com",
+	"gender": "Female",
+	"mailingCity": "Zagreb",
+	"mailingCode": "01234",
+	"phoneNumber": "+3851234567",
+	"prefferedCommunicationChannel": "SMS",
+	"prefferedLanguage": "HR",
+	"privacyPolicyConsent": true,
+	"registrationType": "MOL_GO_App",
+	"termsConditionsConsent": true
+}
