@@ -13,7 +13,7 @@
 			{
 				"name":"Coffee",
 				"description":"Collect 5 Coffees",
-				"type":"Action",
+				"type":"Action_Series",
 				"status":"Completed",
 				"requiredCredits":5,
 				"completedCredits":5,

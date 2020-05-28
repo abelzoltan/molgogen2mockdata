@@ -12,7 +12,7 @@
 		{
 			"name":"Food",
 			"description":"Collect 10 Sandwich",
-			"type":"Action",
+			"type":"Action_Series",
 			"status":"Completed",
 			"requiredCredits":5,
 			"completedCredits":5,
@@ -21,7 +21,7 @@
 		{
 			"name":"Food2",
 			"description":"Collect 20 Sandwich",
-			"type":"Inactive",
+			"type":"Action_Series",
 			"status":"Completed",
 			"requiredCredits":5,
 			"completedCredits":5,
