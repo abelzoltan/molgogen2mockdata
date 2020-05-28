@@ -1,0 +1,64 @@
+[
+	{
+		"campaignId":"CCC",
+		"campaignName":"Gas club",
+		"campaignDescription": "Buy 100 L gas one time to have 5L free!",
+		"campaignDateFrom": "2020-02-16T07:59:00+0000",
+		"campaignDateTo": "2020-03-16T07:59:00+0000",
+		"memberCampaignStatus":"Active",
+		"memberCompletionDate": "2020-03-13T07:59:00+0000",
+		"benefitUsageDate":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Inactive",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	},
+	{
+		"campaignId":"DDD",
+		"campaignName":"Sandwich club",
+		"campaignDescription": "Buy 10 sandiches to get 1 free!",
+		"campaignDateFrom": "2020-02-16T07:59:00+0000",
+		"campaignDateTo": "2020-03-16T07:59:00+0000",
+		"memberCampaignStatus":"Active",
+		"memberCompletionDate": "2020-03-13T07:59:00+0000",
+		"benefitUsageDate":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Inactive",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	}
+]

@@ -1,0 +1,22 @@
+{
+	"campaignId":"AAA",
+	"campaignName":"Free Coffee",
+	"campaignDescription": "Buy 5 Coffees and get the 6th one for free",
+	"campaignDateFrom": "2020-01-16T07:59:00+0000",
+	"campaignDateTo": "2020-02-16T07:59:00+0000",
+	"memberCampaignStatus":"Completed",
+	"memberCompletionDate": "2020-02-13T07:59:00+0000",
+	"benefitUsageDate":30,
+	"campaignGroupName": "drink_challenge",
+	"milestones": [
+		{
+			"name":"Coffee",
+			"description":"Collect 5 Coffees",
+			"type":"Action",
+			"status":"Completed",
+			"requiredCredits":5,
+			"completedCredits":5,
+			"pendingCredits":0
+		}
+	]
+}
