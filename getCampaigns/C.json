@@ -34,10 +34,10 @@
 		"campaignId":"DDD",
 		"campaignName":"Sandwich club",
 		"campaignDescription": "Buy 10 sandiches to get 1 free!",
-		"campaignDateFrom": "2020-02-16T07:59:00+0000",
-		"campaignDateTo": "2020-03-16T07:59:00+0000",
+		"campaignDateFrom": "2020-06-16T07:59:00+0000",
+		"campaignDateTo": "2020-08-16T07:59:00+0000",
 		"memberCampaignStatus":"Planned",
-		"memberCompletionDate": "2020-03-13T07:59:00+0000",
+		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"benefitUsageDate":34,
 		"campaignGroupName": "food_challenge",
 		"milestones": [
