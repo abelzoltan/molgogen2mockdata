@@ -7,7 +7,7 @@
 		"campaignDateTo": "2020-02-16T07:59:00+0000",
 		"memberCampaignStatus":"Completed",
 		"memberCompletionDate": "2020-02-13T07:59:00+0000",
-		"benefitUsageDate":30,
+		"nrBenefitUsageDayss":30,
 		"campaignGroupName": "drink_challenge",
 		"mileStones": [
 			{

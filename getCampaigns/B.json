@@ -6,7 +6,7 @@
 	"campaignDateTo": "2020-03-16T07:59:00+0000",
 	"memberCampaignStatus":"Planned",
 	"memberCompletionDate": "2020-03-13T07:59:00+0000",
-	"benefitUsageDate":34,
+	"nrBenefitUsageDays":34,
 	"campaignGroupName": "food_challenge",
 	"mileStones": [
 		{

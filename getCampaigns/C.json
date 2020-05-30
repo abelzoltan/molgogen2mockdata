@@ -7,7 +7,7 @@
 		"campaignDateTo": "2020-07-16T07:59:00+0000",
 		"memberCampaignStatus":"Completed",
 		"memberCompletionDate": "2020-05-13T07:59:00+0000",
-		"benefitUsageDate":34,
+		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
 		"mileStones": [
 			{
@@ -38,7 +38,7 @@
 		"campaignDateTo": "2020-08-16T07:59:00+0000",
 		"memberCampaignStatus":"Planned",
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
-		"benefitUsageDate":34,
+		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
 		"milestones": [
 			{
