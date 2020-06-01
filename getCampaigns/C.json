@@ -42,7 +42,7 @@
 		"campaignGroupName": "food_challenge",
 		"milestones": [
 			{
-				"name":"Food",
+				"name":"Food3",
 				"description":"Collect 10 Sandwich",
 				"type":"Action_Series",
 				"status":"Completed",
