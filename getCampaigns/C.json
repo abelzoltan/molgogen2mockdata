@@ -34,7 +34,167 @@
 		"campaignId":"DDD",
 		"campaignName":"Sandwich club",
 		"campaignDescription": "Buy 10 sandiches to get 1 free!",
-		"campaignDateFrom": "2020-06-16T07:59:00+0000",
+		"campaignDateFrom": "2020-05-16T07:59:00+0000",
+		"campaignDateTo": "2020-08-16T07:59:00+0000",
+		"memberCampaignStatus":"Planned",
+		"memberCompletionDate": "2020-07-13T07:59:00+0000",
+		"nrBenefitUsageDays":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	},
+	{
+
+		"campaignId":"DDD2",
+		"campaignName":"Sandwich club",
+		"campaignDescription": "Buy 10 sandiches to get 1 free!",
+		"campaignDateFrom": "2020-05-14T07:59:00+0000",
+		"campaignDateTo": "2020-08-16T07:59:00+0000",
+		"memberCampaignStatus":"Planned",
+		"memberCompletionDate": "2020-07-13T07:59:00+0000",
+		"nrBenefitUsageDays":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	},
+	{
+
+		"campaignId":"DDD3",
+		"campaignName":"Sandwich club",
+		"campaignDescription": "Buy 10 sandiches to get 1 free!",
+		"campaignDateFrom": "2020-05-19T07:59:00+0000",
+		"campaignDateTo": "2020-08-16T07:59:00+0000",
+		"memberCampaignStatus":"Planned",
+		"memberCompletionDate": "2020-07-13T07:59:00+0000",
+		"nrBenefitUsageDays":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	},
+	{
+
+		"campaignId":"DDD4",
+		"campaignName":"Sandwich club",
+		"campaignDescription": "Buy 10 sandiches to get 1 free!",
+		"campaignDateFrom": "2020-06-14T07:59:00+0000",
+		"campaignDateTo": "2020-08-16T07:59:00+0000",
+		"memberCampaignStatus":"Planned",
+		"memberCompletionDate": "2020-07-13T07:59:00+0000",
+		"nrBenefitUsageDays":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	},
+	{
+
+		"campaignId":"DDD5",
+		"campaignName":"Sandwich club",
+		"campaignDescription": "Buy 10 sandiches to get 1 free!",
+		"campaignDateFrom": "2020-05-21T07:59:00+0000",
+		"campaignDateTo": "2020-08-16T07:59:00+0000",
+		"memberCampaignStatus":"Planned",
+		"memberCompletionDate": "2020-07-13T07:59:00+0000",
+		"nrBenefitUsageDays":34,
+		"campaignGroupName": "food_challenge",
+		"milestones": [
+			{
+				"name":"Food",
+				"description":"Collect 10 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			},
+			{
+				"name":"Food2",
+				"description":"Collect 20 Sandwich",
+				"type":"Action_Series",
+				"status":"Completed",
+				"requiredCredits":5,
+				"completedCredits":5,
+				"pendingCredits":0
+			}
+		]
+	},
+	{
+
+		"campaignId":"DDD6",
+		"campaignName":"Sandwich club",
+		"campaignDescription": "Buy 10 sandiches to get 1 free!",
+		"campaignDateFrom": "2020-05-08T07:59:00+0000",
 		"campaignDateTo": "2020-08-16T07:59:00+0000",
 		"memberCampaignStatus":"Planned",
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
