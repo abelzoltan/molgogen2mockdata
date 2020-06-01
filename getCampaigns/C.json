@@ -40,7 +40,7 @@
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
-		"milestones": [
+		"mileStones": [
 			{
 				"name":"Food3",
 				"description":"Collect 10 Sandwich",
@@ -72,7 +72,7 @@
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
-		"milestones": [
+		"mileStones": [
 			{
 				"name":"Food",
 				"description":"Collect 10 Sandwich",
@@ -104,7 +104,7 @@
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
-		"milestones": [
+		"mileStones": [
 			{
 				"name":"Food",
 				"description":"Collect 10 Sandwich",
@@ -136,7 +136,7 @@
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
-		"milestones": [
+		"mileStones": [
 			{
 				"name":"Food",
 				"description":"Collect 10 Sandwich",
@@ -168,7 +168,7 @@
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
-		"milestones": [
+		"mileStones": [
 			{
 				"name":"Food",
 				"description":"Collect 10 Sandwich",
@@ -200,7 +200,7 @@
 		"memberCompletionDate": "2020-07-13T07:59:00+0000",
 		"nrBenefitUsageDays":34,
 		"campaignGroupName": "food_challenge",
-		"milestones": [
+		"mileStones": [
 			{
 				"name":"Food",
 				"description":"Collect 10 Sandwich",
