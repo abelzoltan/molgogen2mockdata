@@ -206,18 +206,9 @@
 				"description":"Collect 10 Sandwich",
 				"type":"Action_Series",
 				"status":"Completed",
-				"requiredCredits":5,
-				"completedCredits":5,
-				"pendingCredits":0
-			},
-			{
-				"name":"Food2",
-				"description":"Collect 20 Sandwich",
-				"type":"Action_Series",
-				"status":"Completed",
-				"requiredCredits":5,
-				"completedCredits":5,
-				"pendingCredits":0
+				"requiredCredits":4,
+				"completedCredits":2,
+				"pendingCredits":2
 			}
 		]
 	}
