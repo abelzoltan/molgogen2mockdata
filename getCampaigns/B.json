@@ -1,31 +1,36 @@
-[{
-	"campaignId":"BBB",
-	"campaignName":"Sandwich club",
-	"campaignDescription": "Buy 10 sandiches to get 1 free!",
-	"campaignDateFrom": "2020-02-16T07:59:00+0000",
-	"campaignDateTo": "2020-03-16T07:59:00+0000",
-	"memberCampaignStatus":"Planned",
-	"memberCompletionDate": "2020-03-13T07:59:00+0000",
-	"nrBenefitUsageDays":34,
-	"campaignGroupName": "food_challenge",
-	"mileStones": [
+{
+	"memberId": "SSS",
+	"campaigns": [
 		{
-			"name":"Food",
-			"description":"Collect 10 Sandwich",
-			"type":"Action_Series",
-			"status":"Completed",
-			"requiredCredits":5,
-			"completedCredits":5,
-			"pendingCredits":0
-		},
-		{
-			"name":"Food2",
-			"description":"Collect 20 Sandwich",
-			"type":"Action_Series",
-			"status":"Completed",
-			"requiredCredits":5,
-			"completedCredits":5,
-			"pendingCredits":0
+			"campaignId":"BBB",
+			"campaignName":"Sandwich club",
+			"campaignDescription": "Buy 10 sandiches to get 1 free!",
+			"campaignDateFrom": "2020-02-16T07:59:00+0000",
+			"campaignDateTo": "2020-03-16T07:59:00+0000",
+			"memberCampaignStatus":"Planned",
+			"memberCompletionDate": "2020-03-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "food_challenge",
+			"mileStones": [
+				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				},
+				{
+					"name":"Food2",
+					"description":"Collect 20 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}
+			]
 		}
 	]
-}]
+}
