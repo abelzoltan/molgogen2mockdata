@@ -197,7 +197,7 @@
 			"campaignDescription": "Buy 10 sandiches to get 1 free!",
 			"campaignDateFrom": "2020-05-08T07:59:00+0000",
 			"campaignDateTo": "2020-08-16T07:59:00+0000",
-			"memberCampaignStatus":"Planned",
+			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "food_challenge",
