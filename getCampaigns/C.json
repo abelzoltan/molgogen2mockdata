@@ -10,7 +10,7 @@
 			"memberCampaignStatus":"Completed",
 			"memberCompletionDate": "2020-05-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "fuel_challenge",
 			"mileStones": [
 				{
 					"name":"Food",
@@ -70,10 +70,10 @@
 			"campaignDescription": "Purchase five different kind of coffee to get 50% discount for the next five!",
 			"campaignDateFrom": "2020-05-14T12:00:00+0000",
 			"campaignDateTo": "2020-08-16T23:59:00+0000",
-			"memberCampaignStatus":"Planned",
+			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "drink_challenge",
 			"mileStones": [
 				{
 					"name":"Food",
@@ -193,14 +193,14 @@
 		},
 		{
 			"campaignId":"DDD6",
-			"campaignName":"Croatian wednesday",
+			"campaignName":"Croatian Wednesday",
 			"campaignDescription": "Buy any item from the shop on wednesday with name contains 'Croatia' to get 10% discount!",
 			"campaignDateFrom": "2020-06-01T13:00:00+0000",
 			"campaignDateTo": "2020-09-16T07:59:00+0000",
 			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "other_challenge",
 			"mileStones": [
 				{
 					"name":"The best day of the week is wednesday in Croatia!",
