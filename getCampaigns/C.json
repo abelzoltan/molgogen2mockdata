@@ -13,15 +13,6 @@
 			"campaignGroupName": "fuel_challenge",
 			"mileStones": [
 				{
-					"name":"Food",
-					"description":"Collect 10 Sandwich",
-					"type":"Action_Series",
-					"status":"Completed",
-					"requiredCredits":5,
-					"completedCredits":5,
-					"pendingCredits":0
-				},
-				{
 					"name":"Fill more gas... for free!",
 					"description":"Get the best gas discount around the country!",
 					"type":"Action_Series",
@@ -29,7 +20,16 @@
 					"requiredCredits":5,
 					"completedCredits":5,
 					"pendingCredits":0
-				}
+				},
+				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}			
 			]
 		},
 		{
@@ -52,7 +52,7 @@
 					"completedCredits":3,
 					"pendingCredits":0
 				},
-				{
+				{					
 					"name":"Pack of ham",
 					"description":"Purchase 10 ham sandwiches to have 1 free!",
 					"type":"Action_Series",
@@ -60,7 +60,7 @@
 					"requiredCredits":7,
 					"completedCredits":3,
 					"pendingCredits":0
-				}
+				}				
 			]
 		},
 		{
@@ -76,15 +76,6 @@
 			"campaignGroupName": "drink_challenge",
 			"mileStones": [
 				{
-					"name":"Food",
-					"description":"Collect 10 Sandwich",
-					"type":"Action_Series",
-					"status":"Completed",
-					"requiredCredits":5,
-					"completedCredits":5,
-					"pendingCredits":0
-				},
-				{
 					"name":"Drink more to have cheaper",
 					"description":"Take five coffee to have the next ones cheaper!",
 					"type":"Action_Series",
@@ -92,7 +83,16 @@
 					"requiredCredits":5,
 					"completedCredits":4,
 					"pendingCredits":0
-				}
+				},
+				{					
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}				
 			]
 		},
 		{
@@ -108,21 +108,20 @@
 			"campaignGroupName": "food_challenge",
 			"mileStones": [
 				{
-					"name":"Food",
-					"description":"Collect 10 Sandwich",
-					"type":"Action_Series",
-					"status":"Completed",
-					"requiredCredits":5,
-					"completedCredits":5,
-					"pendingCredits":0
-				},
-				{
 					"name":"Chocolate discount",
 					"description":"You can have the finest hot chocolate for free if you take six chocolate any time!",
 					"type":"Action_Series",
 					"status":"In_Progress",
 					"requiredCredits":6,
 					"completedCredits":1,
+					"pendingCredits":0
+				},				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
 					"pendingCredits":0
 				}
 			]
