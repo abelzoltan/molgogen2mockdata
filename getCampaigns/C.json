@@ -203,7 +203,7 @@
 			"mileStones": [
 				{
 					"name":"The best day of the week is wednesday in Croatia!",
-					"description":"If you have ",
+					"description":"You can not use this discount for multiple goods.",
 					"type":"Action_Series",
 					"status":"In_Progress",
 					"requiredCredits":1,
