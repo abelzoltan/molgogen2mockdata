@@ -1,0 +1,33 @@
+{
+	"id":"XXX",
+	"firstName":"TestCustomer",
+	"lastName":"TestLastName",
+	"dateOfBirth":"425298184000",
+	"country": "HR",
+	"email": "testcustomer@gmail.com",
+	"gender": "Male",
+	"mailingCity": "Zagreb",
+	"mailingCode": "01234",
+	"phoneNumber": "+3851234567",
+	"prefferedCommunicationChannel": "SMS",
+	"prefferedLanguage": "HR",
+	"privacyPolicyConsent": true,
+	"registrationType": "Mobile_App",
+	"status": "Not_Verified",
+	"registrationDate": "2020-09-01",
+	"contactKey": "0013O00000EOmG5QCC",
+	"consents": [
+        {"name": "GDPRGeneralMarketingConsent",
+          "value": true},
+        {"name": "GDPRPersonalizedMarketingConsent",
+          "value": true},
+        {"name": "GDPRLegalAgeConsent",
+          "value": true},
+        {"name": "privacyPolicyConsent",
+          "value": true,
+          "newVersion": true},
+        {"name": "termsConditionsConsent",
+          "value": true,
+          "newVersion": true}
+      ]
+}

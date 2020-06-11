@@ -1,0 +1,32 @@
+{
+	"id":"2",
+	"firstName":"TestCustomer2",
+	"lastName":"TestLastName2",
+	"dateOfBirth":"-70119416000",
+	"country": "HU",
+	"email": "testcustomer2@gmail.com",
+	"gender": "Female",
+	"mailingCity": "Dubrovnik",
+	"mailingCode": "2234234",
+	"phoneNumber": "+3859876544",
+	"prefferedCommunicationChannel": "Email",
+	"prefferedLanguage": "HU",
+	"registrationType": "MOL_GO_App",
+	"status": "Not_Verified",
+	"registrationDate": "2020-09-01",
+	"contactKey": "0013O00000EOmG5QCC",
+	"consents": [
+        {"name": "GDPRGeneralMarketingConsent",
+          "value": true},
+        {"name": "GDPRPersonalizedMarketingConsent",
+          "value": true},
+        {"name": "GDPRLegalAgeConsent",
+          "value": true},
+        {"name": "privacyPolicyConsent",
+          "value": true,
+          "newVersion": true},
+        {"name": "termsConditionsConsent",
+          "value": true,
+          "newVersion": true}
+      ]
+}

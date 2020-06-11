@@ -35,7 +35,7 @@
 		    "calculationMethod": "FIXP",
 		    "rewardValue": 20.00,
 		    "ERPReportingId": "435456576768",
-		    "imageUrl": "http://mol.company.org/reward/imageURL"
+		    "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
 	    },
 	   	{
 	        "rewardId": "62",
@@ -50,10 +50,10 @@
 		    "productName2": "Cool car wash service using wax",
 		    "applicationType": "ITEM",
 		    "applicability": 1,
-		    "calculationMethod": "FIXP",
+		    "calculationMethod": "FIXD",
 		    "rewardValue": 250.00,
 		    "ERPReportingId": "435456576768",
-		    "imageUrl": "http://mol.company.org/reward/imageURL"
+		    "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg"
 	    },
 	   	{
 	        "rewardId": "63",
@@ -68,10 +68,10 @@
 		    "productName2": "Campaign step decrease",
 		    "applicationType": "ITEM",
 		    "applicability": 1,
-		    "calculationMethod": "FIXP",
+		    "calculationMethod": "P4P",
 		    "rewardValue": 1.00,
 		    "ERPReportingId": "435456576768",
-		    "imageUrl": "http://mol.company.org/reward/imageURL"
+		    "imageUrl": "https://www.eshop24.hu/custom/ctcszorakoztato/image/cache/w0h0q80np1/blog/k%C3%A1v%C3%A9/k%C3%A1v%C3%A9.jpg"
 	    },
 	   	{
 	        "rewardId": "64",
@@ -89,7 +89,7 @@
 		    "calculationMethod": "FIXP",
 		    "rewardValue": 20.00,
 		    "ERPReportingId": "435456576768",
-		    "imageUrl": "http://mol.company.org/reward/imageURL"
+		    "imageUrl": "https://mitevo.com/blog/images/0kave.jpg"
 	    }
 	],
 	"coupons": [
@@ -107,7 +107,7 @@
 		    "ERPReportingId": "435456576768",
 		    "status": "Assigned",
 		    "validityDate": "2020-06-01T15:46:19Z",
-		    "imageUrl": "http://mol.company.org/coupon/imageURL"
+		    "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg"
 	    },
 	    {
 		    "id": "a0c3O000000HYZMQA4",
@@ -118,12 +118,12 @@
 		    "productName": "ESPRESSO coffee",
 		    "applicationType": "ITEM",
 		    "applicability": 1,
-		    "calculationMethod": "PERC",
+		    "calculationMethod": "FIXD",
 		    "value": 1.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Unassigned",
 		    "validityDate": "2020-06-02T15:46:19Z",
-		    "imageUrl": "http://mol.company.org/coupon/imageURL"
+		    "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
 	    },
 	    {
 		    "id": "a0c3O000000HYZMQA4",
@@ -134,12 +134,12 @@
 		    "productName": "Ham sandwich",
 		    "applicationType": "ITEM",
 		    "applicability": 1,
-		    "calculationMethod": "PERC",
+		    "calculationMethod": "P4P",
 		    "value": 50.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Used",
 		    "validityDate": "2020-06-03T15:46:19Z",
-		    "imageUrl": "http://mol.company.org/coupon/imageURL"
+		    "imageUrl": "https://cdn.slashgear.com/wp-content/uploads/2019/03/hot-tea-1280x720.jpg"
 	    },
 	    {
 		    "id": "a0c3O000000HYZMQA4",
@@ -155,7 +155,7 @@
 		    "ERPReportingId": "435456576768",
 		    "status": "Distributed",
 		    "validityDate": "2020-06-04T15:46:19Z",
-		    "imageUrl": "http://mol.company.org/coupon/imageURL"
+		    "imageUrl": "https://kgmi.com/wp-content/plugins/share-multisite-content/public/share-image.php?guid=http%3A%2F%2Fkgmi-am.sagacom.com%2Fwp-content%2Fblogs.dir%2F70%2Ffiles%2F2016%2F02%2Fchocolate.jpg&size=1200x768"
 	    },
 	    {
 		    "id": "a0c3O000000HYZMQA4",
@@ -171,7 +171,7 @@
 		    "ERPReportingId": "435456576768",
 		    "status": "Resend",
 		    "validityDate": "2020-06-05T15:46:19Z",
-		    "imageUrl": "http://mol.company.org/coupon/imageURL"
+		    "imageUrl": "https://cdn.slashgear.com/wp-content/uploads/2019/03/hot-tea-1280x720.jpg"
 	    },
 	    {
 		    "id": "a0c3O000000HYZMQA4",
@@ -182,12 +182,12 @@
 		    "productName": "Tea factory",
 		    "applicationType": "ITEM",
 		    "applicability": 1,
-		    "calculationMethod": "PERC",
+		    "calculationMethod": "FIXD",
 		    "value": 49.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Expired",
 		    "validityDate": "2020-06-06T15:46:19Z",
-		    "imageUrl": "http://mol.company.org/coupon/imageURL"
+		    "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
 	    }	    	    	    	    	    
   	],
   	"extendedAttributes": [
