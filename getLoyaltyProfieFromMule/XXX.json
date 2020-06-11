@@ -85,7 +85,7 @@
 		    "productCode2": "32546576",
 		    "productName2": "Premium sandwich discount",
 		    "applicationType": "ITEM",
-		    "applicability": 1,
+		    "applicability": -1,
 		    "calculationMethod": "FIXP",
 		    "rewardValue": 20.00,
 		    "ERPReportingId": "435456576768",
