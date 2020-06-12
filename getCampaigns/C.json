@@ -11,7 +11,7 @@
 			"memberCompletionDate": "2020-05-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "fuel_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Fill more gas... for free!",
 					"description":"Get the best gas discount around the country!",
@@ -42,7 +42,7 @@
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "food_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Pack of ham",
 					"description":"Purchase 10 ham sandwiches to have 1 free!",
@@ -74,7 +74,7 @@
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "drink_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Drink more to have cheaper",
 					"description":"Take five coffee to have the next ones cheaper!",
@@ -106,7 +106,7 @@
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "food_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Chocolate discount",
 					"description":"You can have the finest hot chocolate for free if you take six chocolate any time!",
@@ -137,7 +137,7 @@
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "food_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Food",
 					"description":"Collect 10 Sandwich",
@@ -169,7 +169,7 @@
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "food_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Food",
 					"description":"Collect 10 Sandwich",
@@ -200,7 +200,7 @@
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "other_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"The best day of the week is wednesday in Croatia!",
 					"description":"You can not use this discount for multiple goods.",

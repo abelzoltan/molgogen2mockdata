@@ -11,7 +11,7 @@
 			"memberCompletionDate": "2020-02-13T07:59:00+0000",
 			"nrBenefitUsageDayss":30,
 			"campaignGroupName": "drink_challenge",
-			"mileStones": [
+			"milestones": [
 				{
 					"name":"Coffee",
 					"description":"Collect 5 Coffees",
