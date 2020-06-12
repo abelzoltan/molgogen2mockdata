@@ -96,7 +96,7 @@
 	    {
 		    "id": "a0c3O000000HYZMQA4",
 		    "couponName": "Free coke for everyone",
-		    "couponNumber": 12340000000001672199,
+		    "couponNumber": 12340000000001672198,
 		    "description": "This is a coupon Reka created for testing",
 		    "productCode": "32141",
 		    "productName": "Coca Cola",
@@ -112,7 +112,7 @@
 	    {
 		    "id": "a0c3O000000HYZMQA4",
 		    "couponName": "Free coffee for everyone",
-		    "couponNumber": 12340000000001672199,
+		    "couponNumber": 12340000000001672197,
 		    "description": "This is a coupon Reka created for testing",
 		    "productCode": "32141",
 		    "productName": "ESPRESSO coffee",
@@ -128,7 +128,7 @@
 	    {
 		    "id": "a0c3O000000HYZMQA4",
 		    "couponName": "Free sandwich for everyone",
-		    "couponNumber": 12340000000001672199,
+		    "couponNumber": 12340000000001672196,
 		    "description": "This is a coupon Reka created for testing",
 		    "productCode": "32141",
 		    "productName": "Ham sandwich",
@@ -144,7 +144,7 @@
 	    {
 		    "id": "a0c3O000000HYZMQA4",
 		    "couponName": "Free carwash for everyone",
-		    "couponNumber": 12340000000001672199,
+		    "couponNumber": 12340000000001672195,
 		    "description": "This is a coupon Reka created for testing",
 		    "productCode": "32141",
 		    "productName": "Car wash",
@@ -160,7 +160,7 @@
 	    {
 		    "id": "a0c3O000000HYZMQA4",
 		    "couponName": "Free beer for everyone",
-		    "couponNumber": 12340000000001672199,
+		    "couponNumber": 12340000000001672194,
 		    "description": "This is a coupon Reka created for testing",
 		    "productCode": "32141",
 		    "productName": "Bier Factory",
@@ -176,7 +176,7 @@
 	    {
 		    "id": "a0c3O000000HYZMQA4",
 		    "couponName": "Free hot drink for everyone",
-		    "couponNumber": 12340000000001672199,
+		    "couponNumber": 12340000000001672193,
 		    "description": "This is a coupon Reka created for testing",
 		    "productCode": "32141",
 		    "productName": "Tea factory",
@@ -188,7 +188,39 @@
 		    "status": "Expired",
 		    "validityDate": "2020-06-06T15:46:19Z",
 		    "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
-	    }	    	    	    	    	    
+	    }, 
+	    {
+		    "id": "a0c3O000000HYZMQA4",
+		    "couponName": "Free water for everyone",
+		    "couponNumber": 12340000000001672192,
+		    "description": "This is a coupon Reka created for testing",
+		    "productCode": "32141",
+		    "productName": "Water",
+		    "applicationType": "ITEM",
+		    "applicability": 1,
+		    "calculationMethod": "FIXD",
+		    "value": 560.0,
+		    "ERPReportingId": "435456576768",
+		    "status": "Distributed",
+		    "validityDate": "2020-12-31T15:46:19Z",
+		    "imageUrl": "https://static.timesofisrael.com/www/uploads/2018/01/water-pinkomelet.jpg"
+	    },  	 
+	    {
+		    "id": "a0c3O000000HYZMQA4",
+		    "couponName": "Free internet for everyone",
+		    "couponNumber": 12340000000001672192,
+		    "description": "This is a coupon Reka created for testing",
+		    "productCode": "32141",
+		    "productName": "Internet",
+		    "applicationType": "ITEM",
+		    "applicability": 1,
+		    "calculationMethod": "P4P",
+		    "value": 1290.0,
+		    "ERPReportingId": "435456576768",
+		    "status": "Distributed",
+		    "validityDate": "2020-12-31T15:46:19Z",
+		    "imageUrl": "https://m.blog.hu/el/elmehunyor/image/spinning-globe_smart-city_iot_skyscrapers_city-scape_internet_digital-transformation-100777501-large.jpg"
+	    }	       	    	    	    
   	],
   	"extendedAttributes": [
 	    {
