@@ -12,16 +12,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "10",
-					"name": "Romania"
+					"code": "10",
+					"text": "Romania"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Giurgiu"
+					"code": "100",
+					"text": "Giurgiu"
 				}
 			]
 		},
@@ -56,232 +56,232 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				},
 				{
-					"id": "5",
-					"name": "Snack corner"
+					"code": "5",
+					"text": "Snack corner"
 				},
 				{
-					"id": "7",
-					"name": "Pre-packed sandwich"
+					"code": "7",
+					"text": "Pre-packed sandwich"
 				},
 				{
-					"id": "10",
-					"name": "Fresh Corner Coffee"
+					"code": "10",
+					"text": "Fresh Corner Coffee"
 				},
 				{
-					"id": "11",
-					"name": "Coffee Vending Machine"
+					"code": "11",
+					"text": "Coffee Vending Machine"
 				},
 				{
-					"id": "16",
-					"name": "Air/Compresor"
+					"code": "16",
+					"text": "Air/Compresor"
 				},
 				{
-					"id": "25",
-					"name": "Exhaust oil receipt"
+					"code": "25",
+					"text": "Exhaust oil receipt"
 				},
 				{
-					"id": "26",
-					"name": "Lubricant"
+					"code": "26",
+					"text": "Lubricant"
 				},
 				{
-					"id": "27",
-					"name": "Internet (wifi)"
+					"code": "27",
+					"text": "Internet (wifi)"
 				},
 				{
-					"id": "37",
-					"name": "Romanian road vignette"
+					"code": "37",
+					"text": "Romanian road vignette"
 				},
 				{
-					"id": "57",
-					"name": "Truck friendly"
+					"code": "57",
+					"text": "Truck friendly"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				},
 				{
-					"id": "2",
-					"name": "UTA Card"
+					"code": "2",
+					"text": "UTA Card"
 				},
 				{
-					"id": "3",
-					"name": "VISA"
+					"code": "3",
+					"text": "VISA"
 				},
 				{
-					"id": "4",
-					"name": "VISA Electron"
+					"code": "4",
+					"text": "VISA Electron"
 				},
 				{
-					"id": "5",
-					"name": "Eurocard/ Mastercard"
+					"code": "5",
+					"text": "Eurocard/ Mastercard"
 				},
 				{
-					"id": "6",
-					"name": "Maestro"
+					"code": "6",
+					"text": "Maestro"
 				},
 				{
-					"id": "8",
-					"name": "MasterCard Electronic"
+					"code": "8",
+					"text": "MasterCard Electronic"
 				},
 				{
-					"id": "17",
-					"name": "MOL Gold Card HU"
+					"code": "17",
+					"text": "MOL Gold Card HU"
 				},
 				{
-					"id": "18",
-					"name": "Slovnaft Gold Card SK"
+					"code": "18",
+					"text": "Slovnaft Gold Card SK"
 				},
 				{
-					"id": "19",
-					"name": "MOL Gold Card RO"
+					"code": "19",
+					"text": "MOL Gold Card RO"
 				},
 				{
-					"id": "20",
-					"name": "MOL Gold Card SRB"
+					"code": "20",
+					"text": "MOL Gold Card SRB"
 				},
 				{
-					"id": "21",
-					"name": "MOL Gold Card SLO"
+					"code": "21",
+					"text": "MOL Gold Card SLO"
 				},
 				{
-					"id": "23",
-					"name": "MOL Silver Card RO"
+					"code": "23",
+					"text": "MOL Silver Card RO"
 				},
 				{
-					"id": "27",
-					"name": "MOL Red Card HU"
+					"code": "27",
+					"text": "MOL Red Card HU"
 				},
 				{
-					"id": "29",
-					"name": "Slovnaft Red Card SK"
+					"code": "29",
+					"text": "Slovnaft Red Card SK"
 				},
 				{
-					"id": "30",
-					"name": "MOL Green Card HU"
+					"code": "30",
+					"text": "MOL Green Card HU"
 				},
 				{
-					"id": "32",
-					"name": "INA Card"
+					"code": "32",
+					"text": "INA Card"
 				},
 				{
-					"id": "39",
-					"name": "Multibonus Card"
+					"code": "39",
+					"text": "Multibonus Card"
 				},
 				{
-					"id": "43",
-					"name": "MOL Green Card RO"
+					"code": "43",
+					"text": "MOL Green Card RO"
 				},
 				{
-					"id": "44",
-					"name": "Slovnaft Green Card SK"
+					"code": "44",
+					"text": "Slovnaft Green Card SK"
 				},
 				{
-					"id": "45",
-					"name": "Euroshell card"
+					"code": "45",
+					"text": "Euroshell card"
 				},
 				{
-					"id": "47",
-					"name": "MOL Gold Card AT"
+					"code": "47",
+					"text": "MOL Gold Card AT"
 				},
 				{
-					"id": "48",
-					"name": "Tifon Gold Card HR"
+					"code": "48",
+					"text": "Tifon Gold Card HR"
 				},
 				{
-					"id": "49",
-					"name": "MOL RED Card RO"
+					"code": "49",
+					"text": "MOL RED Card RO"
 				},
 				{
-					"id": "50",
-					"name": "Energopetrol Gold Card BiH"
+					"code": "50",
+					"text": "Energopetrol Gold Card BiH"
 				},
 				{
-					"id": "52",
-					"name": "MOL Blue Card RO"
+					"code": "52",
+					"text": "MOL Blue Card RO"
 				},
 				{
-					"id": "53",
-					"name": "CARTAMAXIMA"
+					"code": "53",
+					"text": "CARTAMAXIMA"
 				},
 				{
-					"id": "55",
-					"name": "MOL Gold Card CZ"
+					"code": "55",
+					"text": "MOL Gold Card CZ"
 				},
 				{
-					"id": "56",
-					"name": "Tifon Green Card HR"
+					"code": "56",
+					"text": "Tifon Green Card HR"
 				},
 				{
-					"id": "62",
-					"name": "E100 Card"
+					"code": "62",
+					"text": "E100 Card"
 				},
 				{
-					"id": "65",
-					"name": "Morgan Fuels"
+					"code": "65",
+					"text": "Morgan Fuels"
 				},
 				{
-					"id": "75",
-					"name": "Gold Card Europe"
+					"code": "75",
+					"text": "Gold Card Europe"
 				},
 				{
-					"id": "79",
-					"name": "Gold Card Romania"
+					"code": "79",
+					"text": "Gold Card Romania"
 				},
 				{
-					"id": "87",
-					"name": "Gift Card Romania"
+					"code": "87",
+					"text": "Gift Card Romania"
 				},
 				{
-					"id": "92",
-					"name": "Partner Card Romania"
+					"code": "92",
+					"text": "Partner Card Romania"
 				},
 				{
-					"id": "99",
-					"name": "Gold Card Romania Prepaid"
+					"code": "99",
+					"text": "Gold Card Romania Prepaid"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -299,16 +299,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -343,232 +343,232 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				},
 				{
-					"id": "5",
-					"name": "Snack corner"
+					"code": "5",
+					"text": "Snack corner"
 				},
 				{
-					"id": "7",
-					"name": "Pre-packed sandwich"
+					"code": "7",
+					"text": "Pre-packed sandwich"
 				},
 				{
-					"id": "10",
-					"name": "Fresh Corner Coffee"
+					"code": "10",
+					"text": "Fresh Corner Coffee"
 				},
 				{
-					"id": "11",
-					"name": "Coffee Vending Machine"
+					"code": "11",
+					"text": "Coffee Vending Machine"
 				},
 				{
-					"id": "16",
-					"name": "Air/Compresor"
+					"code": "16",
+					"text": "Air/Compresor"
 				},
 				{
-					"id": "25",
-					"name": "Exhaust oil receipt"
+					"code": "25",
+					"text": "Exhaust oil receipt"
 				},
 				{
-					"id": "26",
-					"name": "Lubricant"
+					"code": "26",
+					"text": "Lubricant"
 				},
 				{
-					"id": "27",
-					"name": "Internet (wifi)"
+					"code": "27",
+					"text": "Internet (wifi)"
 				},
 				{
-					"id": "37",
-					"name": "Romanian road vignette"
+					"code": "37",
+					"text": "Romanian road vignette"
 				},
 				{
-					"id": "57",
-					"name": "Truck friendly"
+					"code": "57",
+					"text": "Truck friendly"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				},
 				{
-					"id": "2",
-					"name": "UTA Card"
+					"code": "2",
+					"text": "UTA Card"
 				},
 				{
-					"id": "3",
-					"name": "VISA"
+					"code": "3",
+					"text": "VISA"
 				},
 				{
-					"id": "4",
-					"name": "VISA Electron"
+					"code": "4",
+					"text": "VISA Electron"
 				},
 				{
-					"id": "5",
-					"name": "Eurocard/ Mastercard"
+					"code": "5",
+					"text": "Eurocard/ Mastercard"
 				},
 				{
-					"id": "6",
-					"name": "Maestro"
+					"code": "6",
+					"text": "Maestro"
 				},
 				{
-					"id": "8",
-					"name": "MasterCard Electronic"
+					"code": "8",
+					"text": "MasterCard Electronic"
 				},
 				{
-					"id": "17",
-					"name": "MOL Gold Card HU"
+					"code": "17",
+					"text": "MOL Gold Card HU"
 				},
 				{
-					"id": "18",
-					"name": "Slovnaft Gold Card SK"
+					"code": "18",
+					"text": "Slovnaft Gold Card SK"
 				},
 				{
-					"id": "19",
-					"name": "MOL Gold Card RO"
+					"code": "19",
+					"text": "MOL Gold Card RO"
 				},
 				{
-					"id": "20",
-					"name": "MOL Gold Card SRB"
+					"code": "20",
+					"text": "MOL Gold Card SRB"
 				},
 				{
-					"id": "21",
-					"name": "MOL Gold Card SLO"
+					"code": "21",
+					"text": "MOL Gold Card SLO"
 				},
 				{
-					"id": "23",
-					"name": "MOL Silver Card RO"
+					"code": "23",
+					"text": "MOL Silver Card RO"
 				},
 				{
-					"id": "27",
-					"name": "MOL Red Card HU"
+					"code": "27",
+					"text": "MOL Red Card HU"
 				},
 				{
-					"id": "29",
-					"name": "Slovnaft Red Card SK"
+					"code": "29",
+					"text": "Slovnaft Red Card SK"
 				},
 				{
-					"id": "30",
-					"name": "MOL Green Card HU"
+					"code": "30",
+					"text": "MOL Green Card HU"
 				},
 				{
-					"id": "32",
-					"name": "INA Card"
+					"code": "32",
+					"text": "INA Card"
 				},
 				{
-					"id": "39",
-					"name": "Multibonus Card"
+					"code": "39",
+					"text": "Multibonus Card"
 				},
 				{
-					"id": "43",
-					"name": "MOL Green Card RO"
+					"code": "43",
+					"text": "MOL Green Card RO"
 				},
 				{
-					"id": "44",
-					"name": "Slovnaft Green Card SK"
+					"code": "44",
+					"text": "Slovnaft Green Card SK"
 				},
 				{
-					"id": "45",
-					"name": "Euroshell card"
+					"code": "45",
+					"text": "Euroshell card"
 				},
 				{
-					"id": "47",
-					"name": "MOL Gold Card AT"
+					"code": "47",
+					"text": "MOL Gold Card AT"
 				},
 				{
-					"id": "48",
-					"name": "Tifon Gold Card HR"
+					"code": "48",
+					"text": "Tifon Gold Card HR"
 				},
 				{
-					"id": "49",
-					"name": "MOL RED Card RO"
+					"code": "49",
+					"text": "MOL RED Card RO"
 				},
 				{
-					"id": "50",
-					"name": "Energopetrol Gold Card BiH"
+					"code": "50",
+					"text": "Energopetrol Gold Card BiH"
 				},
 				{
-					"id": "52",
-					"name": "MOL Blue Card RO"
+					"code": "52",
+					"text": "MOL Blue Card RO"
 				},
 				{
-					"id": "53",
-					"name": "CARTAMAXIMA"
+					"code": "53",
+					"text": "CARTAMAXIMA"
 				},
 				{
-					"id": "55",
-					"name": "MOL Gold Card CZ"
+					"code": "55",
+					"text": "MOL Gold Card CZ"
 				},
 				{
-					"id": "56",
-					"name": "Tifon Green Card HR"
+					"code": "56",
+					"text": "Tifon Green Card HR"
 				},
 				{
-					"id": "62",
-					"name": "E100 Card"
+					"code": "62",
+					"text": "E100 Card"
 				},
 				{
-					"id": "65",
-					"name": "Morgan Fuels"
+					"code": "65",
+					"text": "Morgan Fuels"
 				},
 				{
-					"id": "75",
-					"name": "Gold Card Europe"
+					"code": "75",
+					"text": "Gold Card Europe"
 				},
 				{
-					"id": "79",
-					"name": "Gold Card Romania"
+					"code": "79",
+					"text": "Gold Card Romania"
 				},
 				{
-					"id": "87",
-					"name": "Gift Card Romania"
+					"code": "87",
+					"text": "Gift Card Romania"
 				},
 				{
-					"id": "92",
-					"name": "Partner Card Romania"
+					"code": "92",
+					"text": "Partner Card Romania"
 				},
 				{
-					"id": "99",
-					"name": "Gold Card Romania Prepaid"
+					"code": "99",
+					"text": "Gold Card Romania Prepaid"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -586,16 +586,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -630,52 +630,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -693,16 +693,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -737,52 +737,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -800,16 +800,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -844,52 +844,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -907,16 +907,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -951,52 +951,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1014,16 +1014,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1058,52 +1058,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1121,16 +1121,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1165,52 +1165,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1228,16 +1228,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1272,52 +1272,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1335,16 +1335,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1379,52 +1379,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1442,16 +1442,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1486,52 +1486,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1549,16 +1549,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1593,52 +1593,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1656,16 +1656,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1700,52 +1700,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1763,16 +1763,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1807,52 +1807,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1870,16 +1870,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -1914,52 +1914,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -1977,16 +1977,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -2021,52 +2021,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -2084,16 +2084,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -2128,52 +2128,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -2191,16 +2191,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -2235,52 +2235,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -2298,16 +2298,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -2342,52 +2342,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
@@ -2405,16 +2405,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -2449,52 +2449,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		},
@@ -2513,16 +2513,16 @@
 		"country": {
 			"values": [
 				{
-					"id": "8",
-					"name": "Cseh"
+					"code": "8",
+					"text": "Cseh"
 				}
 			]
 		},
 		"counry": {
 			"values": [
 				{
-					"id": "100",
-					"name": "Praga"
+					"code": "100",
+					"text": "Praga"
 				}
 			]
 		},
@@ -2557,52 +2557,52 @@
 		"services": {
 			"values": [
 				{
-					"id": "2",
-					"name": "Shop"
+					"code": "2",
+					"text": "Shop"
 				}
 			]
 		},
 		"fuelsAndAdditives": {
 			"values": [
 				{
-					"id": "4",
-					"name": "Maingrade 95"
+					"code": "4",
+					"text": "Maingrade 95"
 				},
 				{
-					"id": "9",
-					"name": "Premium Gasoline"
+					"code": "9",
+					"text": "Premium Gasoline"
 				},
 				{
-					"id": "11",
-					"name": "Premium Diesel"
+					"code": "11",
+					"text": "Premium Diesel"
 				},
 				{
-					"id": "12",
-					"name": "Maingrade Diesel"
+					"code": "12",
+					"text": "Maingrade Diesel"
 				}
 			]
 		},
 		"cards": {
 			"values": [
 				{
-					"id": "1",
-					"name": "DKV Card"
+					"code": "1",
+					"text": "DKV Card"
 				}
 			]
 		},
 		"category": {
 			"values": [
 				{
-					"id": "202",
-					"name": "BIG TOWN / COMMUTER"
+					"code": "202",
+					"text": "BIG TOWN / COMMUTER"
 				}
 			]
 		},
 		"gastroCategory": {
 			"values": [
 				{
-					"id": "1",
-					"name": "Non Fresh corner"
+					"code": "1",
+					"text": "Non Fresh corner"
 				}
 			]
 		}
