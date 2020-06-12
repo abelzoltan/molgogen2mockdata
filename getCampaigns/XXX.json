@@ -1,0 +1,216 @@
+{
+	"memberId": "SSS",
+	"campaigns": [
+		{
+			"campaignId":"CCC",
+			"campaignName":"Fill the tank!",
+			"campaignDescription": "Buy 100 L gas to get 5 L free!",
+			"campaignDateFrom": "2020-05-16T07:59:00+0000",
+			"campaignDateTo": "2020-07-16T07:59:00+0000",
+			"memberCampaignStatus":"Completed",
+			"memberCompletionDate": "2020-05-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "fuel_challenge",
+			"mileStones": [
+				{
+					"name":"Fill more gas... for free!",
+					"description":"Get the best gas discount around the country!",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				},
+				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}			
+			]
+		},
+		{
+			"campaignId":"DDD",
+			"campaignName":"Sandwich club",
+			"campaignDescription": "Buy 10 sandwiches to get 1 free!",
+			"campaignDateFrom": "2020-05-16T07:59:00+0000",
+			"campaignDateTo": "2020-08-16T07:59:00+0000",
+			"memberCampaignStatus":"In_Progress",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "food_challenge",
+			"mileStones": [
+				{
+					"name":"Pack of ham",
+					"description":"Purchase 10 ham sandwiches to have 1 free!",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":7,
+					"completedCredits":3,
+					"pendingCredits":0
+				},
+				{					
+					"name":"Pack of ham",
+					"description":"Purchase 10 ham sandwiches to have 1 free!",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":7,
+					"completedCredits":3,
+					"pendingCredits":0
+				}				
+			]
+		},
+		{
+
+			"campaignId":"DDD2",
+			"campaignName":"Coffee round",
+			"campaignDescription": "Purchase five different kind of coffee to get 50% discount for the next five!",
+			"campaignDateFrom": "2020-05-14T12:00:00+0000",
+			"campaignDateTo": "2020-08-16T23:59:00+0000",
+			"memberCampaignStatus":"In_Progress",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "drink_challenge",
+			"mileStones": [
+				{
+					"name":"Drink more to have cheaper",
+					"description":"Take five coffee to have the next ones cheaper!",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":4,
+					"pendingCredits":0
+				},
+				{					
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}				
+			]
+		},
+		{
+
+			"campaignId":"DDD3",
+			"campaignName":"Chocolate rain",
+			"campaignDescription": "Take six any kind of chocolate to have 1 hot chocolate free!",
+			"campaignDateFrom": "2020-05-19T10:59:00+0000",
+			"campaignDateTo": "2020-08-16T07:59:00+0000",
+			"memberCampaignStatus":"In_Progress",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "food_challenge",
+			"mileStones": [
+				{
+					"name":"Chocolate discount",
+					"description":"You can have the finest hot chocolate for free if you take six chocolate any time!",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":6,
+					"completedCredits":1,
+					"pendingCredits":0
+				},				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}
+			]
+		},
+		{
+
+			"campaignId":"DDD4",
+			"campaignName":"Sandwich club",
+			"campaignDescription": "Buy 10 sandiches to get 1 free!",
+			"campaignDateFrom": "2020-05-14T07:59:00+0000",
+			"campaignDateTo": "2020-08-16T07:59:00+0000",
+			"memberCampaignStatus":"Planned",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "food_challenge",
+			"mileStones": [
+				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				},
+				{
+					"name":"Food2",
+					"description":"Collect 20 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}
+			]
+		},
+		{
+
+			"campaignId":"DDD5",
+			"campaignName":"Sandwich club",
+			"campaignDescription": "Buy 10 sandiches to get 1 free!",
+			"campaignDateFrom": "2020-05-21T07:59:00+0000",
+			"campaignDateTo": "2020-08-16T07:59:00+0000",
+			"memberCampaignStatus":"Planned",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "food_challenge",
+			"mileStones": [
+				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				},
+				{
+					"name":"Food2",
+					"description":"Collect 20 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}
+			]
+		},
+		{
+			"campaignId":"DDD6",
+			"campaignName":"Croatian Wednesday",
+			"campaignDescription": "Buy any item from the shop on wednesday with name contains 'Croatia' to get 10% discount!",
+			"campaignDateFrom": "2020-06-01T13:00:00+0000",
+			"campaignDateTo": "2020-09-16T07:59:00+0000",
+			"memberCampaignStatus":"In_Progress",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "other_challenge",
+			"mileStones": [
+				{
+					"name":"The best day of the week is wednesday in Croatia!",
+					"description":"You can not use this discount for multiple goods.",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":1,
+					"completedCredits":0,
+					"pendingCredits":1
+				}
+			]
+		}
+	]
+}
