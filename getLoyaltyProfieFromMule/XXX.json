@@ -106,7 +106,7 @@
 		    "value": 100.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Assigned",
-		    "validityDate": "2020-06-01T15:46:19Z",
+		    "validityDate": "2020-12-31T15:46:19Z",
 		    "imageUrl": "https://aferfi.hu/media/k2/items/cache/b069b892c6725bd357423bc8f6c17d01_XL.jpg"
 	    },
 	    {
@@ -122,7 +122,7 @@
 		    "value": 1.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Unassigned",
-		    "validityDate": "2020-06-02T15:46:19Z",
+		    "validityDate": "2020-12-31T15:46:19Z",
 		    "imageUrl": "https://blog.clearwater.hu/wp-content/uploads/2016/08/Good-morning-smiley-coffee-cup.jpg"
 	    },
 	    {
@@ -154,7 +154,7 @@
 		    "value": 350.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Distributed",
-		    "validityDate": "2020-06-04T15:46:19Z",
+		    "validityDate": "2020-12-31T15:46:19Z",
 		    "imageUrl": "https://kgmi.com/wp-content/plugins/share-multisite-content/public/share-image.php?guid=http%3A%2F%2Fkgmi-am.sagacom.com%2Fwp-content%2Fblogs.dir%2F70%2Ffiles%2F2016%2F02%2Fchocolate.jpg&size=1200x768"
 	    },
 	    {
@@ -170,7 +170,7 @@
 		    "value": 550.0,
 		    "ERPReportingId": "435456576768",
 		    "status": "Resend",
-		    "validityDate": "2020-06-05T15:46:19Z",
+		    "validityDate": "2020-12-31T15:46:19Z",
 		    "imageUrl": "https://cdn.slashgear.com/wp-content/uploads/2019/03/hot-tea-1280x720.jpg"
 	    },
 	    {
