@@ -10,7 +10,7 @@
 			"memberCampaignStatus":"Completed",
 			"memberCompletionDate": "2020-05-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "fuel_challenge",
+			"campaignGroupName": "admin",
 			"milestones": [
 				{
 					"name":"Fill more gas... for free!",
@@ -41,7 +41,7 @@
 			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_one_time",
 			"milestones": [
 				{
 					"name":"Pack of ham",
@@ -105,7 +105,7 @@
 			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_challenge",
 			"milestones": [
 				{
 					"name":"Chocolate discount",
@@ -136,7 +136,7 @@
 			"memberCampaignStatus":"Planned",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_challenge",
 			"milestones": [
 				{
 					"name":"Food",
@@ -168,7 +168,7 @@
 			"memberCampaignStatus":"Planned",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_challenge",
 			"milestones": [
 				{
 					"name":"Food",
@@ -199,7 +199,7 @@
 			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "other_challenge",
+			"campaignGroupName": "other",
 			"milestones": [
 				{
 					"name":"The best day of the week is wednesday in Croatia!",
