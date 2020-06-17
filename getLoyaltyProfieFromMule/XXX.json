@@ -3,9 +3,9 @@
 	"firstName":"TestFirstName",
 	"lastName":"TestLastName",
 	"tier": {
-	    "currentTier": "VIP",
-	    "nextTier": "VIP",
-	    "previousTier": "GOLD",
+	    "currentTier": "Vip",
+	    "nextTier": "Vip",
+	    "previousTier": "Gold",
 	    "tierEntranceDate": "1579093330000",
 	    "tierExpirationDate": "1619685641000"
   	},
