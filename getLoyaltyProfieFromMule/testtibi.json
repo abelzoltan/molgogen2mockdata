@@ -1,0 +1,51 @@
+{
+  "id": "0013O00000JNkXoQAL",
+  "email": "testtibi@email.com",
+  "firstName": "Tibi",
+  "lastName": "Kántor",
+  "country": "HR",
+  "status": "Verified",
+  "tier": {
+    "currentTier": "Gold",
+    "nextTier": "Vip",
+    "tierEntranceDate": "2020-06-25",
+    "tierExpirationDate": "2021-06-25"
+  },
+  "points": {
+    "currentPoints": 5000,
+    "pointsToNextTier": 4000
+  },
+  "tierRewards": [],
+  "coupons": [
+    {
+      "id": "a0Z3O000002GwnnUAC",
+      "couponName": "Coupon Def - Coffee Milk",
+      "couponNumber": 38570000000000126928,
+      "productCode": "4210856",
+      "productName": "COFFEE WITH MILK MAESTOSO 1 EA",
+      "applicationType": "ITEM",
+      "applicability": 123,
+      "calculationMethod": "PERC",
+      "value": 100.0,
+      "ERPReportingId": "Loyalty",
+      "status": "Distributed",
+      "validityDate": "2021-06-01"
+    },
+    {
+      "id": "a0Z3O000002GxJyUAK",
+      "couponName": "Tier Reward Blue Product 3",
+      "couponNumber": 38570000000000146876,
+      "description": "Tier Reward Blue Product 3 Description",
+      "productCode": "4210854",
+      "productName": "LONG COFFEE (Americano) MAESTOSO 1 EA",
+      "applicationType": "ITEM",
+      "applicability": 1,
+      "calculationMethod": "PERC",
+      "value": 100.0,
+      "ERPReportingId": "Loyalty",
+      "status": "Distributed",
+      "validityDate": "2021-06-25",
+      "imageUrl": "https://image.s50.sfmc-content.com/lib/fe3911717564047d731c72/m/1/f84c5e3e-328f-4937-872b-1c9c90e30d8c.png"
+    }
+  ]
+}
