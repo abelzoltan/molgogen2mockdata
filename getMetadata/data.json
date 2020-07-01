@@ -1,7 +1,7 @@
 {
     "fuelsAndAdditives": [
         {
-            "id": "55",
+            "id": "L1",
             "name": "AdBlue"
         },
         {
@@ -9,11 +9,11 @@
             "name": "EVO 95 PLUS"
         },
         {
-            "id": "13",
+            "id": "L2",
             "name": "LPG "
         },
         {
-            "id": "361",
+            "id": "G2",
             "name": "Natural 95"
         },
         {
@@ -21,19 +21,19 @@
             "name": "Premium Diesel"
         },
         {
-            "id": "12",
+            "id": "D1",
             "name": "Maingrade Diesel"
         },
         {
-            "id": "366",
+            "id": "4",
             "name": "Diesel s aditivy"
         },
         {
-            "id": "365",
+            "id": "D2",
             "name": "Diesel"
         },
         {
-            "id": "364",
+            "id": "8",
             "name": "Natural 100 plus"
         },
         {
@@ -41,39 +41,39 @@
             "name": "EVO 100 Plus (GASOLINE PREMIUM)"
         },
         {
-            "id": "367",
+            "id": "D4",
             "name": "Diesel plus"
         },
         {
-            "id": "104",
+            "id": "D3",
             "name": "Diesel +"
         },
         {
-            "id": "103",
+            "id": "D5",
             "name": "Maingrade Diesel Plus"
         },
         {
-            "id": "102",
+            "id": "O1",
             "name": "Maingrade 98 Plus"
         },
         {
-            "id": "101",
+            "id": "O2",
             "name": "Maingrade 95 Plus"
         },
         {
-            "id": "48",
+            "id": "D5",
             "name": "Lowgrade Diesel"
         },
         {
-            "id": "121",
+            "id": "O3",
             "name": "EURO FUEL OIL EXTRA LIGHT "
         },
         {
-            "id": "45",
+            "id": "D6",
             "name": "EVO 95"
         },
         {
-            "id": "44",
+            "id": "O4",
             "name": "BIO EN-95 (Gasoline Unleaded 95 (BIO))"
         },
         {
@@ -89,7 +89,7 @@
             "name": "EN-95 >50ppm (Gasoline Unleaded 95 (EU3))"
         },
         {
-            "id": "341",
+            "id": "2",
             "name": "MOL Racing Fuel"
         },
         {
@@ -125,11 +125,11 @@
             "name": "CNG (Comprimed natural gas, in tank)"
         },
         {
-            "id": "50",
+            "id": "3",
             "name": "Diesel gasoil 0,1"
         },
         {
-            "id": "141",
+            "id": "G1",
             "name": "Blue Diesel"
         }
     ],
