@@ -10,7 +10,7 @@
 			"memberCampaignStatus":"Completed",
 			"memberCompletionDate": "2020-05-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "fuel_challenge",
+			"campaignGroupName": "admin",
 			"milestones": [
 				{
 					"name":"Fill more gas... for free!",
@@ -39,8 +39,6 @@
 			"campaignDateFrom": "2020-05-16T07:59:00+0000",
 			"campaignDateTo": "2020-08-16T07:59:00+0000",
 			"memberCampaignStatus":"In_Progress",
-			"memberCompletionDate": "2020-07-13T07:59:00+0000",
-			"nrBenefitUsageDays":34,
 			"campaignGroupName": "food_challenge",
 			"milestones": [
 				{
@@ -103,8 +101,8 @@
 			"campaignDateFrom": "2020-05-19T10:59:00+0000",
 			"campaignDateTo": "2020-08-16T07:59:00+0000",
 			"memberCampaignStatus":"In_Progress",
-			"memberCompletionDate": "2020-07-13T07:59:00+0000",
-			"nrBenefitUsageDays":34,
+			"memberCompletionDate": null,
+			"nrBenefitUsageDays": null,
 			"campaignGroupName": "food_challenge",
 			"milestones": [
 				{
