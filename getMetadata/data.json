@@ -592,51 +592,51 @@
     "services": [
         {
             "id": "36",
-            "name": "Palackos PB-GÃZ"
+            "name": "PB gas"
         },
         {
             "id": "33",
-            "name": "SzlovÃ©n autÃ³pÃ¡lya matrica"
+            "name": "Slovenian highway vignette"
         },
         {
             "id": "34",
-            "name": "SzlovÃ¡k autÃ³pÃ¡lya matrica"
+            "name": "Slovakian highway vignette"
         },
         {
             "id": "39",
-            "name": "HasznÃ¡lt sÃ¼tÅolaj visszagyÅ±jtÃ©s"
+            "name": "Used enginge oil collector"
         },
         {
             "id": "37",
-            "name": "RomÃ¡n autÃ³Ãºt matrica"
+            "name": "Romanian highway vignette"
         },
         {
             "id": "38",
-            "name": "bringaPONT"
+            "name": "BikePoint"
         },
         {
             "id": "43",
-            "name": "Bringa mosÃ¡si lehetÅsÃ©g"
+            "name": "Bike wash availabe"
         },
         {
             "id": "42",
-            "name": "Bringa pihenÅ"
+            "name": "Bike rental"
         },
         {
             "id": "41",
-            "name": "BringÃ¡s termÃ©k"
+            "name": "Bike staff"
         },
         {
             "id": "40",
-            "name": "EURO elfogadÃ¡s"
+            "name": "Euro acceptance"
         },
         {
             "id": "86",
-            "name": "KutyabarÃ¡t"
+            "name": "Dog friendly"
         },
         {
             "id": "67",
-            "name": "ÃdÃ­tÅk / soft drinks"
+            "name": "Soft drinks"
         },
         {
             "id": "66",
@@ -644,7 +644,7 @@
         },
         {
             "id": "69",
-            "name": "Kutya chip leolvasÃ³ hely (ingyenes)"
+            "name": "Dog chip reader (free)"
         },
         {
             "id": "68",
@@ -652,23 +652,23 @@
         },
         {
             "id": "22",
-            "name": "TankolÃ³ automata"
+            "name": "Tank filling automate"
         },
         {
             "id": "23",
-            "name": "MozgÃ¡ssÃ©rÃ¼lt WC"
+            "name": "Disabled WC"
         },
         {
             "id": "24",
-            "name": "AkkumulÃ¡tor Ã¡tvÃ©tel"
+            "name": "Battery accepting ares"
         },
         {
             "id": "25",
-            "name": "FÃ¡radt olaj Ã¡tvÃ©tel"
+            "name": "Used oil accepting area"
         },
         {
             "id": "26",
-            "name": "KenÅanyagok"
+            "name": "Lubricants"
         },
         {
             "id": "27",
@@ -676,11 +676,11 @@
         },
         {
             "id": "29",
-            "name": "JÃ¡tszÃ³tÃ©r"
+            "name": "Playground for kids"
         },
         {
             "id": "3",
-            "name": "Ãtterem"
+            "name": "Restaurant"
         },
         {
             "id": "2",
@@ -688,31 +688,31 @@
         },
         {
             "id": "7",
-            "name": "VÃ©dÅgÃ¡zos szendvics"
+            "name": "Variable sandiwiches"
         },
         {
             "id": "30",
-            "name": "PÃ©nzvÃ¡ltÃ¡s"
+            "name": "Money exchange"
         },
         {
             "id": "6",
-            "name": "BÃ¡r"
+            "name": "Bar"
         },
         {
             "id": "32",
-            "name": "Magyar autÃ³pÃ¡lya matrica"
+            "name": "Hungarian highway vignette"
         },
         {
             "id": "5",
-            "name": "KÃ¡vÃ©zÃ³ sarok"
+            "name": "Coffee corner"
         },
         {
             "id": "4",
-            "name": "Ãtterem (Marche)"
+            "name": "Restaurant (Marche)"
         },
         {
             "id": "31",
-            "name": "OsztrÃ¡k autÃ³pÃ¡lya matrica"
+            "name": "Austrian highway vignette"
         },
         {
             "id": "71",
@@ -720,19 +720,19 @@
         },
         {
             "id": "9",
-            "name": "PÃ©ksÃ©g"
+            "name": "Bakery"
         },
         {
             "id": "72",
-            "name": "kÃ¡vÃ©"
+            "name": "Cafe"
         },
         {
             "id": "8",
-            "name": "Friss szendvics"
+            "name": "Fresh sandwich"
         },
         {
             "id": "73",
-            "name": "1 elektromos tÃ¶ltÅ berendezÃ©s"
+            "name": "1 electronic charging option"
         },
         {
             "id": "58",
@@ -744,51 +744,51 @@
         },
         {
             "id": "56",
-            "name": "Elektromos autÃ³ tÃ¶ltÅ"
+            "name": "Elektromos car charging"
         },
         {
             "id": "55",
-            "name": "Napi bevÃ¡sÃ¡rlÃ¡s"
+            "name": "Daily shopping available"
         },
         {
             "id": "17",
-            "name": "KÃ¡rpit tisztÃ­tÃ³"
+            "name": "upholstery cleaning"
         },
         {
             "id": "18",
-            "name": "SzerencsejÃ¡tÃ©k"
+            "name": "Gambling"
         },
         {
             "id": "15",
-            "name": "HÅ±tÅfolyadÃ©k ellenÅrzÃ©s"
+            "name": "Coolant check"
         },
         {
             "id": "16",
-            "name": "LevegÅ, kompresszor"
+            "name": "Air compressor"
         },
         {
             "id": "13",
-            "name": "GÃ©pi autÃ³mosÃ³"
+            "name": "Machine car wash"
         },
         {
             "id": "14",
-            "name": "KÃ©zi autÃ³mosÃ³"
+            "name": "Manual car wash"
         },
         {
             "id": "11",
-            "name": "KÃ¡vÃ©gÃ©p"
+            "name": "Coffee machine"
         },
         {
             "id": "12",
-            "name": "PorszÃ­vÃ³"
+            "name": "Vacuum cleaner"
         },
         {
             "id": "21",
-            "name": "BiztosÃ­tÃ¡s"
+            "name": "Insurance"
         },
         {
             "id": "20",
-            "name": "GyÃ³gyszer"
+            "name": "Medicines"
         },
         {
             "id": "64",
@@ -815,16 +815,12 @@
             "name": "AdBlue in canister"
         },
         {
-            "id": "49",
-            "name": "NagyteljesÃ­tmÃ©nyÅ± kÃºtoszlop"
-        },
-        {
             "id": "48",
-            "name": "Helyi termÃ©kek Ã©s kÃ©zmÅ±ves Ã©lelmiszerek"
+            "name": "Local foods"
         },
         {
             "id": "45",
-            "name": "Friss gyÃ¼mÃ¶lcslÃ©"
+            "name": "Fresh fruit"
         },
         {
             "id": "93",
@@ -832,19 +828,19 @@
         },
         {
             "id": "44",
-            "name": "BringÃ¡s szerszÃ¡mkÃ©szlet, pumpafej"
+            "name": "Bike mounting staff"
         },
         {
             "id": "47",
-            "name": "CsalÃ¡di fitnesz park Ã©s kutyafuttatÃ³"
+            "name": "Family fitness park"
         },
         {
             "id": "91",
-            "name": "Leves"
+            "name": "Soup"
         },
         {
             "id": "46",
-            "name": "PostaPont"
+            "name": "PostPoint"
         },
         {
             "id": "90",
@@ -852,19 +848,19 @@
         },
         {
             "id": "10",
-            "name": "Friss kÃ¡vÃ©"
+            "name": "Fresh coffee"
         },
         {
             "id": "51",
-            "name": "TusolÃ³"
+            "name": "Washing"
         },
         {
             "id": "52",
-            "name": "ÃtdÃ­j terminÃ¡l"
+            "name": "ATM terminal"
         },
         {
             "id": "53",
-            "name": "BehajtÃ¡si lehetÅsÃ©g mindkÃ©t irÃ¡nybÃ³l"
+            "name": "Two sides entrance"
         },
         {
             "id": "54",
@@ -872,15 +868,11 @@
         },
         {
             "id": "88",
-            "name": "Szendvics"
-        },
-        {
-            "id": "89",
-            "name": "PelenkÃ¡zÃ³"
+            "name": "Sandwich"
         },
         {
             "id": "50",
-            "name": "Kamion parkolÃ³"
+            "name": "Track parking"
         }
     ]
 }

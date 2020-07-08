@@ -10,7 +10,7 @@
 			"memberCampaignStatus":"Completed",
 			"memberCompletionDate": "2020-05-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "admin",
+			"campaignGroupName": "fuel_one-time",
 			"milestones": [
 				{
 					"name":"Fill more gas... for free!",
@@ -33,13 +33,45 @@
 			]
 		},
 		{
+			"campaignId":"CCC2",
+			"campaignName":"Fill the tank more!",
+			"campaignDescription": "Buy 110 L gas to get 5 L free!",
+			"campaignDateFrom": "2020-05-16T07:59:00+0000",
+			"campaignDateTo": "2020-07-16T07:59:00+0000",
+			"memberCampaignStatus":"Completed",
+			"memberCompletionDate": "2020-05-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "fuel_challenge",
+			"milestones": [
+				{
+					"name":"Fill more gas... for free!",
+					"description":"Get the best gas discount around the country!",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				},
+				{
+					"name":"Food",
+					"description":"Collect 10 Sandwich",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":5,
+					"completedCredits":5,
+					"pendingCredits":0
+				}			
+			]
+		},
+
+		{
 			"campaignId":"DDD",
 			"campaignName":"Sandwich club",
 			"campaignDescription": "Buy 10 sandwiches to get 1 free!",
 			"campaignDateFrom": "2020-05-16T07:59:00+0000",
 			"campaignDateTo": "2020-08-16T07:59:00+0000",
 			"memberCampaignStatus":"In_Progress",
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_one-time",
 			"milestones": [
 				{
 					"name":"Pack of ham",
@@ -93,6 +125,29 @@
 				}				
 			]
 		},
+{
+
+			"campaignId":"DDD2",
+			"campaignName":"Coffee round on time",
+			"campaignDescription": "Purchase one Latte' to get 50% discount for the next one!",
+			"campaignDateFrom": "2020-05-14T12:00:00+0000",
+			"campaignDateTo": "2020-08-16T23:59:00+0000",
+			"memberCampaignStatus":"In_Progress",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
+			"nrBenefitUsageDays":34,
+			"campaignGroupName": "drink_one-time",
+			"milestones": [
+				{
+					"name":"Drink more to have cheaper",
+					"description":"Take five coffee to have the next ones cheaper!",
+					"type":"Action_Series",
+					"status":"Completed",
+					"requiredCredits":1,
+					"completedCredits":1,
+					"pendingCredits":0
+				}				
+			]
+		},
 		{
 
 			"campaignId":"DDD3",
@@ -103,7 +158,7 @@
 			"memberCampaignStatus":"In_Progress",
 			"memberCompletionDate": null,
 			"nrBenefitUsageDays": null,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_one-time",
 			"milestones": [
 				{
 					"name":"Chocolate discount",
@@ -134,7 +189,7 @@
 			"memberCampaignStatus":"Planned",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_challenge",
 			"milestones": [
 				{
 					"name":"Food",
@@ -166,7 +221,7 @@
 			"memberCampaignStatus":"Planned",
 			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
-			"campaignGroupName": "food_challenge",
+			"campaignGroupName": "gastro_challenge",
 			"milestones": [
 				{
 					"name":"Food",
