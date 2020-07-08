@@ -5,7 +5,7 @@
 	"tier": {
 	    "currentTier": "VIP",
 	    "nextTier": "VIP",
-	    "previousTier": "GOLD",
+	    "previousTier": "Gold",
 	    "tierEntranceDate": "1579093330000",
 	    "tierExpirationDate": "1619685641000"
   	},
