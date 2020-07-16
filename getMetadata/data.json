@@ -2,15 +2,15 @@
   "acceptedCards": [
     {
       "id": "DKV_CARD",
-      "name": ""
+      "name": "DKV kartica"
     },
     {
       "id": "DINA",
-      "name": ""
+      "name": "DINA"
     },
     {
       "id": "DINERS",
-      "name": ""
+      "name": "Diners Club kartica"
     },
     {
       "id": "ACTIVA_CARD",
@@ -30,7 +30,7 @@
     },
     {
       "id": "VPAY",
-      "name": ""
+      "name": "Vpay"
     },
     {
       "id": "MOL_GOLD_CARD_HU",
@@ -50,7 +50,7 @@
     },
     {
       "id": "UTA_CARD",
-      "name": ""
+      "name": "UTA kartica"
     },
     {
       "id": "MOL_GOLD_CARD_SRB",
@@ -98,7 +98,7 @@
     },
     {
       "id": "VISA",
-      "name": ""
+      "name": "Visa"
     },
     {
       "id": "MOL_GREEN_CARD_HU",
@@ -110,7 +110,7 @@
     },
     {
       "id": "INA_CARD",
-      "name": ""
+      "name": "INA kartica"
     },
     {
       "id": "BENZINA_CARD",
@@ -130,7 +130,7 @@
     },
     {
       "id": "VISA_ELECTRON",
-      "name": ""
+      "name": "Visa Electron"
     },
     {
       "id": "GOLD_CARD_CROATIA_PREPAID",
@@ -166,7 +166,7 @@
     },
     {
       "id": "EUROCARD_MASTERCARD",
-      "name": ""
+      "name": "MasterCard"
     },
     {
       "id": "ENERGOPETROL_GOLD_CARD_BIH",
@@ -174,7 +174,7 @@
     },
     {
       "id": "DISCOVER",
-      "name": ""
+      "name": "Discover"
     },
     {
       "id": "GOLD_CARD_BOSNIA-HERZEGOVINA_PREPAID",
@@ -210,7 +210,7 @@
     },
     {
       "id": "MAESTRO",
-      "name": ""
+      "name": "Maestro"
     },
     {
       "id": "SLOVNAFT_BLUE_CARD_SK",
@@ -254,7 +254,7 @@
     },
     {
       "id": "AMEX",
-      "name": ""
+      "name": "American Express"
     },
     {
       "id": "SMART_DIESEL",
@@ -302,7 +302,7 @@
     },
     {
       "id": "MASTERCARD_ELECTRONIC",
-      "name": ""
+      "name": "MasterCard Electronic"
     },
     {
       "id": "GOLD_CARD_SLOVENIA",
@@ -342,7 +342,7 @@
     },
     {
       "id": "GIFT_CARD_CROATIA",
-      "name": ""
+      "name": "Poklon kartica"
     },
     {
       "id": "PARTNER_CARD_CZECH_REPUBLIC",
@@ -350,7 +350,7 @@
     },
     {
       "id": "CIRRUS_MAESTRO",
-      "name": ""
+      "name": "Cirrus"
     },
     {
       "id": "YELLOW_CARD",
@@ -400,43 +400,43 @@
   "fuelsAndAdditives": [
     {
       "id": "BLUE_DIESEL",
-      "name": ""
+      "name": "Eurodizel plavi"
     },
     {
       "id": "CNG",
-      "name": ""
+      "name": "Plin u boci"
     },
     {
       "id": "AD_BLUE",
-      "name": ""
+      "name": "AdBlue"
     },
     {
       "id": "DIESEL",
-      "name": ""
+      "name": "Dizel"
     },
     {
       "id": "EURO_FUEL_OIL_EXTRA_LIGHT",
-      "name": ""
+      "name": "Euro loživo ulje ekstra lako"
     },
     {
       "id": "EURODIESEL",
-      "name": ""
+      "name": "Eurodiesel"
     },
     {
       "id": "EURODIESEL_CLASS_PLUS",
-      "name": ""
+      "name": "Eurodiesel Class Plus"
     },
     {
       "id": "EUROSUPER_100_CLASS_PLUS",
-      "name": ""
+      "name": "Eurosuper 100 Class Plus"
     },
     {
       "id": "EUROSUPER_95",
-      "name": ""
+      "name": "Eurosuper 95 "
     },
     {
       "id": "EUROSUPER_95_CLASS_PLUS",
-      "name": ""
+      "name": "Eurosuper 95 Class Plus"
     },
     {
       "id": "EVO_100_PLUS",
@@ -460,11 +460,11 @@
     },
     {
       "id": "INA_EURODIESEL_BS_ARKTIK",
-      "name": ""
+      "name": "Eurodiesel Arktik"
     },
     {
       "id": "LPG",
-      "name": ""
+      "name": "UNP"
     },
     {
       "id": "NATURAL_95",
@@ -482,27 +482,27 @@
   "gastros": [
     {
       "id": "FRESH_CORNER",
-      "name": ""
+      "name": "Fresh Corner"
     },
     {
       "id": "FRESH_CORNER_DRIVE",
-      "name": ""
+      "name": "Fresh Corner Drive"
     },
     {
       "id": "FRESH_SANDWICH",
-      "name": ""
+      "name": "Svježi sendvič"
     },
     {
       "id": "HAMBURGER",
-      "name": ""
+      "name": "Hamburger"
     },
     {
       "id": "HOT_DOG",
-      "name": ""
+      "name": "Hot Dog"
     },
     {
       "id": "BAKERY",
-      "name": ""
+      "name": "Pekarski proizvodi"
     },
     {
       "id": "ONE_COURSE_DISH",
@@ -510,49 +510,49 @@
     },
     {
       "id": "BARISTA_COFFEE",
-      "name": ""
+      "name": "Kava barista"
     },
     {
       "id": "RESTAURANT",
-      "name": ""
+      "name": "Restoran"
     },
     {
       "id": "SELF_SERVICE_COFFEE",
-      "name": ""
+      "name": "Samouslužna kava"
     },
     {
       "id": "SOUP",
-      "name": ""
+      "name": "Juha"
     },
     {
       "id": "VENDING_MACHINE",
-      "name": ""
+      "name": "Automat za kavu"
     }
   ],
   "services": [
     {
       "id": "ACC_RECEIPT",
-      "name": ""
+      "name": "Preuzimanje akumulatora"
     },
     {
       "id": "BIKE_WASH",
-      "name": ""
+      "name": "Pranje bicikla"
     },
     {
       "id": "BIKEPOINT",
-      "name": ""
+      "name": "BikePOINT"
     },
     {
       "id": "BUSINESS_LOUNGE",
-      "name": ""
+      "name": "Poslovni salon"
     },
     {
       "id": "COOLANT_TESTER",
-      "name": ""
+      "name": "Uređaj za provjeru antifriza"
     },
     {
       "id": "CYLINDER_PB_GAS",
-      "name": ""
+      "name": "Plin u boci za domaćinstvo"
     },
     {
       "id": "CZECH_MOTORWAY_VIGNETTE",
@@ -560,15 +560,15 @@
     },
     {
       "id": "DEFIBRILLATOR_AED",
-      "name": ""
+      "name": "Defibrillator (AED)"
     },
     {
       "id": "DIAPER_CHANGING_PAD",
-      "name": ""
+      "name": "Podloga za mijenjanje pelena"
     },
     {
       "id": "DISABLED_TOILET",
-      "name": ""
+      "name": "Toalet za invalide"
     },
     {
       "id": "DOG_CHIP_READER_PLACE_FRE",
@@ -576,51 +576,51 @@
     },
     {
       "id": "DOG_FRIENDLY",
-      "name": ""
+      "name": "Psi dobrodošli"
     },
     {
       "id": "DOG_WASH",
-      "name": ""
+      "name": "Kupanje pasa"
     },
     {
       "id": "ELECTRONIC_VEHICLE_CHARGER",
-      "name": ""
+      "name": "Punjač električnih vozila "
     },
     {
       "id": "ENP",
-      "name": ""
+      "name": "ENP"
     },
     {
       "id": "EURO_PAYMENT_ACCEPTANCE",
-      "name": ""
+      "name": "Omogućeno plaćanje eurima"
     },
     {
       "id": "ADBLUE_DISPENSER_AVAILABLE",
-      "name": ""
+      "name": "AdBlue istakačko mjesto"
     },
     {
       "id": "EVERYDAY_SHOPPING",
-      "name": ""
+      "name": "Svakodnevna kupovina"
     },
     {
       "id": "AUSTRIAN_MOTORWAY_VIGNETTE",
-      "name": ""
+      "name": "Austrijska vinjeta"
     },
     {
       "id": "EXHAUST_OIL_RECEIPT",
-      "name": ""
+      "name": "Preuzimanje zauljene ambalaže"
     },
     {
       "id": "FAMILY_FITTNESS_PARK",
-      "name": ""
+      "name": "Obiteljski park za rekreaciju"
     },
     {
       "id": "FAMILY_TOILET",
-      "name": ""
+      "name": "Obiteljski toalet"
     },
     {
       "id": "FS_IS_ACCESSIBLE_FROM_BOTH",
-      "name": ""
+      "name": "BP dostupna iz oba smjera"
     },
     {
       "id": "GERMAN_MOTORWAY_VIGNETTE",
@@ -628,35 +628,35 @@
     },
     {
       "id": "HIGH_SPEED_PUMP",
-      "name": ""
+      "name": "Visokoučinski mjerni uređaji"
     },
     {
       "id": "AUTOMATIC_CAR_WASH_AVAILABLE",
-      "name": ""
+      "name": "Automatsko pranje vozila"
     },
     {
       "id": "HOOVER",
-      "name": ""
+      "name": "Usisivač"
     },
     {
       "id": "HUNGARIAN_MOTORWAY_VIGNETTE",
-      "name": ""
+      "name": "Mađarska vinjeta"
     },
     {
       "id": "INDOOR_KIDS_CORNER",
-      "name": ""
+      "name": "Dječji kutak"
     },
     {
       "id": "INSURANCE",
-      "name": ""
+      "name": "Osiguranje"
     },
     {
       "id": "INTERNET_WIFI",
-      "name": ""
+      "name": "Internet (Wi-Fi)"
     },
     {
       "id": "JET_WASH_AVAILABLE",
-      "name": ""
+      "name": "Samouslužno pranje vozila"
     },
     {
       "id": "LOCAL_PRODUCERS_FOOD_PROJE",
@@ -664,23 +664,23 @@
     },
     {
       "id": "LOCAL_PRODUCTS",
-      "name": ""
+      "name": "Domaći proizvodi"
     },
     {
       "id": "LOTTERY",
-      "name": ""
+      "name": "Igre na sreću"
     },
     {
       "id": "LUBRICANT",
-      "name": ""
+      "name": "Maziva"
     },
     {
       "id": "MONEY_EXCHANGE",
-      "name": ""
+      "name": "Mjenjačnica"
     },
     {
       "id": "MOTORBIKE_PARKING",
-      "name": ""
+      "name": "Parkiralište za motocikle"
     },
     {
       "id": "NR_WINDFLUID_DISPENSER",
@@ -688,7 +688,7 @@
     },
     {
       "id": "OUTD_CHILDREN_PLAYGROUND",
-      "name": ""
+      "name": "Dječje igralište"
     },
     {
       "id": "OUTDOOR_PAYMENT_NIGHT",
@@ -700,19 +700,19 @@
     },
     {
       "id": "PAY_AT_PUMP",
-      "name": ""
+      "name": "Plaćanje na agregatu"
     },
     {
       "id": "PAYMENT_TOILET",
-      "name": ""
+      "name": "Plaćanje toaleta"
     },
     {
       "id": "PHARMACY",
-      "name": ""
+      "name": "Ljekarna"
     },
     {
       "id": "PICK_PACK_PONT",
-      "name": ""
+      "name": "Pick Pack Pont"
     },
     {
       "id": "POLISH_MOTORWAY_VIGNETTE",
@@ -720,15 +720,15 @@
     },
     {
       "id": "POSTAPONT",
-      "name": ""
+      "name": "Poštanski servis"
     },
     {
       "id": "PRE_PACKED_SANDWICH",
-      "name": ""
+      "name": "Gotovi sendviči"
     },
     {
       "id": "PUMP",
-      "name": ""
+      "name": "Pumpa"
     },
     {
       "id": "BIG_ENOUGH_TO_FIT_A_TRUCK",
@@ -744,11 +744,11 @@
     },
     {
       "id": "SHOP",
-      "name": ""
+      "name": "Trgovina"
     },
     {
       "id": "SHOWER_ROOM",
-      "name": ""
+      "name": "Tuš"
     },
     {
       "id": "SLOVAK_MOTORWAY_VIGNETTE",
@@ -756,27 +756,27 @@
     },
     {
       "id": "SLOVENIAN_MOTORWAY_VIGNETT",
-      "name": ""
+      "name": "Slovenska vinjeta"
     },
     {
       "id": "TOLL_TERMINAL",
-      "name": ""
+      "name": "Nadoplata cestarine (ENC)"
     },
     {
       "id": "BIKE_TOOLKIT",
-      "name": ""
+      "name": "Alat za bicikle"
     },
     {
       "id": "TRUCK_FRIENDLY",
-      "name": ""
+      "name": "Pogodno za kamione"
     },
     {
       "id": "TRUCK_PARK",
-      "name": ""
+      "name": "Parkiralište za kamione"
     },
     {
       "id": "USED_COOKING_OIL",
-      "name": ""
+      "name": "Preuzimanje zauljene ambalaže"
     }
   ]
 }

@@ -3,14 +3,14 @@
   "firstName":"TestFirstName",
   "lastName":"TestLastName",
   "tier": {
-      "currentTier": "Gold",
-      "nextTier": "VIP",
-      "previousTier": "Silver",
+      "currentTier": "Silver",
+      "nextTier": "Gold",
+      "previousTier": "Blue",
       "tierEntranceDate": "1579093330000",
       "tierExpirationDate": "1688999841000"
     },
   "points": {
-      "currentPoints": 4000,
+      "currentPoints": 2000,
       "pointsToNextTier": 500
   },
   "country": "HR",
