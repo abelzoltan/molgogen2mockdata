@@ -50,6 +50,7 @@
       "fsOpenDate": "1961-01-01",
       "opPlatform": "COCO"
     },
+    "stationStatus": 1,
     "services": {
       "values": [
         {
@@ -64324,6 +64325,7 @@
       "fsOpenDate": "1983-01-01",
       "opPlatform": "COCO"
     },
+    "stationStatus": 3,
     "services": {
       "values": [
         {
@@ -64648,6 +64650,7 @@
       "fsOpenDate": "1997-01-01",
       "opPlatform": "COCO"
     },
+    "stationStatus": 3,
     "services": {
       "values": [
         {
