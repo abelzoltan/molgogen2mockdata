@@ -1,0 +1,1630 @@
+[ {
+    "language": "en",
+    "code": "1911100007",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 30,
+    "numOfFillPos": 9,
+    "numOfPos": 1,
+    "openDate": "1961-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "A",
+          "name": "S"
+        }
+      ]
+    },
+    "postcode": "48350",
+    "city": "B",
+    "city_hu": "B",
+    "address": "Naselje Stjepana Radića",
+    "name": "A",
+    "phoneNum": "0",
+    "mobileNum": "+385914970991",
+    "faxNum": "0",
+    "gpsPosition": {
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "00:00-24:00",
+      "openedSummerSaturday": "00:00-24:00",
+      "openedSummerSunday": "00:00-24:00",
+      "openedWinterWeekDay": "00:00-24:00",
+      "openedWinterSaturday": "00:00-24:00",
+      "openedWinterSunday": "00:00-24:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1961-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "CYLINDER_PB_GAS",
+          "name": ""
+        },
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        },
+        {
+          "id": "LOTTERY",
+          "name": ""
+        },
+        {
+          "id": "LUBRICANT",
+          "name": ""
+        },
+        {
+          "id": "HIGH_SPEED_PUMP",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        },
+        {
+          "id": "EVERYDAY_SHOPPING",
+          "name": ""
+        },
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EURODIESEL_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95_CLASS_PLUS",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "VPAY",
+          "name": ""
+        },
+        {
+          "id": "DKV_CARD",
+          "name": ""
+        },
+        {
+          "id": "DISCOVER",
+          "name": ""
+        },
+        {
+          "id": "INA_CARD",
+          "name": ""
+        },
+        {
+          "id": "SLOVNAFT_RED_CARD_SK",
+          "name": "Slovnaft Red Card SK"
+        },
+        {
+          "id": "CIRRUS_MAESTRO",
+          "name": ""
+        },
+        {
+          "id": "MASTERCARD_ELECTRONIC",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_AT",
+          "name": "MOL Gold Card AT"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "GOLD_CARD_EUROPE_EMPLOYEE",
+          "name": "Gold Card Europe Employee"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_NEIGHBOURHOOD",
+          "name": "Neighbourhood"
+        },
+        {
+          "id": "PL_BIG_TOWN",
+          "name": "Big Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": []
+    }
+  }, 
+  {
+    "language": "en",
+    "code": "1911100010",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 20,
+    "numOfFillPos": 8,
+    "numOfPos": 1,
+    "openDate": "1961-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Bjelovarsko-bilogorska",
+          "name": "Bjelovarsko-bilogorska"
+        }
+      ]
+    },
+    "postcode": "43240",
+    "city": "Äazma",
+    "city_hu": "Äazma",
+    "address": "Franje VidoviÄa 59",
+    "name": "Äazma",
+    "phoneNum": "0",
+    "mobileNum": "+385914970989",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.74843315260,
+      "longitude": 16.60184631820
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "06:00-22:00",
+      "openedSummerSaturday": "06:00-22:00",
+      "openedSummerSunday": "06:00-22:00",
+      "openedWinterWeekDay": "06:00-22:00",
+      "openedWinterSaturday": "06:00-22:00",
+      "openedWinterSunday": "06:00-22:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1961-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        },
+        {
+          "id": "EXHAUST_OIL_RECEIPT",
+          "name": ""
+        },
+        {
+          "id": "CYLINDER_PB_GAS",
+          "name": ""
+        },
+        {
+          "id": "USED_COOKING_OIL",
+          "name": ""
+        },
+        {
+          "id": "PUMP",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EURODIESEL_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "BLUE_DIESEL",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95",
+          "name": ""
+        },
+        {
+          "id": "EURODIESEL",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "MOL_GOLD_CARD_AT",
+          "name": "MOL Gold Card AT"
+        },
+        {
+          "id": "MOL_EMPLOYEE_CARD_HU",
+          "name": "MOL Employee Card HU"
+        },
+        {
+          "id": "MOL_GOLD_CARD_RO",
+          "name": "MOL Gold Card RO"
+        },
+        {
+          "id": "MASTERCARD_ELECTRONIC",
+          "name": ""
+        },
+        {
+          "id": "AMEX",
+          "name": ""
+        },
+        {
+          "id": "VPAY",
+          "name": ""
+        },
+        {
+          "id": "DISCOVER",
+          "name": ""
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        },
+        {
+          "id": "GOLD_CARD_EUROPE_EMPLOYEE",
+          "name": "Gold Card Europe Employee"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "PL_SMALL_TOWN",
+          "name": "Small Town"
+        },
+        {
+          "id": "SL_SMALL_TOWN",
+          "name": "Small Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": []
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100121",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 67,
+    "numOfFillPos": 8,
+    "numOfPos": 1,
+    "openDate": "1962-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52220",
+    "city": "Labin",
+    "city_hu": "Labin",
+    "address": "Zelenice 43",
+    "name": "Labin",
+    "phoneNum": "0",
+    "mobileNum": "+385914971118",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.10131337160,
+      "longitude": 14.11426348130
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "00:00-24:00",
+      "openedSummerSaturday": "00:00-24:00",
+      "openedSummerSunday": "00:00-24:00",
+      "openedWinterWeekDay": "00:00-24:00",
+      "openedWinterSaturday": "00:00-24:00",
+      "openedWinterSunday": "00:00-24:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1962-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "EVERYDAY_SHOPPING",
+          "name": ""
+        },
+        {
+          "id": "ADBLUE_DISPENSER_AVAILABLE",
+          "name": ""
+        },
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        },
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "LUBRICANT",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EUROSUPER_95",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "CIRRUS_MAESTRO",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_SRB",
+          "name": "MOL Gold Card SRB"
+        },
+        {
+          "id": "MOL_GOLD_CARD_RO",
+          "name": "MOL Gold Card RO"
+        },
+        {
+          "id": "VISA",
+          "name": ""
+        },
+        {
+          "id": "SLOVNAFT_GOLD_CARD_SK",
+          "name": "Slovnaft Gold Card SK"
+        },
+        {
+          "id": "VPAY",
+          "name": ""
+        },
+        {
+          "id": "GOLD_CARD_EUROPE",
+          "name": "Gold Card Europe"
+        },
+        {
+          "id": "DISCOVER",
+          "name": ""
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_SMALL_TOWN",
+          "name": "Small Town"
+        },
+        {
+          "id": "FULL",
+          "name": "Full"
+        },
+        {
+          "id": "PL_SMALL_TOWN",
+          "name": "Small Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": [
+        {
+          "id": "FRESH_CORNER",
+          "name": ""
+        },
+        {
+          "id": "SELF_SERVICE_COFFEE",
+          "name": ""
+        },
+        {
+          "id": "HOT_DOG",
+          "name": ""
+        },
+        {
+          "id": "FRESH_SANDWICH",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100122",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 20,
+    "numOfFillPos": 6,
+    "numOfPos": 1,
+    "openDate": "1968-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52234",
+    "city": "VoziliÄi",
+    "city_hu": "VoziliÄi",
+    "address": "VoziliÄi 35 A",
+    "name": "VoziliÄi",
+    "phoneNum": "0",
+    "mobileNum": "+385914971140",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.15636229940,
+      "longitude": 14.16131598050
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "07:00-21:00",
+      "openedSummerSaturday": "07:00-21:00",
+      "openedSummerSunday": "07:00-21:00",
+      "openedWinterWeekDay": "07:00-19:00",
+      "openedWinterSaturday": "07:00-19:00",
+      "openedWinterSunday": "07:00-13:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "2020-08-31",
+      "summerToWinterDate": "2020-07-01",
+      "fsOpenDate": "1968-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "PUMP",
+          "name": ""
+        },
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "EVERYDAY_SHOPPING",
+          "name": ""
+        },
+        {
+          "id": "HIGH_SPEED_PUMP",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        },
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EURODIESEL_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "BLUE_DIESEL",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95_CLASS_PLUS",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "VISA_ELECTRON",
+          "name": ""
+        },
+        {
+          "id": "GOLD_CARD_EUROPE_EMPLOYEE",
+          "name": "Gold Card Europe Employee"
+        },
+        {
+          "id": "VISA",
+          "name": ""
+        },
+        {
+          "id": "DINERS",
+          "name": ""
+        },
+        {
+          "id": "MOL_EMPLOYEE_CARD_HU",
+          "name": "MOL Employee Card HU"
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        },
+        {
+          "id": "GOLD_CARD_EUROPE",
+          "name": "Gold Card Europe"
+        },
+        {
+          "id": "MOL_GOLD_CARD_AT",
+          "name": "MOL Gold Card AT"
+        },
+        {
+          "id": "INA_CARD",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_MAIN_ROAD",
+          "name": "Main road"
+        },
+        {
+          "id": "PL_TRANSIT",
+          "name": "Transit"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": [
+        {
+          "id": "VENDING_MACHINE",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100124",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 60,
+    "numOfFillPos": 5,
+    "numOfPos": 1,
+    "openDate": "1959-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52100",
+    "city": "Pula",
+    "city_hu": "Pula",
+    "address": "43. Istarske divizije 4",
+    "name": "Pula-Punta Å ijana",
+    "phoneNum": "0",
+    "mobileNum": "+385914971128",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 44.87670936060,
+      "longitude": 13.85348688020
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "00:00-24:00",
+      "openedSummerSaturday": "00:00-24:00",
+      "openedSummerSunday": "00:00-24:00",
+      "openedWinterWeekDay": "00:00-24:00",
+      "openedWinterSaturday": "00:00-24:00",
+      "openedWinterSunday": "00:00-24:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1959-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        },
+        {
+          "id": "LUBRICANT",
+          "name": ""
+        },
+        {
+          "id": "PUMP",
+          "name": ""
+        },
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        },
+        {
+          "id": "PRE_PACKED_SANDWICH",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EUROSUPER_95_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95",
+          "name": ""
+        },
+        {
+          "id": "EURODIESEL",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "UTA_CARD",
+          "name": ""
+        },
+        {
+          "id": "EUROCARD_MASTERCARD",
+          "name": ""
+        },
+        {
+          "id": "SLOVNAFT_GOLD_CARD_SK",
+          "name": "Slovnaft Gold Card SK"
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        },
+        {
+          "id": "GOLD_CARD_EUROPE",
+          "name": "Gold Card Europe"
+        },
+        {
+          "id": "MOL_GOLD_CARD_RO",
+          "name": "MOL Gold Card RO"
+        },
+        {
+          "id": "DINA",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "DISCOVER",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_CZ",
+          "name": "MOL Gold Card CZ"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_COMMUTER",
+          "name": "Commuter"
+        },
+        {
+          "id": "PL_BIG_TOWN",
+          "name": "Big Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": [
+        {
+          "id": "VENDING_MACHINE",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100126",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 22,
+    "numOfFillPos": 6,
+    "numOfPos": 1,
+    "openDate": "2016-03-07",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52440",
+    "city": "PoreÄ",
+    "city_hu": "PoreÄ",
+    "address": "Vukovarska 2",
+    "name": "PoreÄ-Vukovarska",
+    "phoneNum": "0",
+    "mobileNum": "+385914971124",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.22581943690,
+      "longitude": 13.60171408810
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "00:00-24:00",
+      "openedSummerSaturday": "00:00-24:00",
+      "openedSummerSunday": "00:00-24:00",
+      "openedWinterWeekDay": "00:00-24:00",
+      "openedWinterSaturday": "00:00-24:00",
+      "openedWinterSunday": "00:00-24:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "2016-03-07",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "PRE_PACKED_SANDWICH",
+          "name": ""
+        },
+        {
+          "id": "EVERYDAY_SHOPPING",
+          "name": ""
+        },
+        {
+          "id": "PUMP",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EUROSUPER_95_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "EURODIESEL",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_100_CLASS_PLUS",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "SLOVNAFT_GOLD_CARD_SK",
+          "name": "Slovnaft Gold Card SK"
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        },
+        {
+          "id": "INA_CARD",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "GOLD_CARD_EUROPE_EMPLOYEE",
+          "name": "Gold Card Europe Employee"
+        },
+        {
+          "id": "MOL_GOLD_CARD_CZ",
+          "name": "MOL Gold Card CZ"
+        },
+        {
+          "id": "MASTERCARD_ELECTRONIC",
+          "name": ""
+        },
+        {
+          "id": "MOL_EMPLOYEE_CARD_HU",
+          "name": "MOL Employee Card HU"
+        },
+        {
+          "id": "MOL_GOLD_CARD_HU",
+          "name": "MOL Gold Card HU"
+        },
+        {
+          "id": "VISA_ELECTRON",
+          "name": ""
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_NEIGHBOURHOOD",
+          "name": "Neighbourhood"
+        },
+        {
+          "id": "FULL",
+          "name": "Full"
+        },
+        {
+          "id": "PL_BIG_TOWN",
+          "name": "Big Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": [
+        {
+          "id": "BAKERY",
+          "name": ""
+        },
+        {
+          "id": "SELF_SERVICE_COFFEE",
+          "name": ""
+        },
+        {
+          "id": "HOT_DOG",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100127",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 11,
+    "numOfFillPos": 8,
+    "numOfPos": 1,
+    "openDate": "1960-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52210",
+    "city": "Rovinj",
+    "city_hu": "Rovinj",
+    "address": "BraÄe BoÅ¾iÄ 2/B",
+    "name": "Rovinj-Istarska",
+    "phoneNum": "0",
+    "mobileNum": "+385914971134",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.07979745920,
+      "longitude": 13.65365012090
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "06:00-22:00",
+      "openedSummerSaturday": "06:00-22:00",
+      "openedSummerSunday": "06:00-22:00",
+      "openedWinterWeekDay": "06:00-22:00",
+      "openedWinterSaturday": "06:00-22:00",
+      "openedWinterSunday": "06:00-22:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1960-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "EVERYDAY_SHOPPING",
+          "name": ""
+        },
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        },
+        {
+          "id": "SLOVENIAN_MOTORWAY_VIGNETT",
+          "name": ""
+        },
+        {
+          "id": "PUMP",
+          "name": ""
+        },
+        {
+          "id": "HIGH_SPEED_PUMP",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EURODIESEL"
+        },
+        {
+          "id": "EURODIESEL_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "LPG",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "DISCOVER",
+          "name": ""
+        },
+        {
+          "id": "VISA_ELECTRON",
+          "name": ""
+        },
+        {
+          "id": "DINA",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_RO",
+          "name": "MOL Gold Card RO"
+        },
+        {
+          "id": "INA_CARD",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_CZ",
+          "name": "MOL Gold Card CZ"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "MOL_EMPLOYEE_CARD_HU",
+          "name": "MOL Employee Card HU"
+        },
+        {
+          "id": "MAESTRO",
+          "name": ""
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_NEIGHBOURHOOD",
+          "name": "Neighbourhood"
+        },
+        {
+          "id": "PL_BIG_TOWN",
+          "name": "Big Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": []
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100128",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 62,
+    "numOfFillPos": 8,
+    "numOfPos": 1,
+    "openDate": "1962-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52000",
+    "city_hu": "Pazin",
+    "address": "Miroslava BuleÅ¡iÄa 1a",
+    "name": "Pazin",
+    "phoneNum": "0",
+    "mobileNum": "+385914971121",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.23884239830,
+      "longitude": 13.94346925550
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "06:00-22:00",
+      "openedSummerSaturday": "06:00-22:00",
+      "openedSummerSunday": "06:00-22:00",
+      "openedWinterWeekDay": "06:00-22:00",
+      "openedWinterSaturday": "06:00-22:00",
+      "openedWinterSunday": "06:00-22:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1962-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "HOOVER",
+          "name": ""
+        },
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "INTERNET_WIFI",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EUROSUPER_95_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95",
+          "name": ""
+        },
+        {
+          "id": "EURODIESEL",
+          "name": ""
+        },
+        {
+          "id": "LPG",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "SLOVNAFT_GOLD_CARD_SK",
+          "name": "Slovnaft Gold Card SK"
+        },
+        {
+          "id": "DISCOVER",
+          "name": ""
+        },
+        {
+          "id": "GOLD_CARD_EUROPE",
+          "name": "Gold Card Europe"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SRB",
+          "name": "MOL Gold Card SRB"
+        },
+        {
+          "id": "DINA",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_RO",
+          "name": "MOL Gold Card RO"
+        },
+        {
+          "id": "MOL_GOLD_CARD_CZ",
+          "name": "MOL Gold Card CZ"
+        },
+        {
+          "id": "MASTERCARD_ELECTRONIC",
+          "name": ""
+        },
+        {
+          "id": "VISA_ELECTRON",
+          "name": ""
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "FULL",
+          "name": "Full"
+        },
+        {
+          "id": "SL_SMALL_TOWN",
+          "name": "Small Town"
+        },
+        {
+          "id": "PL_SMALL_TOWN",
+          "name": "Small Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": [
+        {
+          "id": "HOT_DOG",
+          "name": ""
+        },
+        {
+          "id": "BAKERY",
+          "name": ""
+        },
+        {
+          "id": "FRESH_CORNER",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100129",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 70,
+    "numOfFillPos": 4,
+    "numOfPos": 1,
+    "openDate": "1962-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52420",
+    "city": "Buzet",
+    "city_hu": "Buzet",
+    "address": "RijeÄka 4",
+    "name": "Buzet",
+    "phoneNum": "0",
+    "mobileNum": "+385914971115",
+    "gpsPosition": {
+      "latitude": 45.40886345950,
+      "longitude": 13.96755344780
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "06:00-22:00",
+      "openedSummerSaturday": "06:00-22:00",
+      "openedSummerSunday": "06:00-22:00",
+      "openedWinterWeekDay": "06:00-22:00",
+      "openedWinterSaturday": "06:00-22:00",
+      "openedWinterSunday": "06:00-22:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "0000-00-00",
+      "summerToWinterDate": "0000-00-00",
+      "fsOpenDate": "1962-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        },
+        {
+          "id": "PUMP",
+          "name": ""
+        },
+        {
+          "id": "LUBRICANT",
+          "name": ""
+        },
+        {
+          "id": "INTERNET_WIFI",
+          "name": ""
+        },
+        {
+          "id": "SLOVENIAN_MOTORWAY_VIGNETT",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EURODIESEL",
+          "name": ""
+        },
+        {
+          "id": "EURODIESEL_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_100_CLASS_PLUS",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "MOL_GOLD_CARD_HU",
+          "name": "MOL Gold Card HU"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "INA_CARD",
+          "name": ""
+        },
+        {
+          "id": "GOLD_CARD_EUROPE",
+          "name": "Gold Card Europe"
+        },
+        {
+          "id": "ENERGOPETROL_GOLD_CARD_BIH",
+          "name": "Energopetrol Gold Card BiH"
+        },
+        {
+          "id": "VPAY",
+          "name": ""
+        },
+        {
+          "id": "EUROCARD_MASTERCARD",
+          "name": ""
+        },
+        {
+          "id": "MAESTRO",
+          "name": ""
+        },
+        {
+          "id": "SLOVNAFT_GOLD_CARD_SK",
+          "name": "Slovnaft Gold Card SK"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SRB",
+          "name": "MOL Gold Card SRB"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "PL_SMALL_TOWN",
+          "name": "Small Town"
+        },
+        {
+          "id": "SL_SMALL_TOWN",
+          "name": "Small Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": [
+        {
+          "id": "VENDING_MACHINE",
+          "name": ""
+        }
+      ]
+    }
+  },
+  {
+    "language": "en",
+    "code": "1911100130",
+    "company": "INA",
+    "brand": "INA",
+    "shopSize": 16,
+    "numOfFillPos": 5,
+    "numOfPos": 1,
+    "openDate": "1964-01-01",
+    "opPlatform": "COCO",
+    "country": {
+      "values": [
+        {
+          "id": "HR",
+          "name": "Croatia"
+        }
+      ]
+    },
+    "county": {
+      "values": [
+        {
+          "id": "Istarska",
+          "name": "Istarska"
+        }
+      ]
+    },
+    "postcode": "52445",
+    "city": "Baderna",
+    "city_hu": "Baderna",
+    "address": "Baderna 1c",
+    "name": "Baderna",
+    "phoneNum": "0",
+    "mobileNum": "+385914971112",
+    "faxNum": "0",
+    "gpsPosition": {
+      "latitude": 45.21379330680,
+      "longitude": 13.74855552050
+    },
+    "openedHours": {
+      "openedSummerWeekDay": "06:00-21:00",
+      "openedSummerSaturday": "06:00-21:00",
+      "openedSummerSunday": "06:00-21:00",
+      "openedWinterWeekDay": "07:00-19:00",
+      "openedWinterSaturday": "07:00-19:00",
+      "openedWinterSunday": "07:00-13:00",
+      "openedShop": "00:00-24:00",
+      "openedCafeeShop": "00:00-24:00",
+      "openedCarWash": "00:00-24:00",
+      "woStaff": "00:00-24:00",
+      "winterToSummerDate": "2020-08-31",
+      "summerToWinterDate": "2020-07-01",
+      "fsOpenDate": "1964-01-01",
+      "opPlatform": "COCO"
+    },
+    "services": {
+      "values": [
+        {
+          "id": "LUBRICANT",
+          "name": ""
+        },
+        {
+          "id": "EVERYDAY_SHOPPING",
+          "name": ""
+        },
+        {
+          "id": "PICK_PACK_PONT",
+          "name": ""
+        },
+        {
+          "id": "SHOP",
+          "name": ""
+        },
+        {
+          "id": "CYLINDER_PB_GAS",
+          "name": ""
+        },
+        {
+          "id": "PUMP",
+          "name": ""
+        },
+        {
+          "id": "POSTAPONT",
+          "name": ""
+        }
+      ]
+    },
+    "fuelsAndAdditives": {
+      "values": [
+        {
+          "id": "EURODIESEL_CLASS_PLUS",
+          "name": ""
+        },
+        {
+          "id": "EURODIESEL",
+          "name": ""
+        },
+        {
+          "id": "EUROSUPER_95",
+          "name": ""
+        }
+      ]
+    },
+    "cards": {
+      "values": [
+        {
+          "id": "DINA",
+          "name": ""
+        },
+        {
+          "id": "INA_CARD",
+          "name": ""
+        },
+        {
+          "id": "MOL_EMPLOYEE_CARD_HU",
+          "name": "MOL Employee Card HU"
+        },
+        {
+          "id": "CIRRUS_MAESTRO",
+          "name": ""
+        },
+        {
+          "id": "MOL_GOLD_CARD_HU",
+          "name": "MOL Gold Card HU"
+        },
+        {
+          "id": "MOL_GOLD_CARD_AT",
+          "name": "MOL Gold Card AT"
+        },
+        {
+          "id": "MOL_GOLD_CARD_RO",
+          "name": "MOL Gold Card RO"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SLO",
+          "name": "MOL Gold Card SLO"
+        },
+        {
+          "id": "MOL_GOLD_CARD_SRB",
+          "name": "MOL Gold Card SRB"
+        }
+      ]
+    },
+    "category": {
+      "values": [
+        {
+          "id": "SL_VILLAGE",
+          "name": "Village"
+        },
+        {
+          "id": "PL_SMALL_TOWN",
+          "name": "Small Town"
+        }
+      ]
+    },
+    "gastroCategory": {
+      "values": []
+    }
+  }
+]

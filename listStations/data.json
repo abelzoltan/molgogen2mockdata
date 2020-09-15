@@ -1,5 +1,4 @@
-[
-  {
+[ {
     "language": "en",
     "code": "1911100007",
     "company": "INA",
@@ -20,22 +19,20 @@
     "county": {
       "values": [
         {
-          "id": "KoprivniÄko-kriÅ¾evaÄka",
-          "name": "KoprivniÄko-kriÅ¾evaÄka"
+          "id": "A",
+          "name": "S"
         }
       ]
     },
     "postcode": "48350",
-    "city": "ÄurÄevac",
-    "city_hu": "ÄurÄevac",
-    "address": "Stjepana RadiÄa 110b",
-    "name": "ÄurÄevac",
+    "city": "B",
+    "city_hu": "B",
+    "address": "Naselje Stjepana Radića",
+    "name": "A",
     "phoneNum": "0",
     "mobileNum": "+385914970991",
     "faxNum": "0",
     "gpsPosition": {
-      "latitude": 46.03022875250,
-      "longitude": 17.06667836170
     },
     "openedHours": {
       "openedSummerWeekDay": "00:00-24:00",
@@ -160,7 +157,7 @@
     "gastroCategory": {
       "values": []
     }
-  },
+  }, 
   {
     "language": "en",
     "code": "1911100010",
