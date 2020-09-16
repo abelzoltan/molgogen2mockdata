@@ -1,782 +1,782 @@
 {
-  "acceptedCards": [
-    {
-      "id": "DKV_CARD",
-      "name": "DKV kartica"
-    },
-    {
-      "id": "DINA",
-      "name": "DINA"
-    },
-    {
-      "id": "DINERS",
-      "name": "Diners Club kartica"
-    },
-    {
-      "id": "ACTIVA_CARD",
-      "name": "Activa Card"
-    },
-    {
-      "id": "BA_CARD",
-      "name": "BA Card"
-    },
-    {
-      "id": "KARANTA_CARD",
-      "name": "Karanta Card"
-    },
-    {
-      "id": "CCS_CARD",
-      "name": "CCS Card"
-    },
-    {
-      "id": "VPAY",
-      "name": "Vpay"
-    },
-    {
-      "id": "MOL_GOLD_CARD_HU",
-      "name": "MOL Gold Card HU"
-    },
-    {
-      "id": "SLOVNAFT_GOLD_CARD_SK",
-      "name": "Slovnaft Gold Card SK"
-    },
-    {
-      "id": "MOL_GOLD_CARD_RO",
-      "name": "MOL Gold Card RO"
-    },
-    {
-      "id": "ZBK_CARD",
-      "name": "ZBK Card"
-    },
-    {
-      "id": "UTA_CARD",
-      "name": "UTA kartica"
-    },
-    {
-      "id": "MOL_GOLD_CARD_SRB",
-      "name": "MOL Gold Card SRB"
-    },
-    {
-      "id": "MOL_GOLD_CARD_SLO",
-      "name": "MOL Gold Card SLO"
-    },
-    {
-      "id": "MOL_SILVER_CARD_HU",
-      "name": "MOL Silver Card HU"
-    },
-    {
-      "id": "MOL_SILVER_CARD_RO",
-      "name": "MOL Silver Card RO"
-    },
-    {
-      "id": "SLOVNAFT_SILVER_CARD_SK",
-      "name": "Slovnaft Silver Card SK"
-    },
-    {
-      "id": "MOL_SILVER_CARD_AT",
-      "name": "MOL Silver Card AT"
-    },
-    {
-      "id": "TIFON_SILVER_CARD_HR",
-      "name": "Tifon Silver Card HR"
-    },
-    {
-      "id": "MOL_RED_CARD_HU",
-      "name": "MOL Red Card HU"
-    },
-    {
-      "id": "MOL_EMPLOYEE_CARD_HU",
-      "name": "MOL Employee Card HU"
-    },
-    {
-      "id": "GOLD_CARD_SLOVENIA_PREPAID",
-      "name": "Gold Card Slovenia Prepaid"
-    },
-    {
-      "id": "SLOVNAFT_RED_CARD_SK",
-      "name": "Slovnaft Red Card SK"
-    },
-    {
-      "id": "VISA",
-      "name": "Visa"
-    },
-    {
-      "id": "MOL_GREEN_CARD_HU",
-      "name": "MOL Green Card HU"
-    },
-    {
-      "id": "MOL_BLUE_CARD_HU",
-      "name": "MOL Blue Card HU"
-    },
-    {
-      "id": "INA_CARD",
-      "name": "INA kartica"
-    },
-    {
-      "id": "BENZINA_CARD",
-      "name": "Benzina Card"
-    },
-    {
-      "id": "FLEET_CARD_IT",
-      "name": "Fleet Card IT"
-    },
-    {
-      "id": "MOL_LOYALTY_CARD_HU",
-      "name": "MOL Loyalty Card HU"
-    },
-    {
-      "id": "MULTIBONUS_CARD",
-      "name": "Multibonus Card"
-    },
-    {
-      "id": "VISA_ELECTRON",
-      "name": "Visa Electron"
-    },
-    {
-      "id": "GOLD_CARD_CROATIA_PREPAID",
-      "name": "Gold Card Croatia Prepaid"
-    },
-    {
-      "id": "MULTIPONT_CARD_HU",
-      "name": "Multipont Card HU"
-    },
-    {
-      "id": "MOL_GREEN_CARD_RO",
-      "name": "MOL Green Card RO"
-    },
-    {
-      "id": "SLOVNAFT_GREEN_CARD_SK",
-      "name": "Slovnaft Green Card SK"
-    },
-    {
-      "id": "EUROSHELL_CARD",
-      "name": "Euroshell card"
-    },
-    {
-      "id": "MOL_GOLD_CARD_AT",
-      "name": "MOL Gold Card AT"
-    },
-    {
-      "id": "TIFON_GOLD_CARD_HR",
-      "name": "Tifon Gold Card HR"
-    },
-    {
-      "id": "MOL_RED_CARD_RO",
-      "name": "MOL RED Card RO"
-    },
-    {
-      "id": "EUROCARD_MASTERCARD",
-      "name": "MasterCard"
-    },
-    {
-      "id": "ENERGOPETROL_GOLD_CARD_BIH",
-      "name": "Energopetrol Gold Card BiH"
-    },
-    {
-      "id": "DISCOVER",
-      "name": "Discover"
-    },
-    {
-      "id": "GOLD_CARD_BOSNIA-HERZEGOVINA_PREPAID",
-      "name": "Gold Card Bosnia-Herzegovina Prepaid"
-    },
-    {
-      "id": "MOL_BLUE_CARD_RO",
-      "name": "MOL Blue Card RO"
-    },
-    {
-      "id": "CARTAMAXIMA",
-      "name": "CARTAMAXIMA"
-    },
-    {
-      "id": "MOL_GOLD_CARD_CZ",
-      "name": "MOL Gold Card CZ"
-    },
-    {
-      "id": "TIFON_GREEN_CARD_HR",
-      "name": "Tifon Green Card HR"
-    },
-    {
-      "id": "MOL_GREEN_CARD_SRB",
-      "name": "MOL Green Card SRB"
-    },
-    {
-      "id": "MOL_GREEN_CARD_SLO",
-      "name": "MOL Green Card SLO"
-    },
-    {
-      "id": "ENERGOPETROL_GREEN_CARD_BIH",
-      "name": "Energopetrol Green Card BiH"
-    },
-    {
-      "id": "MAESTRO",
-      "name": "Maestro"
-    },
-    {
-      "id": "SLOVNAFT_BLUE_CARD_SK",
-      "name": "Slovnaft Blue Card SK"
-    },
-    {
-      "id": "MOL_SILVER_CARD_CZ",
-      "name": "MOL Silver Card CZ"
-    },
-    {
-      "id": "GOLD_CARD_SERBIA_PREPAID",
-      "name": "Gold Card Serbia Prepaid"
-    },
-    {
-      "id": "E100_CARD",
-      "name": "E100 Card"
-    },
-    {
-      "id": "DIESEL24",
-      "name": "DIESEL24"
-    },
-    {
-      "id": "MORGAN_FUELS",
-      "name": "Morgan Fuels"
-    },
-    {
-      "id": "MOL_SILVER_CARD_SLO",
-      "name": "MOL Silver Card SLO"
-    },
-    {
-      "id": "MOL_RED_CARD_SLO",
-      "name": "MOL Red Card SLO"
-    },
-    {
-      "id": "EURO_OIL",
-      "name": "EURO OIL"
-    },
-    {
-      "id": "EURO_WAG",
-      "name": "EURO WAG"
-    },
-    {
-      "id": "AMEX",
-      "name": "American Express"
-    },
-    {
-      "id": "SMART_DIESEL",
-      "name": "Smart Diesel"
-    },
-    {
-      "id": "AS24",
-      "name": "AS24"
-    },
-    {
-      "id": "GOLD_CARD_SLOVAKIA_EMPLOYEE",
-      "name": "Gold Card Slovakia Employee"
-    },
-    {
-      "id": "IDS",
-      "name": "IDS"
-    },
-    {
-      "id": "VEMEX_CNG",
-      "name": "Vemex CNG"
-    },
-    {
-      "id": "FUELO_MAT",
-      "name": "FUELO MAT"
-    },
-    {
-      "id": "GOLD_CARD_EUROPE",
-      "name": "Gold Card Europe"
-    },
-    {
-      "id": "GOLD_CARD_CZECH_REPUBLIC",
-      "name": "Gold Card Czech Republic"
-    },
-    {
-      "id": "GOLD_CARD_SLOVAKIA",
-      "name": "Gold Card Slovakia"
-    },
-    {
-      "id": "GOLD_CARD_HUNGARY",
-      "name": "Gold Card Hungary"
-    },
-    {
-      "id": "GOLD_CARD_ROMANIA",
-      "name": "Gold Card Romania"
-    },
-    {
-      "id": "MASTERCARD_ELECTRONIC",
-      "name": "MasterCard Electronic"
-    },
-    {
-      "id": "GOLD_CARD_SLOVENIA",
-      "name": "Gold Card Slovenia"
-    },
-    {
-      "id": "GOLD_CARD_EUROPE_EMPLOYEE",
-      "name": "Gold Card Europe Employee"
-    },
-    {
-      "id": "GOLD_CARD_CROATIA",
-      "name": "Gold Card Croatia"
-    },
-    {
-      "id": "GOLD_CARD_BOSNIA-HERZEGOVINA",
-      "name": "Gold Card Bosnia-Herzegovina"
-    },
-    {
-      "id": "GOLD_CARD_SERBIA",
-      "name": "Gold Card Serbia"
-    },
-    {
-      "id": "GIFT_CARD_CZECH_REPUBLIC",
-      "name": "Gift Card Czech Republic"
-    },
-    {
-      "id": "GIFT_CARD_SLOVAKIA",
-      "name": "Gift Card Slovakia"
-    },
-    {
-      "id": "GIFT_CARD_HUNGARY",
-      "name": "Gift Card Hungary"
-    },
-    {
-      "id": "GIFT_CARD_ROMANIA",
-      "name": "Gift Card Romania"
-    },
-    {
-      "id": "GIFT_CARD_CROATIA",
-      "name": "Poklon kartica"
-    },
-    {
-      "id": "PARTNER_CARD_CZECH_REPUBLIC",
-      "name": "Partner Card Czech Republic"
-    },
-    {
-      "id": "CIRRUS_MAESTRO",
-      "name": "Cirrus"
-    },
-    {
-      "id": "YELLOW_CARD",
-      "name": "Yellow card"
-    },
-    {
-      "id": "PARTNER_CARD_SLOVAKIA",
-      "name": "Partner Card Slovakia"
-    },
-    {
-      "id": "PARTNER_CARD_HUNGARY",
-      "name": "Partner Card Hungary"
-    },
-    {
-      "id": "PARTNER_CARD_ROMANIA",
-      "name": "Partner Card Romania"
-    },
-    {
-      "id": "PARTNER_CARD_CROATIA",
-      "name": "Partner Card Croatia"
-    },
-    {
-      "id": "PARTNER_CARD_BOSNIA-HERZEGOVINA",
-      "name": "Partner Card Bosnia-Herzegovina"
-    },
-    {
-      "id": "PARTNER_CARD_SERBIA",
-      "name": "Partner Card Serbia"
-    },
-    {
-      "id": "GOLD_CARD_CZECH_REPUBLIC_PREPAID",
-      "name": "Gold Card Czech Republic Prepaid"
-    },
-    {
-      "id": "GOLD_CARD_SLOVAKIA_PREPAID",
-      "name": "Gold Card Slovakia Prepaid"
-    },
-    {
-      "id": "GOLD_CARD_HUNGARY_PREPAID",
-      "name": "Gold Card Hungary Prepaid"
-    },
-    {
-      "id": "GOLD_CARD_ROMANIA_PREPAID",
-      "name": "Gold Card Romania Prepaid"
-    }
-  ],
-  "fuelsAndAdditives": [
-    {
-      "id": "BLUE_DIESEL",
-      "name": "Eurodizel plavi"
-    },
-    {
-      "id": "CNG",
-      "name": "Plin u boci"
-    },
-    {
-      "id": "AD_BLUE",
-      "name": "AdBlue"
-    },
-    {
-      "id": "DIESEL",
-      "name": "Dizel"
-    },
-    {
-      "id": "EURO_FUEL_OIL_EXTRA_LIGHT",
-      "name": "Euro loživo ulje ekstra lako"
-    },
-    {
-      "id": "EURODIESEL",
-      "name": "Eurodiesel"
-    },
-    {
-      "id": "EURODIESEL_CLASS_PLUS",
-      "name": "Eurodiesel Class Plus"
-    },
-    {
-      "id": "EUROSUPER_100_CLASS_PLUS",
-      "name": "Eurosuper 100 Class Plus"
-    },
-    {
-      "id": "EUROSUPER_95",
-      "name": "Eurosuper 95 "
-    },
-    {
-      "id": "EUROSUPER_95_CLASS_PLUS",
-      "name": "Eurosuper 95 Class Plus"
-    },
-    {
-      "id": "EVO_100_PLUS",
-      "name": ""
-    },
-    {
-      "id": "EVO_95",
-      "name": "Evo 95"
-    },
-    {
-      "id": "EVO_DIESEL",
-      "name": "Evo Diesel"
-    },
-    {
-      "id": "EVO_DIESEL_PLUS",
-      "name": "Evo Diesel Plus"
-    },
-    {
-      "id": "EVO_DIESEL_PLUS__WINTER_DI",
-      "name": "Evo Diesel Plus Winter Di"
-    },
-    {
-      "id": "INA_EURODIESEL_BS_ARKTIK",
-      "name": "Eurodiesel Arktik"
-    },
-    {
-      "id": "LPG",
-      "name": "UNP"
-    },
-    {
-      "id": "NATURAL_95",
-      "name": "Natural 95"
-    },
-    {
-      "id": "RACING_102",
-      "name": "Racing 102"
-    },
-    {
-      "id": "XXL",
-      "name": "Xxl"
-    }
-  ],
-  "gastros": [
-    {
-      "id": "FRESH_CORNER",
-      "name": "Fresh Corner"
-    },
-    {
-      "id": "FRESH_CORNER_DRIVE",
-      "name": "Fresh Corner Drive"
-    },
-    {
-      "id": "FRESH_SANDWICH",
-      "name": "Svježi sendvič"
-    },
-    {
-      "id": "HAMBURGER",
-      "name": "Hamburger"
-    },
-    {
-      "id": "HOT_DOG",
-      "name": "Hot Dog"
-    },
-    {
-      "id": "BAKERY",
-      "name": "Pekarski proizvodi"
-    },
-    {
-      "id": "ONE_COURSE_DISH",
-      "name": "One Course Dish"
-    },
-    {
-      "id": "BARISTA_COFFEE",
-      "name": "Kava barista"
-    },
-    {
-      "id": "RESTAURANT",
-      "name": "Restoran"
-    },
-    {
-      "id": "SELF_SERVICE_COFFEE",
-      "name": "Samouslužna kava"
-    },
-    {
-      "id": "SOUP",
-      "name": "Juha"
-    },
-    {
-      "id": "VENDING_MACHINE",
-      "name": "Automat za kavu"
-    }
-  ],
-  "services": [
-    {
-      "id": "ACC_RECEIPT",
-      "name": "Preuzimanje akumulatora"
-    },
-    {
-      "id": "BIKE_WASH",
-      "name": "Pranje bicikla"
-    },
-    {
-      "id": "BIKEPOINT",
-      "name": "BikePOINT"
-    },
-    {
-      "id": "BUSINESS_LOUNGE",
-      "name": "Poslovni salon"
-    },
-    {
-      "id": "COOLANT_TESTER",
-      "name": "Uređaj za provjeru antifriza"
-    },
-    {
-      "id": "CYLINDER_PB_GAS",
-      "name": "Plin u boci za domaćinstvo"
-    },
-    {
-      "id": "CZECH_MOTORWAY_VIGNETTE",
-      "name": "Czech Motorway Vignette"
-    },
-    {
-      "id": "DEFIBRILLATOR_AED",
-      "name": "Defibrillator (AED)"
-    },
-    {
-      "id": "DIAPER_CHANGING_PAD",
-      "name": "Podloga za mijenjanje pelena"
-    },
-    {
-      "id": "DISABLED_TOILET",
-      "name": "Toalet za invalide"
-    },
-    {
-      "id": "DOG_CHIP_READER_PLACE_FRE",
-      "name": "Dog Chip Reader Place Fre"
-    },
-    {
-      "id": "DOG_FRIENDLY",
-      "name": "Psi dobrodošli"
-    },
-    {
-      "id": "DOG_WASH",
-      "name": "Kupanje pasa"
-    },
-    {
-      "id": "ELECTRONIC_VEHICLE_CHARGER",
-      "name": "Punjač električnih vozila "
-    },
-    {
-      "id": "ENP",
-      "name": "ENP"
-    },
-    {
-      "id": "EURO_PAYMENT_ACCEPTANCE",
-      "name": "Omogućeno plaćanje eurima"
-    },
-    {
-      "id": "ADBLUE_DISPENSER_AVAILABLE",
-      "name": "AdBlue istakačko mjesto"
-    },
-    {
-      "id": "EVERYDAY_SHOPPING",
-      "name": "Svakodnevna kupovina"
-    },
-    {
-      "id": "AUSTRIAN_MOTORWAY_VIGNETTE",
-      "name": "Austrijska vinjeta"
-    },
-    {
-      "id": "EXHAUST_OIL_RECEIPT",
-      "name": "Preuzimanje zauljene ambalaže"
-    },
-    {
-      "id": "FAMILY_FITTNESS_PARK",
-      "name": "Obiteljski park za rekreaciju"
-    },
-    {
-      "id": "FAMILY_TOILET",
-      "name": "Obiteljski toalet"
-    },
-    {
-      "id": "FS_IS_ACCESSIBLE_FROM_BOTH",
-      "name": "BP dostupna iz oba smjera"
-    },
-    {
-      "id": "GERMAN_MOTORWAY_VIGNETTE",
-      "name": "German Motorway Vignette"
-    },
-    {
-      "id": "HIGH_SPEED_PUMP",
-      "name": "Visokoučinski mjerni uređaji"
-    },
-    {
-      "id": "AUTOMATIC_CAR_WASH_AVAILABLE",
-      "name": "Automatsko pranje vozila"
-    },
-    {
-      "id": "HOOVER",
-      "name": "Usisivač"
-    },
-    {
-      "id": "HUNGARIAN_MOTORWAY_VIGNETTE",
-      "name": "Mađarska vinjeta"
-    },
-    {
-      "id": "INDOOR_KIDS_CORNER",
-      "name": "Dječji kutak"
-    },
-    {
-      "id": "INSURANCE",
-      "name": "Osiguranje"
-    },
-    {
-      "id": "INTERNET_WIFI",
-      "name": "Internet (Wi-Fi)"
-    },
-    {
-      "id": "JET_WASH_AVAILABLE",
-      "name": "Samouslužno pranje vozila"
-    },
-    {
-      "id": "LOCAL_PRODUCERS_FOOD_PROJE",
-      "name": "Local Producers Food Proje"
-    },
-    {
-      "id": "LOCAL_PRODUCTS",
-      "name": "Domaći proizvodi"
-    },
-    {
-      "id": "LOTTERY",
-      "name": "Igre na sreću"
-    },
-    {
-      "id": "LUBRICANT",
-      "name": "Maziva"
-    },
-    {
-      "id": "MONEY_EXCHANGE",
-      "name": "Mjenjačnica"
-    },
-    {
-      "id": "MOTORBIKE_PARKING",
-      "name": "Parkiralište za motocikle"
-    },
-    {
-      "id": "NR_WINDFLUID_DISPENSER",
-      "name": "Nr Windfluid Dispenser"
-    },
-    {
-      "id": "OUTD_CHILDREN_PLAYGROUND",
-      "name": "Dječje igralište"
-    },
-    {
-      "id": "OUTDOOR_PAYMENT_NIGHT",
-      "name": "Outdoor Payment Night"
-    },
-    {
-      "id": "OUTDOOR_PAYMENT_POSSIBILITY",
-      "name": "Outdoor Payment Possibility"
-    },
-    {
-      "id": "PAY_AT_PUMP",
-      "name": "Plaćanje na agregatu"
-    },
-    {
-      "id": "PAYMENT_TOILET",
-      "name": "Plaćanje toaleta"
-    },
-    {
-      "id": "PHARMACY",
-      "name": "Ljekarna"
-    },
-    {
-      "id": "PICK_PACK_PONT",
-      "name": "Pick Pack Pont"
-    },
-    {
-      "id": "POLISH_MOTORWAY_VIGNETTE",
-      "name": "Polish Motorway Vignette"
-    },
-    {
-      "id": "POSTAPONT",
-      "name": "Poštanski servis"
-    },
-    {
-      "id": "PRE_PACKED_SANDWICH",
-      "name": "Gotovi sendviči"
-    },
-    {
-      "id": "PUMP",
-      "name": "Pumpa"
-    },
-    {
-      "id": "BIG_ENOUGH_TO_FIT_A_TRUCK",
-      "name": "Big Enough To Fit A Truck"
-    },
-    {
-      "id": "ROMANIAN_ROAD_VIGNETTE",
-      "name": "Romanian Road Vignette"
-    },
-    {
-      "id": "SCREENWASH_VIA_DISPENSER",
-      "name": "Screenwash Via Dispenser"
-    },
-    {
-      "id": "SHOP",
-      "name": "Trgovina"
-    },
-    {
-      "id": "SHOWER_ROOM",
-      "name": "Tuš"
-    },
-    {
-      "id": "SLOVAK_MOTORWAY_VIGNETTE",
-      "name": "Slovak Motorway Vignette"
-    },
-    {
-      "id": "SLOVENIAN_MOTORWAY_VIGNETT",
-      "name": "Slovenska vinjeta"
-    },
-    {
-      "id": "TOLL_TERMINAL",
-      "name": "Nadoplata cestarine (ENC)"
-    },
-    {
-      "id": "BIKE_TOOLKIT",
-      "name": "Alat za bicikle"
-    },
-    {
-      "id": "TRUCK_FRIENDLY",
-      "name": "Pogodno za kamione"
-    },
-    {
-      "id": "TRUCK_PARK",
-      "name": "Parkiralište za kamione"
-    },
-    {
-      "id": "USED_COOKING_OIL",
-      "name": "Preuzimanje zauljene ambalaže"
-    }
-  ]
+    "acceptedCards": [
+        {
+            "id": "DKV_CARD",
+            "name": "DKV Card"
+        },
+        {
+            "id": "DINA",
+            "name": "DINA"
+        },
+        {
+            "id": "DINERS",
+            "name": "Diners"
+        },
+        {
+            "id": "ACTIVA_CARD",
+            "name": "Activa Card"
+        },
+        {
+            "id": "BA_CARD",
+            "name": "BA Card"
+        },
+        {
+            "id": "KARANTA_CARD",
+            "name": "Karanta Card"
+        },
+        {
+            "id": "CCS_CARD",
+            "name": "CCS Card"
+        },
+        {
+            "id": "VPAY",
+            "name": "VPay"
+        },
+        {
+            "id": "MOL_GOLD_CARD_HU",
+            "name": "MOL Gold Card HU"
+        },
+        {
+            "id": "SLOVNAFT_GOLD_CARD_SK",
+            "name": "Slovnaft Gold Card SK"
+        },
+        {
+            "id": "MOL_GOLD_CARD_RO",
+            "name": "MOL Gold Card RO"
+        },
+        {
+            "id": "ZBK_CARD",
+            "name": "ZBK Card"
+        },
+        {
+            "id": "UTA_CARD",
+            "name": "UTA Card"
+        },
+        {
+            "id": "MOL_GOLD_CARD_SRB",
+            "name": "MOL Gold Card SRB"
+        },
+        {
+            "id": "MOL_GOLD_CARD_SLO",
+            "name": "MOL Gold Card SLO"
+        },
+        {
+            "id": "MOL_SILVER_CARD_HU",
+            "name": "MOL Silver Card HU"
+        },
+        {
+            "id": "MOL_SILVER_CARD_RO",
+            "name": "MOL Silver Card RO"
+        },
+        {
+            "id": "SLOVNAFT_SILVER_CARD_SK",
+            "name": "Slovnaft Silver Card SK"
+        },
+        {
+            "id": "MOL_SILVER_CARD_AT",
+            "name": "MOL Silver Card AT"
+        },
+        {
+            "id": "TIFON_SILVER_CARD_HR",
+            "name": "Tifon Silver Card HR"
+        },
+        {
+            "id": "MOL_RED_CARD_HU",
+            "name": "MOL Red Card HU"
+        },
+        {
+            "id": "MOL_EMPLOYEE_CARD_HU",
+            "name": "MOL Employee Card HU"
+        },
+        {
+            "id": "GOLD_CARD_SLOVENIA_PREPAID",
+            "name": "Gold Card Slovenia Prepaid"
+        },
+        {
+            "id": "SLOVNAFT_RED_CARD_SK",
+            "name": "Slovnaft Red Card SK"
+        },
+        {
+            "id": "VISA",
+            "name": "VISA"
+        },
+        {
+            "id": "MOL_GREEN_CARD_HU",
+            "name": "MOL Green Card HU"
+        },
+        {
+            "id": "MOL_BLUE_CARD_HU",
+            "name": "MOL Blue Card HU"
+        },
+        {
+            "id": "INA_CARD",
+            "name": "INA Card"
+        },
+        {
+            "id": "BENZINA_CARD",
+            "name": "Benzina Card"
+        },
+        {
+            "id": "FLEET_CARD_IT",
+            "name": "Fleet Card IT"
+        },
+        {
+            "id": "MOL_LOYALTY_CARD_HU",
+            "name": "MOL Loyalty Card HU"
+        },
+        {
+            "id": "MULTIBONUS_CARD",
+            "name": "Multibonus Card"
+        },
+        {
+            "id": "VISA_ELECTRON",
+            "name": "VISA Electron"
+        },
+        {
+            "id": "GOLD_CARD_CROATIA_PREPAID",
+            "name": "Gold Card Croatia Prepaid"
+        },
+        {
+            "id": "MULTIPONT_CARD_HU",
+            "name": "Multipont Card HU"
+        },
+        {
+            "id": "MOL_GREEN_CARD_RO",
+            "name": "MOL Green Card RO"
+        },
+        {
+            "id": "SLOVNAFT_GREEN_CARD_SK",
+            "name": "Slovnaft Green Card SK"
+        },
+        {
+            "id": "EUROSHELL_CARD",
+            "name": "Euroshell card"
+        },
+        {
+            "id": "MOL_GOLD_CARD_AT",
+            "name": "MOL Gold Card AT"
+        },
+        {
+            "id": "TIFON_GOLD_CARD_HR",
+            "name": "Tifon Gold Card HR"
+        },
+        {
+            "id": "MOL_RED_CARD_RO",
+            "name": "MOL RED Card RO"
+        },
+        {
+            "id": "EUROCARD_MASTERCARD",
+            "name": "Eurocard/ Mastercard"
+        },
+        {
+            "id": "ENERGOPETROL_GOLD_CARD_BIH",
+            "name": "Energopetrol Gold Card BiH"
+        },
+        {
+            "id": "DISCOVER",
+            "name": "Discover"
+        },
+        {
+            "id": "GOLD_CARD_BOSNIA-HERZEGOVINA_PREPAID",
+            "name": "Gold Card Bosnia-Herzegovina Prepaid"
+        },
+        {
+            "id": "MOL_BLUE_CARD_RO",
+            "name": "MOL Blue Card RO"
+        },
+        {
+            "id": "CARTAMAXIMA",
+            "name": "CARTAMAXIMA"
+        },
+        {
+            "id": "MOL_GOLD_CARD_CZ",
+            "name": "MOL Gold Card CZ"
+        },
+        {
+            "id": "TIFON_GREEN_CARD_HR",
+            "name": "Tifon Green Card HR"
+        },
+        {
+            "id": "MOL_GREEN_CARD_SRB",
+            "name": "MOL Green Card SRB"
+        },
+        {
+            "id": "MOL_GREEN_CARD_SLO",
+            "name": "MOL Green Card SLO"
+        },
+        {
+            "id": "ENERGOPETROL_GREEN_CARD_BIH",
+            "name": "Energopetrol Green Card BiH"
+        },
+        {
+            "id": "MAESTRO",
+            "name": "Maestro"
+        },
+        {
+            "id": "SLOVNAFT_BLUE_CARD_SK",
+            "name": "Slovnaft Blue Card SK"
+        },
+        {
+            "id": "MOL_SILVER_CARD_CZ",
+            "name": "MOL Silver Card CZ"
+        },
+        {
+            "id": "GOLD_CARD_SERBIA_PREPAID",
+            "name": "Gold Card Serbia Prepaid"
+        },
+        {
+            "id": "E100_CARD",
+            "name": "E100 Card"
+        },
+        {
+            "id": "DIESEL24",
+            "name": "DIESEL24"
+        },
+        {
+            "id": "MORGAN_FUELS",
+            "name": "Morgan Fuels"
+        },
+        {
+            "id": "MOL_SILVER_CARD_SLO",
+            "name": "MOL Silver Card SLO"
+        },
+        {
+            "id": "MOL_RED_CARD_SLO",
+            "name": "MOL Red Card SLO"
+        },
+        {
+            "id": "EURO_OIL",
+            "name": "EURO OIL"
+        },
+        {
+            "id": "EURO_WAG",
+            "name": "EURO WAG"
+        },
+        {
+            "id": "AMEX",
+            "name": "AMEX"
+        },
+        {
+            "id": "SMART_DIESEL",
+            "name": "Smart Diesel"
+        },
+        {
+            "id": "AS24",
+            "name": "AS24"
+        },
+        {
+            "id": "GOLD_CARD_SLOVAKIA_EMPLOYEE",
+            "name": "Gold Card Slovakia Employee"
+        },
+        {
+            "id": "IDS",
+            "name": "IDS"
+        },
+        {
+            "id": "VEMEX_CNG",
+            "name": "Vemex CNG"
+        },
+        {
+            "id": "FUELO_MAT",
+            "name": "FUELO MAT"
+        },
+        {
+            "id": "GOLD_CARD_EUROPE",
+            "name": "Gold Card Europe"
+        },
+        {
+            "id": "GOLD_CARD_CZECH_REPUBLIC",
+            "name": "Gold Card Czech Republic"
+        },
+        {
+            "id": "GOLD_CARD_SLOVAKIA",
+            "name": "Gold Card Slovakia"
+        },
+        {
+            "id": "GOLD_CARD_HUNGARY",
+            "name": "Gold Card Hungary"
+        },
+        {
+            "id": "GOLD_CARD_ROMANIA",
+            "name": "Gold Card Romania"
+        },
+        {
+            "id": "MASTERCARD_ELECTRONIC",
+            "name": "MasterCard Electronic"
+        },
+        {
+            "id": "GOLD_CARD_SLOVENIA",
+            "name": "Gold Card Slovenia"
+        },
+        {
+            "id": "GOLD_CARD_EUROPE_EMPLOYEE",
+            "name": "Gold Card Europe Employee"
+        },
+        {
+            "id": "GOLD_CARD_CROATIA",
+            "name": "Gold Card Croatia"
+        },
+        {
+            "id": "GOLD_CARD_BOSNIA-HERZEGOVINA",
+            "name": "Gold Card Bosnia-Herzegovina"
+        },
+        {
+            "id": "GOLD_CARD_SERBIA",
+            "name": "Gold Card Serbia"
+        },
+        {
+            "id": "GIFT_CARD_CZECH_REPUBLIC",
+            "name": "Gift Card Czech Republic"
+        },
+        {
+            "id": "GIFT_CARD_SLOVAKIA",
+            "name": "Gift Card Slovakia"
+        },
+        {
+            "id": "GIFT_CARD_HUNGARY",
+            "name": "Gift Card Hungary"
+        },
+        {
+            "id": "GIFT_CARD_ROMANIA",
+            "name": "Gift Card Romania"
+        },
+        {
+            "id": "GIFT_CARD_CROATIA",
+            "name": "Gift Card Croatia"
+        },
+        {
+            "id": "PARTNER_CARD_CZECH_REPUBLIC",
+            "name": "Partner Card Czech Republic"
+        },
+        {
+            "id": "CIRRUS_MAESTRO",
+            "name": "Cirrus/ Maestro"
+        },
+        {
+            "id": "YELLOW_CARD",
+            "name": "Yellow card"
+        },
+        {
+            "id": "PARTNER_CARD_SLOVAKIA",
+            "name": "Partner Card Slovakia"
+        },
+        {
+            "id": "PARTNER_CARD_HUNGARY",
+            "name": "Partner Card Hungary"
+        },
+        {
+            "id": "PARTNER_CARD_ROMANIA",
+            "name": "Partner Card Romania"
+        },
+        {
+            "id": "PARTNER_CARD_CROATIA",
+            "name": "Partner Card Croatia"
+        },
+        {
+            "id": "PARTNER_CARD_BOSNIA-HERZEGOVINA",
+            "name": "Partner Card Bosnia-Herzegovina"
+        },
+        {
+            "id": "PARTNER_CARD_SERBIA",
+            "name": "Partner Card Serbia"
+        },
+        {
+            "id": "GOLD_CARD_CZECH_REPUBLIC_PREPAID",
+            "name": "Gold Card Czech Republic Prepaid"
+        },
+        {
+            "id": "GOLD_CARD_SLOVAKIA_PREPAID",
+            "name": "Gold Card Slovakia Prepaid"
+        },
+        {
+            "id": "GOLD_CARD_HUNGARY_PREPAID",
+            "name": "Gold Card Hungary Prepaid"
+        },
+        {
+            "id": "GOLD_CARD_ROMANIA_PREPAID",
+            "name": "Gold Card Romania Prepaid"
+        }
+    ],
+    "fuelsAndAdditives": [
+        {
+            "id": "BLUE_DIESEL",
+            "name": "Blue Diesel"
+        },
+        {
+            "id": "CNG",
+            "name": "Cng"
+        },
+        {
+            "id": "AD_BLUE",
+            "name": "Ad Blue"
+        },
+        {
+            "id": "DIESEL",
+            "name": "Diesel"
+        },
+        {
+            "id": "EURO_FUEL_OIL_EXTRA_LIGHT",
+            "name": "Euro Fuel Oil Extra Light"
+        },
+        {
+            "id": "EURODIESEL",
+            "name": "Eurodiesel"
+        },
+        {
+            "id": "EURODIESEL_CLASS_PLUS",
+            "name": "Eurodiesel Class Plus"
+        },
+        {
+            "id": "EUROSUPER_100_CLASS_PLUS",
+            "name": "Eurosuper 100 Class Plus"
+        },
+        {
+            "id": "EUROSUPER_95",
+            "name": "Eurosuper 95"
+        },
+        {
+            "id": "EUROSUPER_95_CLASS_PLUS",
+            "name": "Eurosuper 95 Class Plus"
+        },
+        {
+            "id": "EVO_100_PLUS",
+            "name": "Evo 100 Plus"
+        },
+        {
+            "id": "EVO_95",
+            "name": "Evo 95"
+        },
+        {
+            "id": "EVO_DIESEL",
+            "name": "Evo Diesel"
+        },
+        {
+            "id": "EVO_DIESEL_PLUS",
+            "name": "Evo Diesel Plus"
+        },
+        {
+            "id": "EVO_DIESEL_PLUS__WINTER_DI",
+            "name": "Evo Diesel Plus Winter Di"
+        },
+        {
+            "id": "INA_EURODIESEL_BS_ARKTIK",
+            "name": "Ina Eurodiesel Bs Arktik"
+        },
+        {
+            "id": "LPG",
+            "name": "Lpg"
+        },
+        {
+            "id": "NATURAL_95",
+            "name": "Natural 95"
+        },
+        {
+            "id": "RACING_102",
+            "name": "Racing 102"
+        },
+        {
+            "id": "XXL",
+            "name": "Xxl"
+        }
+    ],
+    "gastros": [
+        {
+            "id": "FRESH_CORNER",
+            "name": "Fresh Corner"
+        },
+        {
+            "id": "FRESH_CORNER_DRIVE",
+            "name": "Fresh Corner Drive"
+        },
+        {
+            "id": "FRESH_SANDWICH",
+            "name": "Fresh Sandwich"
+        },
+        {
+            "id": "HAMBURGER",
+            "name": "Hamburger"
+        },
+        {
+            "id": "HOT_DOG",
+            "name": "Hot Dog"
+        },
+        {
+            "id": "BAKERY",
+            "name": "Bakery"
+        },
+        {
+            "id": "ONE_COURSE_DISH",
+            "name": "One Course Dish"
+        },
+        {
+            "id": "BARISTA_COFFEE",
+            "name": "Barista Coffee"
+        },
+        {
+            "id": "RESTAURANT",
+            "name": "Restaurant"
+        },
+        {
+            "id": "SELF_SERVICE_COFFEE",
+            "name": "Self Service Coffee"
+        },
+        {
+            "id": "SOUP",
+            "name": "Soup"
+        },
+        {
+            "id": "VENDING_MACHINE",
+            "name": "Vending Machine"
+        }
+    ],
+    "services": [
+        {
+            "id": "ACC_RECEIPT",
+            "name": "Acc Receipt"
+        },
+        {
+            "id": "BIKE_WASH",
+            "name": "Bike Wash"
+        },
+        {
+            "id": "BIKEPOINT",
+            "name": "Bikepoint"
+        },
+        {
+            "id": "BUSINESS_LOUNGE",
+            "name": "Business Lounge"
+        },
+        {
+            "id": "COOLANT_TESTER",
+            "name": "Coolant Tester"
+        },
+        {
+            "id": "CYLINDER_PB_GAS",
+            "name": "Cylinder Pb Gas"
+        },
+        {
+            "id": "CZECH_MOTORWAY_VIGNETTE",
+            "name": "Czech Motorway Vignette"
+        },
+        {
+            "id": "DEFIBRILLATOR_AED",
+            "name": "Defibrillator Aed"
+        },
+        {
+            "id": "DIAPER_CHANGING_PAD",
+            "name": "Diaper Changing Pad"
+        },
+        {
+            "id": "DISABLED_TOILET",
+            "name": "Disabled Toilet"
+        },
+        {
+            "id": "DOG_CHIP_READER_PLACE_FRE",
+            "name": "Dog Chip Reader Place Fre"
+        },
+        {
+            "id": "DOG_FRIENDLY",
+            "name": "Dog Friendly"
+        },
+        {
+            "id": "DOG_WASH",
+            "name": "Dog Wash"
+        },
+        {
+            "id": "ELECTRONIC_VEHICLE_CHARGER",
+            "name": "Electronic Vehicle Charger"
+        },
+        {
+            "id": "ENP",
+            "name": "Enp"
+        },
+        {
+            "id": "EURO_PAYMENT_ACCEPTANCE",
+            "name": "Euro Payment Acceptance"
+        },
+        {
+            "id": "ADBLUE_DISPENSER_AVAILABLE",
+            "name": "Adblue Dispenser Available"
+        },
+        {
+            "id": "EVERYDAY_SHOPPING",
+            "name": "Everyday Shopping"
+        },
+        {
+            "id": "AUSTRIAN_MOTORWAY_VIGNETTE",
+            "name": "Austrian Motorway Vignette"
+        },
+        {
+            "id": "EXHAUST_OIL_RECEIPT",
+            "name": "Exhaust Oil Receipt"
+        },
+        {
+            "id": "FAMILY_FITTNESS_PARK",
+            "name": "Family Fittness Park"
+        },
+        {
+            "id": "FAMILY_TOILET",
+            "name": "Family Toilet"
+        },
+        {
+            "id": "FS_IS_ACCESSIBLE_FROM_BOTH",
+            "name": "Fs Is Accessible From Both"
+        },
+        {
+            "id": "GERMAN_MOTORWAY_VIGNETTE",
+            "name": "German Motorway Vignette"
+        },
+        {
+            "id": "HIGH_SPEED_PUMP",
+            "name": "High Speed Pump"
+        },
+        {
+            "id": "AUTOMATIC_CAR_WASH_AVAILABLE",
+            "name": "Automatic Car Wash Available"
+        },
+        {
+            "id": "HOOVER",
+            "name": "Hoover"
+        },
+        {
+            "id": "HUNGARIAN_MOTORWAY_VIGNETTE",
+            "name": "Hungarian Motorway Vignette"
+        },
+        {
+            "id": "INDOOR_KIDS_CORNER",
+            "name": "Indoor Kids Corner"
+        },
+        {
+            "id": "INSURANCE",
+            "name": "Insurance"
+        },
+        {
+            "id": "INTERNET_WIFI",
+            "name": "Internet Wifi"
+        },
+        {
+            "id": "JET_WASH_AVAILABLE",
+            "name": "Jet Wash Available"
+        },
+        {
+            "id": "LOCAL_PRODUCERS_FOOD_PROJE",
+            "name": "Local Producers Food Proje"
+        },
+        {
+            "id": "LOCAL_PRODUCTS",
+            "name": "Local Products"
+        },
+        {
+            "id": "LOTTERY",
+            "name": "Lottery"
+        },
+        {
+            "id": "LUBRICANT",
+            "name": "Lubricant"
+        },
+        {
+            "id": "MONEY_EXCHANGE",
+            "name": "Money Exchange"
+        },
+        {
+            "id": "MOTORBIKE_PARKING",
+            "name": "Motorbike Parking"
+        },
+        {
+            "id": "NR_WINDFLUID_DISPENSER",
+            "name": "Nr Windfluid Dispenser"
+        },
+        {
+            "id": "OUTD_CHILDREN_PLAYGROUND",
+            "name": "Outd Children Playground"
+        },
+        {
+            "id": "OUTDOOR_PAYMENT_NIGHT",
+            "name": "Outdoor Payment Night"
+        },
+        {
+            "id": "OUTDOOR_PAYMENT_POSSIBILITY",
+            "name": "Outdoor Payment Possibility"
+        },
+        {
+            "id": "PAY_AT_PUMP",
+            "name": "Pay At Pump"
+        },
+        {
+            "id": "PAYMENT_TOILET",
+            "name": "Payment Toilet"
+        },
+        {
+            "id": "PHARMACY",
+            "name": "Pharmacy"
+        },
+        {
+            "id": "PICK_PACK_PONT",
+            "name": "Pick Pack Pont"
+        },
+        {
+            "id": "POLISH_MOTORWAY_VIGNETTE",
+            "name": "Polish Motorway Vignette"
+        },
+        {
+            "id": "POSTAPONT",
+            "name": "Postapont"
+        },
+        {
+            "id": "PRE_PACKED_SANDWICH",
+            "name": "Pre Packed Sandwich"
+        },
+        {
+            "id": "PUMP",
+            "name": "Pump"
+        },
+        {
+            "id": "BIG_ENOUGH_TO_FIT_A_TRUCK",
+            "name": "Big Enough To Fit A Truck"
+        },
+        {
+            "id": "ROMANIAN_ROAD_VIGNETTE",
+            "name": "Romanian Road Vignette"
+        },
+        {
+            "id": "SCREENWASH_VIA_DISPENSER",
+            "name": "Screenwash Via Dispenser"
+        },
+        {
+            "id": "SHOP",
+            "name": "Shop"
+        },
+        {
+            "id": "SHOWER_ROOM",
+            "name": "Shower Room"
+        },
+        {
+            "id": "SLOVAK_MOTORWAY_VIGNETTE",
+            "name": "Slovak Motorway Vignette"
+        },
+        {
+            "id": "SLOVENIAN_MOTORWAY_VIGNETT",
+            "name": "Slovenian Motorway Vignett"
+        },
+        {
+            "id": "TOLL_TERMINAL",
+            "name": "Toll Terminal"
+        },
+        {
+            "id": "BIKE_TOOLKIT",
+            "name": "Bike Toolkit"
+        },
+        {
+            "id": "TRUCK_FRIENDLY",
+            "name": "Truck Friendly"
+        },
+        {
+            "id": "TRUCK_PARK",
+            "name": "Truck Park"
+        },
+        {
+            "id": "USED_COOKING_OIL",
+            "name": "Used Cooking Oil"
+        }
+    ]
 }
