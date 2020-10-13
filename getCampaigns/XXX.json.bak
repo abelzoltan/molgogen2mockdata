@@ -132,9 +132,9 @@
 			"campaignName":"Sandwich club",
 			"campaignDescription": "Buy 10 sandiches to get 1 free!",
 			"campaignDateFrom": "2020-05-14T07:59:00+0000",
-			"campaignDateTo": "2020-09-16T07:59:00+0000",
-			"memberCampaignStatus":"Completed",
-			"memberCompletionDate": "2020-09-13T07:59:00+0000",
+			"campaignDateTo": "2020-08-16T07:59:00+0000",
+			"memberCampaignStatus":"Planned",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "gastro_challenge",
 			"milestones": [
@@ -164,9 +164,9 @@
 			"campaignName":"Sandwich club",
 			"campaignDescription": "Buy 10 sandiches to get 1 free!",
 			"campaignDateFrom": "2020-05-21T07:59:00+0000",
-			"campaignDateTo": "2020-09-16T07:59:00+0000",
+			"campaignDateTo": "2020-08-16T07:59:00+0000",
 			"memberCampaignStatus":"Planned",
-			"memberCompletionDate": "2020-08-13T07:59:00+0000",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "gastro_challenge",
 			"milestones": [
@@ -196,12 +196,20 @@
 			"campaignDescription": "Buy any item from the shop on wednesday with name contains 'Croatia' to get 10% discount!",
 			"campaignDateFrom": "2020-06-01T13:00:00+0000",
 			"campaignDateTo": "2020-09-16T07:59:00+0000",
-			"memberCampaignStatus":"Completed",
-			"memberCompletionDate": "2020-09-13T07:59:00+0000",
+			"memberCampaignStatus":"In_Progress",
+			"memberCompletionDate": "2020-07-13T07:59:00+0000",
 			"nrBenefitUsageDays":34,
 			"campaignGroupName": "other",
 			"milestones": [
-				
+				{
+					"name":"The best day of the week is wednesday in Croatia!",
+					"description":"You can not use this discount for multiple goods.",
+					"type":"Action_Series",
+					"status":"In_Progress",
+					"requiredCredits":1,
+					"completedCredits":0,
+					"pendingCredits":1
+				}
 			]
 		}
 	]

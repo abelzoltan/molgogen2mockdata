@@ -1,33 +1,39 @@
 {
-	"id":"XXX",
-	"firstName":"TestCustomer",
-	"lastName":"TestLastName",
-	"dateOfBirth":"425298184000",
-	"country": "HR",
-	"email": "testcustomer@gmail.com",
-	"gender": "Male",
-	"mailingCity": "Zagreb",
-	"mailingCode": "01234",
-	"phoneNumber": "+385784234123",
-	"prefferedCommunicationChannel": "SMS",
-	"prefferedLanguage": "HR",
-	"registrationType": "MOL_GO_App",
-	"loyaltyCard": 3268462842,
-	"status": "Not_Verified",
-	"registrationDate": "2020-09-01",
-	"contactKey": "0013O00000EOmG5QCC",
-	"consents": [
-        {"name": "GDPRGeneralMarketingConsent",
-          "value": true},
-        {"name": "GDPRPersonalizedMarketingConsent",
-          "value": true},
-        {"name": "GDPRLegalAgeConsent",
-          "value": true},
-        {"name": "privacyPolicyConsent",
-          "value": true,
-          "newVersion": true},
-        {"name": "termsConditionsConsent",
-          "value": true,
-          "newVersion": true}
-      ]
+    "id": "XXX",
+    "firstName": "Željko",
+    "lastName": "Herceg",
+    "dateOfBirth": "1974-12-12",
+    "country": "HR",
+    "email": "zeljkoherceg1974@gmail.com",
+    "gender": "Male",
+    "mailingCity": "Vinkovci",
+    "mailingCode": "32100",
+    "phoneNumber": "+38598845214",
+    "preferredCommunicationChannel": "Viber",
+    "loyaltyCard": 7583002200160279,
+    "status": "Active",
+    "contactKey": "0033X00003LY7IpQAL",
+    "registrationDate": "2020-09-27T00:59:21+02:00",
+    "consents": [
+        {
+            "name": "GDPRGeneralMarketingConsent",
+            "value": true
+        },
+        {
+            "name": "GDPRPersonalizedMarketingConsent",
+            "value": true
+        },
+        {
+            "name": "GDPRLegalAgeConsent",
+            "value": true
+        },
+        {
+            "name": "privacyPolicyConsent",
+            "value": true
+        },
+        {
+            "name": "termsConditionsConsent",
+            "value": true
+        }
+    ]
 }
