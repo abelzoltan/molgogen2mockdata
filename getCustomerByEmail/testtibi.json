@@ -2,7 +2,6 @@
 	"id":"testtibi",
 	"firstName":"TestCustomer",
 	"lastName":"TestLastName",
-	"dateOfBirth":"425298184000",
 	"country": "HR",
 	"email": "testcustomer@gmail.com",
 	"gender": "Male",
